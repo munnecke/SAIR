@@ -12,7 +12,7 @@ keywords: ["SIR platform","SID research identity","SIR Connect","open benchmarks
 
 ## Summary
 
-The SIR Foundation presented its vision for a unified open science and AI research platform, founded by Professor Terrence Tao, Professor Barry Barish, and Chuck Ing, with an advisory board including Randy Shechman, Lenor Blum, Manuel Blum, and Jeffrey Olman. The platform is designed around a dual mandate: using AI for science (expanding the scale, speed, and reach of scientific exploration) and using science for AI (creating practical tests for reasoning, reliability, interpretability, and evaluation). The overarching goal is to build open research infrastructure where data, tools, models, benchmarks, and citations become reusable assets rather than siloed outputs.
+The [[SIR Foundation]] presented its vision for a unified open science and AI research platform, founded by Professor Terrence [[Terence Tao|Tao]], Professor [[Barry Barish]], and [[Chuck Ing]], with an advisory board including Randy Shechman, Lenor Blum, Manuel Blum, and Jeffrey Olman. The platform is designed around a dual mandate: using AI for science (expanding the scale, speed, and reach of scientific exploration) and using science for AI (creating practical tests for reasoning, reliability, interpretability, and evaluation). The overarching goal is to build open research infrastructure where data, tools, models, benchmarks, and citations become reusable assets rather than siloed outputs.
 
 The platform architecture connects four verticals — science, industry, builders, and capital — and is anchored by a community of over 650,000 members with access to podcasts, live events, and interviews with leading scientists. The core research loop flows from open problem to open artifact: problems and datasets feed into competitions, competitions yield solutions tested in a computational playground, and those solutions produce open benchmarks enabling cross-team comparison. A SIR API underpins this pipeline and supports a contributor network for collaborative discovery.
 
@@ -22,9 +22,9 @@ The platform explicitly targets equitable global access: its open models, built 
 
 ## Transcript
 
-[0:55:51] So, I'm sure you've heard from Professor Terren a little bit, but there is a vision that we're going for here at SIR. We want to make a platform that is for open science and AI research.
+[0:55:51] So, I'm sure you've heard from Professor Terren a little bit, but there is a vision that we're going for here at [[SIR Foundation]]. We want to make a platform that is for open science and AI research.
 
-[0:56:29] I'm sure a lot of these people are very familiar to you but we have some very very important individuals with us. We have of course professor Terrence Tao, we have professor Barry Barish and we have Chuck Ing as our co-founders and for our advisory board we have Randy Shechman, we have Lenor Blum and we have Manuel Blum as well as Jeffrey Olman.
+[0:56:29] I'm sure a lot of these people are very familiar to you but we have some very very important individuals with us. We have of course professor [[Terence Tao]], we have professor [[Barry Barish]] and we have [[Chuck Ing]] as our co-founders and for our advisory board we have Randy Shechman, we have Lenor Blum and we have Manuel Blum as well as Jeffrey Olman.
 
 [0:56:56] So what do we aim to do as a platform? We want SIR to be a space where we can turn science and AI into some sort of open collaboration platform. We want to use AI for science where AI can expand the scale, speed, and reach of scientific exploration. We want there to be science for AI where scientific tasks can create practical tests for reasoning, reliability, interpretability, and evaluation. And with all this, we want to create an open research infrastructure that allows data, tools, models, benchmarks, and citations to become reusable.
 

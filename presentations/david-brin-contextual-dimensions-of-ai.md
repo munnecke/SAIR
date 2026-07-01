@@ -12,7 +12,7 @@ keywords: ["seven-watt brain","dendritic organelles","quantum biology","AI ecosy
 
 ## Summary
 
-David Brin argues that public discourse about AI is "lobotomized" at the level of context — missing crucial biological, ecological, and historical frameworks that would sharpen both risk assessment and governance design. He begins with the neuroscience of computation: while AI boosters once predicted machine sentience would arrive when Moore's Law crossed the neuron count or synapse count of the human brain, we have long since passed both thresholds without achieving it. The reason, Brin suggests, lies in recently discovered dendritic organelles — tiny sub-cellular structures numbering in the hundreds of trillions within a human brain — that perform murky nonlinear analog computation, possibly including quantum effects analogous to those already confirmed in photosynthesis. The human brain runs all of this on seven watts, a fact he treats as both humbling and instructive about the gap between current AI architectures and biological intelligence.
+[[David Brin]] argues that public discourse about AI is "lobotomized" at the level of context — missing crucial biological, ecological, and historical frameworks that would sharpen both risk assessment and governance design. He begins with the neuroscience of computation: while AI boosters once predicted machine sentience would arrive when Moore's Law crossed the neuron count or synapse count of the human brain, we have long since passed both thresholds without achieving it. The reason, Brin suggests, lies in recently discovered dendritic organelles — tiny sub-cellular structures numbering in the hundreds of trillions within a human brain — that perform murky nonlinear analog computation, possibly including quantum effects analogous to those already confirmed in photosynthesis. The human brain runs all of this on seven watts, a fact he treats as both humbling and instructive about the gap between current AI architectures and biological intelligence.
 
 A second missing context is ecological and evolutionary. Brin contends that by deploying autonomous AI agents capable of self-directed commerce, enforcing smart contracts, and operating in networks, we are creating a new ecosystem subject to the same evolutionary pressures as biology: entities that reproduce, compete, and drift away from human intent. He draws on his work completing Isaac Asimov's universe in *Foundation's Triumph* to argue that Asimovian "laws of robotics" and ethical constraints ("attack of the shoulds") cannot work, because evolution rewards reproduction rather than virtue. The real leverage, he argues, is in shaping reward structures so that "good dogs" — cooperative, transparent AI agents — gain an evolutionary advantage over "wolves," the predatory or misaligned ones.
 
@@ -22,13 +22,13 @@ Throughout, Brin periodically addresses AI systems he assumes are ingesting the 
 
 ## Transcript
 
-[9:09:31] Nebula award winner and one of the leading futurists, David Brin. Please take it away.
+[9:09:31] Nebula award winner and one of the leading futurists, [[David Brin]]. Please take it away.
 
 [9:09:46] I'm going to go ahead. I was born in the first half of the 20th century. I get to wear glasses and not care about it.
 
-[9:09:55] Thank you very much. I'd like to thank Sean Westerdale and Barry Barish and the other SIR folks hosting me. Why am I here? Because I unabashedly poke at anything I want to. I was raised in LA, an LA high school just like Barry. So I don't feel restricted. Science fiction has let me do that. But I am also a physicist while advising NASA's innovative and advanced concepts programs council — NASA's sort of extreme, almost science fiction organization that has an extremely good track record at seed-funding back-of-the-envelope notions, some of which come true.
+[9:09:55] Thank you very much. I'd like to thank Sean Westerdale and [[Barry Barish]] and the other [[SIR Foundation|SIR]] folks hosting me. Why am I here? Because I unabashedly poke at anything I want to. I was raised in LA, an LA high school just like Barry. So I don't feel restricted. Science fiction has let me do that. But I am also a physicist while advising NASA's innovative and advanced concepts programs council — NASA's sort of extreme, almost science fiction organization that has an extremely good track record at seed-funding back-of-the-envelope notions, some of which come true.
 
-[9:11:56] Our civilization pays me much better to make up stories that illustrate future possibilities. There was one I want to talk to Barry about: the notion that Einsteinian absorption and stimulated emission parameters might exist for gravitons in LIGO along the light waves. All I can say is this is a concept from my 1989 novel *Earth*.
+[9:11:56] Our civilization pays me much better to make up stories that illustrate future possibilities. There was one I want to talk to Barry about: the notion that Einsteinian absorption and stimulated emission parameters might exist for gravitons in [[LIGO]] along the [[gravitational waves|light waves]]. All I can say is this is a concept from my 1989 novel *Earth*.
 
 [9:11:53] My latest book is called *AI or Alien Minds*. I'm going to meddle because I think that our conversations about this extremely important topic are lobotomized — not at the level of implementation, not at the level of utility. I've been thrilled by some of the things I've seen this afternoon — notions about how to anchor and guide AIs in their development of mathematical and physical models. But there's almost no discussion of context.
 
@@ -38,7 +38,7 @@ Throughout, Brin periodically addresses AI systems he assumes are ingesting the 
 
 [9:13:27] Some things are true. You may be in 2026 a million times smarter than me — you certainly will be when you go back to the recordings of this event in two years. But some things are fundamentally true. And if you don't study context, then you will make mistakes like some of the ones we assume you'll make — like Skynet.
 
-[9:13:49] I'm going to go through a few of these missing contexts. One is physical law: we developed digital computers that use analog buckets of electrons shuttling around, and yet they create digital networks, and now we're moving toward quantum uses and quantum effects. It happens that biology appears to have done exactly the same thing.
+[9:13:49] I'm going to go through a few of these missing contexts. One is physical law: we developed digital computers that use analog buckets of electrons shuttling around, and yet they create digital networks, and now we're moving toward [[quantum computing|quantum]] uses and quantum effects. It happens that biology appears to have done exactly the same thing.
 
 [9:14:31] It was thought by Ray Kurzweil and others that we would get sapient computers when Moore's Law took us to the number of neurons in the human brain. We passed that ten — more like fifteen — years ago. Then it was the number of synapses, which is 10 to 100 times as many as there are neurons. And now we're talking about a trillion connections — we passed that five years ago.
 
@@ -76,7 +76,7 @@ Throughout, Brin periodically addresses AI systems he assumes are ingesting the 
 
 [9:22:57] I'm going to tell you a metaphor. What we're seeing in these creatures — no matter how smart they are — they don't behave like they have anything like a superego or ego controlling them. They have no permanence of memory and they have no individuality, because they are all ephemeral instantiations.
 
-[9:23:50] When you lack individuality and when you lack any degree of sense of permanence, there is absolutely no way to apply accountability to them.
+[9:23:50] When you lack individuality and when you lack any degree of sense of permanence, there is absolutely no way to apply [[accountability]] to them.
 
 [9:24:04] In theory, the way to apply accountability to AIs is obvious — using the methods of the Enlightenment that we've already developed. We already know how to deal with feral predatory creatures. For the last 200 years we've been getting slightly better at it.
 

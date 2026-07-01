@@ -12,7 +12,7 @@ keywords: ["UC Riverside","Hispanic Serving Institution","Pell Grant","first-gen
 
 ## Summary
 
-UC Riverside is the only research university in Inland Southern California, serving a region of five million people across Riverside and San Bernardino counties — a population that, if considered a state, would rank 25th in the nation. The region is one of America's fastest-growing and most diverse, serving as a major logistics corridor where Highways 215, 91, and 60 converge, and increasingly shaped by healthcare, biotechnology, advanced manufacturing, and clean transportation. Despite its economic significance, the region has historically received less investment in higher education, research, and innovation than other parts of California — a gap that UCR is positioned to close.
+[[UC Riverside]] is the only research university in Inland Southern California, serving a region of five million people across Riverside and San Bernardino counties — a population that, if considered a state, would rank 25th in the nation. The region is one of America's fastest-growing and most diverse, serving as a major logistics corridor where Highways 215, 91, and 60 converge, and increasingly shaped by healthcare, biotechnology, advanced manufacturing, and clean transportation. Despite its economic significance, the region has historically received less investment in higher education, research, and innovation than other parts of California — a gap that UCR is positioned to close.
 
 UCR holds a distinctive position as the only Association of American Universities (AAU) member institution that is simultaneously a Hispanic Serving Institution (HSI) and an Asian American, Native American, and Pacific Islander Serving Institution (AANAPISI). Its undergraduate student body is 37% Hispanic and 33% Asian Pacific Islander and Native American — together 70% of undergraduates. More than 40% receive Pell Grants, and close to half are first-generation college students, yet Pell Grant recipients graduate at essentially the same rate as non-recipients. For five of the last seven years, US News and World Report has ranked UC Riverside number one in social mobility. The Chancellor frames this not as a tension between excellence and access, but as proof that these goals reinforce each other — achieved at scale with 7,000–8,000 graduates per year.
 
@@ -22,7 +22,7 @@ Looking forward, the Chancellor cast UCR as a bridge connecting Northern and Sou
 
 ## Transcript
 
-[2:37:54] I have the opportunity to explain UC Riverside and my priorities. I won't talk about AI and science, but I want to talk about our priorities.
+[2:37:54] I have the opportunity to explain [[UC Riverside]] and my priorities. I won't talk about AI and science, but I want to talk about our priorities.
 
 [2:38:09] UC Riverside — we're one of the 10 campuses of the University of California, but we're the only research university in Inland Southern California.
 

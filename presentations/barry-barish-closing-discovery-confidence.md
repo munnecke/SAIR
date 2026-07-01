@@ -12,9 +12,9 @@ keywords: ["five-sigma standard","scientific discovery confidence","statistical 
 
 ## Summary
 
-Barry Barish closes the summit by identifying what he sees as a critical and unaddressed gap in the day's discussions: the problem of discovery confidence in AI-augmented science. Physics has long relied on the five-sigma standard as a threshold for claiming a discovery — a convention that emerged not from pure Gaussian statistics, but from the pragmatic recognition that real experimental data does not exhibit perfectly Gaussian tails. This standard has become a shared language for scientists and even the general public, with outlets like the New York Times routinely reporting sigma levels when covering new observations.
+[[Barry Barish]] closes the summit by identifying what he sees as a critical and unaddressed gap in the day's discussions: the problem of discovery confidence in AI-augmented science. Physics has long relied on the [[five-sigma standard]] as a threshold for claiming a discovery — a convention that emerged not from pure Gaussian statistics, but from the pragmatic recognition that real experimental data does not exhibit perfectly Gaussian tails. This standard has become a shared language for scientists and even the general public, with outlets like the New York Times routinely reporting sigma levels when covering new observations.
 
-As AI increasingly assists in scientific analysis — from Monte Carlo simulations to experimental design, synthesis, and data interpretation — Barish argues that the field faces a fundamental epistemological problem: there is no established equivalent of the five-sigma standard for AI-assisted discovery claims. AI scoring systems exist, but their scores tend to be overoptimistic, and while methods for correcting this bias are being developed, none have reached the level of rigor required to convince the scientific community that a genuine discovery has been made.
+As AI increasingly assists in scientific analysis — from Monte Carlo simulations to experimental design, synthesis, and data interpretation — Barish argues that the field faces a fundamental epistemological problem: there is no established equivalent of the [[five-sigma standard]] for AI-assisted discovery claims. AI scoring systems exist, but their scores tend to be overoptimistic, and while methods for correcting this bias are being developed, none have reached the level of rigor required to convince the scientific community that a genuine discovery has been made.
 
 Barish notes that despite an entire day of presentations on AI and science, no speaker addressed how scientists will actually validate discoveries made with AI assistance. He frames this not as a criticism of the day's content — which covered genuine advances in how AI improves experimental methods — but as a challenge for the field going forward: developing a statistical or equivalent framework that provides the same epistemic confidence in AI-augmented analyses that classical statistics provides in traditional experimental science. He calls this an entirely unsolved problem.
 
@@ -22,11 +22,11 @@ Barish notes that despite an entire day of presentations on AI and science, no s
 
 [9:35:39] then measure how statistically significant it is and we magically have decided somehow because of the not pure statistics because it doesn't behave that way.
 
-[9:35:49] We don't have pure Gaussian tales that five sigma is what scientists believe.
+[9:35:49] We don't have pure Gaussian tales that [[five-sigma standard|five sigma]] is what scientists believe.
 
-[9:35:54] And if you read the New York Times or anything, they publish a new observation and they'll tell you that it's only three sigma. So maybe we have to wait or it's five sigma. And that's what we've lived with.
+[9:35:54] And if you read the New York Times or anything, they publish a new observation and they'll tell you that it's only three sigma. So maybe we have to wait or it's [[five-sigma standard|five sigma]]. And that's what we've lived with.
 
-[9:36:09] Now we enter the new era where we have AI and when we have AI and it helps us to make a discovery how are we going to know and how are we going to establish the equivalence of five sigma if you want or statistics and to me that's a stumbling block
+[9:36:09] Now we enter the new era where we have AI and when we have AI and it helps us to make a discovery how are we going to know and how are we going to establish the equivalence of [[five-sigma standard|five sigma]] if you want or statistics and to me that's a stumbling block
 
 [9:36:33] because we can talk about everything we did today and it'll improve how we do Monte Carlos it'll improve how we produce experiments themselves, how we design them, how we synthesize them, how we analyze them,
 
