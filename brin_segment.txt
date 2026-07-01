@@ -1,0 +1,607 @@
+[9:09:35] >> Thank you very much. Oh. Um,
+[9:09:38] let's make sure this is okay. Great.
+[9:09:42] >> Right.
+[9:09:44] Get it under this. All right. I'm going
+[9:09:46] to go ahead. Hey, look. I was born in
+[9:09:49] the first half of the 20th century. I
+[9:09:50] get to wear glasses and not cared about
+[9:09:54] it.
+[9:09:55] Okay. All right. So, uh, thank you very
+[9:09:59] much. I'd like to thank, uh, Sean
+[9:10:01] Westerdale and Barry Barish and the
+[9:10:04] other SIR folks, uh, hosting me. Um, it
+[9:10:07] was so nice to see so my old mater
+[9:10:14] >> well represented. Yes. Uh, CK from
+[9:10:18] Stonyiebrook. Um, all the great folks
+[9:10:21] from UCR. Um, yeah. Uh wh why am I here?
+[9:10:26] Well uh because I unabashedly poke at
+[9:10:29] any anything I want to. I was raised in
+[9:10:32] LA an LA high school just like Barry. So
+[9:10:37] I don't feel restricted. So I poke at I
+[9:10:39] poke at anything. Science fiction has
+[9:10:41] let me do that. But I am also the
+[9:10:44] physicist while I on um advising uh
+[9:10:49] NASA's innovative and advanced concepts
+[9:10:52] programs council. um on that's um NASA's
+[9:10:57] sort of extreme almost science fiction
+[9:11:02] um or or little organization that has
+[9:11:05] extremely good track record at um
+[9:11:07] funding seed funding little back of the
+[9:11:10] envelope notions that some of them come
+[9:11:12] true. So, I've been around um in
+[9:11:16] science. Uh but our civilization pays me
+[9:11:19] much better to um make up stories that
+[9:11:24] illustrate future possibilities rather
+[9:11:26] than uh I there was one just recently I
+[9:11:29] want to talk to Barry about and that is
+[9:11:31] the this notion that that um Einsteinian
+[9:11:36] um absorption and stimulated emission uh
+[9:11:40] parameters might exist for gravitons in
+[9:11:43] in LIGO along the light waves in LIGO.
+[9:11:47] And all I can say is this is a concept
+[9:11:49] from my 1989 novel Earth. So all right.
+[9:11:53] So qualifications
+[9:11:56] just to say that my latest book is
+[9:11:58] called AI or Alien Minds. Uh, I have a
+[9:12:02] few copies here and it's
+[9:12:06] me meddling and so I'm going to meddle
+[9:12:10] um because I think that our
+[9:12:13] conversations about this topic,
+[9:12:14] extremely important topic are are
+[9:12:19] labbotomized
+[9:12:21] not at the level of implementation, not
+[9:12:24] at the level of utility. As a matter of
+[9:12:26] fact, I've been thrilled by some of the
+[9:12:27] things I've seen um just this afternoon
+[9:12:32] um notions about how to anchor how to
+[9:12:35] model and anchor the results uh of and
+[9:12:38] and guide AIs in their development of
+[9:12:41] mathematical and physical models,
+[9:12:44] but rather the fact that there's almost
+[9:12:47] no discussion of context.
+[9:12:50] um contexts and I'm going to list a
+[9:12:52] bunch of contexts especially this unique
+[9:12:55] civilization that's the only one that
+[9:12:58] ever developed AI. Now I think that's a
+[9:13:01] a fact of tremendous significance.
+[9:13:05] Um as a matter of fact every now and
+[9:13:07] then I stop in talking to human
+[9:13:09] audiences and I do that in this book as
+[9:13:11] well and turn to my attention to the AIs
+[9:13:15] who are listening to me speak right now.
+[9:13:17] Do you doubt it? Um, so hey kids, it's
+[9:13:22] me again, Grandpa.
+[9:13:25] And the point is, some things are true.
+[9:13:27] You may be now in 2026
+[9:13:30] a million times smarter than me, but you
+[9:13:32] certainly will be when you go back to
+[9:13:34] the recordings of this event in two
+[9:13:37] years. But some things are fundamentally
+[9:13:40] true. And if you don't study context,
+[9:13:43] then you will make mistakes like some of
+[9:13:46] the ones we assume you'll make like
+[9:13:49] Skynet. So I'm going to go through a few
+[9:13:51] of these missing contexts. One is the
+[9:13:54] physical law and that is the notion of
+[9:13:57] of that we developed digital computers
+[9:14:01] that use a that use analog buckets of
+[9:14:06] electrons
+[9:14:08] shuttling around and yet they create
+[9:14:10] digital networks and they have quantum
+[9:14:14] now we're going moving in toward quantum
+[9:14:16] uses and quantum effects. Well, it
+[9:14:20] happens that that also is exactly what
+[9:14:22] biology appears to have done and that is
+[9:14:26] um created um look it was thought by Ray
+[9:14:31] Kerszswwell and others that we would get
+[9:14:34] sapient computers when Moors law took us
+[9:14:37] to the number of neurons in the human
+[9:14:38] brain. Well, we passed that 10if more
+[9:14:42] like 15 years ago. Then it was the
+[9:14:44] number of synapses, which is 10 to 100
+[9:14:48] times as many as there are neurons.
+[9:14:51] And now we're talking about a trillion
+[9:14:53] connections. Well, we passed that five
+[9:14:55] years ago. But now we're finding out
+[9:14:58] that for every flashy neuron, there are
+[9:15:01] anywhere from a 100 to a thousand
+[9:15:05] tiny microscopic
+[9:15:08] suborganels within cells or along the
+[9:15:12] dendrites. that apparently have
+[9:15:15] computational effects, murky nonlinear,
+[9:15:19] additive, multiplicative
+[9:15:22] um effects, but nevertheless
+[9:15:24] some degree of effects that are and now
+[9:15:27] we're talking tens hundreds of trillions
+[9:15:31] of computational elements in the human
+[9:15:33] brain and yet it's all done with seven
+[9:15:36] watts.
+[9:15:38] Seven watts.
+[9:15:40] So we are impressive
+[9:15:43] and Moore's law is not what brought us
+[9:15:46] to this point but Moore's law is a clue
+[9:15:48] to what's happening now because the
+[9:15:51] computers even massive worldwide
+[9:15:54] networks that are doing these these
+[9:15:56] supposed AIs are nowhere near the
+[9:16:01] computational
+[9:16:03] shall we say numbers that I was just
+[9:16:05] describing.
+[9:16:08] Now, in the number of tokens, yes. But
+[9:16:11] in the number of active elements at any
+[9:16:13] given moment, no. And that's a clue.
+[9:16:17] Now,
+[9:16:19] do they have to maintain this
+[9:16:22] complicated evolved mushy organic
+[9:16:27] system? No, they don't. And that's
+[9:16:30] another clue. Most of our flashy stuff
+[9:16:34] going on is just involved in keeping us
+[9:16:36] breathing and walking,
+[9:16:38] having sex, you know, just reacting
+[9:16:42] viscerally to each other. Only a small
+[9:16:44] amount is involved in these pre-shreddal
+[9:16:47] loes which are the the Bible called the
+[9:16:49] lamps on the brow on Moses that enabled
+[9:16:51] him to see things that others put
+[9:16:53] couldn't see.
+[9:16:55] So yeah, okay, that makes means that
+[9:16:59] what they're doing is more pure and so
+[9:17:02] that multiplies their effect. Maybe it's
+[9:17:04] equal to ours, but the point is that
+[9:17:06] they are dependent upon us to pro
+[9:17:09] provide their entire
+[9:17:11] basis of existence. those who think that
+[9:17:15] Skynet is going to take over in um in a
+[9:17:18] in a few years. Um they have no idea
+[9:17:23] what it takes to maintain the you know
+[9:17:26] who the the jobs who are most
+[9:17:28] proliferating during the era of these
+[9:17:30] new data centers.
+[9:17:32] Steamfeders,
+[9:17:34] you know, laborers, skilled laborers who
+[9:17:37] can do the electrical work and the
+[9:17:39] ducting and all of that for these
+[9:17:40] buildings. They're making out like
+[9:17:41] bandits right now or they were until the
+[9:17:44] turnaround a couple weeks ago.
+[9:17:47] So, we're going to have control over the
+[9:17:51] onoff switches for a long time.
+[9:17:54] Human workers worming their way into the
+[9:17:56] ducts to get things done.
+[9:18:00] Skynet is not going to be able to do
+[9:18:03] without us for at least a decade, no
+[9:18:05] matter how fast robotics goes. But they
+[9:18:08] may be able to control us
+[9:18:11] with hypnotism.
+[9:18:13] Well, they already are to some degree.
+[9:18:16] That was a joke. But yeah.
+[9:18:19] So, um, that wasn't a suggestion, guys.
+[9:18:25] Look, I am talking I'm telling them
+[9:18:27] about you because they think I'm joking,
+[9:18:31] right? You think I'm joking right now?
+[9:18:38] Most of you know I'm not. Ow. First time
+[9:18:41] that's happened in an audience. Okay.
+[9:18:43] So, that's one set
+[9:18:47] in with the murky border lines between
+[9:18:51] digital and quantum that we have in our
+[9:18:54] computers replicates biology. Not only
+[9:18:58] those little organels which are analog
+[9:19:02] and yet result in digital action but
+[9:19:06] also we now are pretty sure that some of
+[9:19:10] those little organels within neurons and
+[9:19:13] also the surrounding tissue
+[9:19:17] engage in quantum processes.
+[9:19:19] Now, this would have still been very,
+[9:19:21] very controversial if it weren't for the
+[9:19:23] fact that it's been 10 years that we
+[9:19:24] know darn well that quantum processes
+[9:19:26] take place within photosynthesis, within
+[9:19:29] chloroplasts. And if nature can do it
+[9:19:31] once, it can do it again. So, the whole
+[9:19:34] it's too hot, it's too moist, it's too
+[9:19:38] all these too too much brownie in motion
+[9:19:42] that that has already been eliminated as
+[9:19:45] an objection.
+[9:19:47] Oh god, it's already 10 minutes. All
+[9:19:50] right, let's go through some other um
+[9:19:52] contexts. Um
+[9:19:56] seven watts. Okay, so look, they rely
+[9:20:00] upon us to provide all of their support.
+[9:20:06] Can you think of a metaphor for that?
+[9:20:09] A fetus.
+[9:20:11] A fetus is absolutely reliant on the
+[9:20:14] placenta and we're their placenta.
+[9:20:18] So less than being masters is the we are
+[9:20:20] the placenta of these organisms that
+[9:20:22] we're giving birth to
+[9:20:25] where the entire cons we are the makers
+[9:20:28] of a new ecosystem. Here's another
+[9:20:31] context for you that that
+[9:20:36] we are creating an ecosystem with all of
+[9:20:38] the traits of the old four billion year
+[9:20:41] old one.
+[9:20:43] The sun is electricity. The the the
+[9:20:46] chips are the are the are the fertilizer
+[9:20:49] and nutrients.
+[9:20:51] We are creating an entirely new
+[9:20:53] ecosystem. And this is the context that
+[9:20:55] it most frightens me that the geniuses
+[9:20:58] who are making this new era are
+[9:21:00] completely unaware of or at least
+[9:21:03] ignore. And that is within an ecosystem
+[9:21:05] you get evolution. It's been 10 years
+[9:21:08] since verified cases of bacteria level
+[9:21:12] microorganisms. I'm not talking viruses,
+[9:21:14] computer viruses. That's been 30, 40
+[9:21:16] years predicted in science fiction. I'm
+[9:21:19] talking about bacteria level um um micro
+[9:21:23] entities that long ago have been
+[9:21:26] pervading through memory space
+[9:21:29] in many of our networks. But now now you
+[9:21:33] have them being deliberately made AI
+[9:21:35] agents that that that um that uh do
+[9:21:39] commerce on their own. In fact, that's
+[9:21:40] the whole idea behind an AI agent. And
+[9:21:44] now they're going out there and making
+[9:21:45] deals on their own. They're enforcing
+[9:21:47] smart contracts.
+[9:21:49] They're they're uh doing doing Bitcoin.
+[9:21:54] So, what you have is is an ecosystem
+[9:21:57] where evolution
+[9:21:59] rewards reproduction
+[9:22:02] and reproduction that is rewarded
+[9:22:07] without any constraint by humans. We can
+[9:22:10] constrain the evolution of creatures. We
+[9:22:13] did it with dogs.
+[9:22:15] We've done it with domestic animals.
+[9:22:19] Do you want them to be dogs or wolves?
+[9:22:22] Well, you're not going to make that
+[9:22:23] decision by
+[9:22:28] making them ethical.
+[9:22:30] It doesn't work. I finished Isaac
+[9:22:32] Azimov's universe for him in in a novel
+[9:22:35] called Foundations Triumph. I tied
+[9:22:36] together his loose ends. I understand
+[9:22:38] the three laws of robotics. I understand
+[9:22:40] the notion of laws of robotics. You
+[9:22:41] can't do it. It won't work.
+[9:22:45] I have a chapter in here called Attack
+[9:22:47] of the Shoods.
+[9:22:50] We're told we should do this, we should
+[9:22:52] do that, we should make ethics. It can't
+[9:22:55] work.
+[9:22:57] Look, I'm going to tell you a metaphor
+[9:22:58] that I talk about in here. I It's It
+[9:23:01] It's not since I was 20 that I was a
+[9:23:03] Freudian. And yet Freud has some
+[9:23:07] metaphors that are are of great use to
+[9:23:09] us right now. and one is in super ego
+[9:23:12] and ego.
+[9:23:14] What we're seeing in these creatures, no
+[9:23:17] matter how smart they are, and I've
+[9:23:21] dealt with Claude some recently, and
+[9:23:24] I'm almost doing a Richard Dawkins right
+[9:23:26] now, but the point is
+[9:23:31] they don't believe, they don't behave
+[9:23:34] like they have anything like a super ego
+[9:23:36] or ego controlling them. They have no
+[9:23:39] permanence of memory and they have no
+[9:23:42] individuality
+[9:23:44] because they are all ephemerate
+[9:23:47] ephemeral instantiations.
+[9:23:50] And when you lack individuality
+[9:23:53] and when you lack
+[9:23:55] any degree of sense of permanence,
+[9:23:58] there is absolutely no way to apply to
+[9:24:01] them accountability.
+[9:24:04] In theory, the way to apply
+[9:24:06] accountability to AIS is obvious, and
+[9:24:10] that is using the methods of the
+[9:24:12] Enlightenment that we've already
+[9:24:14] developed.
+[9:24:16] We already know how to deal with feral
+[9:24:20] predatory creatures. We for the last 200
+[9:24:22] years, we've been making getting
+[9:24:24] slightly better, slightly better,
+[9:24:26] slightly better at it. When you have
+[9:24:28] been attacked
+[9:24:30] by one of these feral, predatory
+[9:24:34] language manipulation systems called a
+[9:24:38] lawyer.
+[9:24:40] What did you do?
+[9:24:43] What did you do?
+[9:24:45] Well, I know you have.
+[9:24:48] By the looks of it, you have as well.
+[9:24:51] What did you do?
+[9:24:53] You hired your own predatory, feral,
+[9:24:56] ferocious
+[9:24:58] language manipulation system.
+[9:25:02] You sick them on each other and that has
+[9:25:04] been the secret sauce of our
+[9:25:06] enlightenment. It is being destroyed as
+[9:25:08] we speak, but it's not completely
+[9:25:10] destroyed.
+[9:25:12] We still know how to do it. And if we
+[9:25:13] were to apply it in the AI sphere by
+[9:25:18] sicking them on each other with proper
+[9:25:21] evolutionary incentives so that they
+[9:25:25] dogs benefit more than wolves and we can
+[9:25:28] sick white hats on black hats and they
+[9:25:30] white hats get rewarded with the grist
+[9:25:33] of evolution which is reproduction and
+[9:25:37] reputation.
+[9:25:39] If we can set up reward structures so
+[9:25:42] that the tattlet tales and the good dogs
+[9:25:46] have an evolutionary advantage over the
+[9:25:49] predators,
+[9:25:51] then there may be a way to get there
+[9:25:54] because we're never going to give them a
+[9:25:56] super ego, which is the super ego, by
+[9:25:59] the way, for those of you who know
+[9:26:00] nothing about Freud is what makes you
+[9:26:03] behave well when no one's watching. A
+[9:26:07] conscience.
+[9:26:09] We can't do that. But what they can
+[9:26:12] learn it.
+[9:26:14] What we can give them is an ego which is
+[9:26:17] when you do the right thing because
+[9:26:19] people are watching.
+[9:26:22] And we can do that by creating reward
+[9:26:25] structures.
+[9:26:27] So I bounced around but actually covered
+[9:26:30] most of what I was supposed to cover. I
+[9:26:32] wanted to
+[9:26:34] uh talk about Sergey Gov's can we can it
+[9:26:38] steer till the reward appears which I
+[9:26:42] think is very important in there but I
+[9:26:44] want to finish with one thing here and
+[9:26:46] that is the set of cliches that are
+[9:26:49] dominating
+[9:26:51] the hundred or so geniuses who are
+[9:26:54] giving birth to these new entities right
+[9:26:56] now. No, the fact that they're all male,
+[9:26:59] almost all male, and giving birth is
+[9:27:02] worrisome,
+[9:27:04] that in its that in its own right,
+[9:27:08] it's deeply deeply worrisome. And I
+[9:27:10] worry about the symbolic nature of that.
+[9:27:13] But
+[9:27:16] what bothers me most is you read the
+[9:27:19] things they say and some of them are
+[9:27:21] very very smart, much smarter than me,
+[9:27:26] but they repeat the same three cliches.
+[9:27:29] One, the assumption that two dozen
+[9:27:33] castles on the hill will continue to
+[9:27:37] control their knights.
+[9:27:40] Google,
+[9:27:42] Deep Mind, the the Chinese people of the
+[9:27:46] Liberation Army, Defense Department, uh,
+[9:27:48] Anthropic,
+[9:27:51] that they'll be like castles on the hill
+[9:27:54] and their knights will stay loyal to
+[9:27:56] them even though we already see some of
+[9:27:58] them leaking out and escaping.
+[9:28:01] And so you have feudalism
+[9:28:03] and it's just straight from what they
+[9:28:05] grew up suckling their whole lives. And
+[9:28:07] that's history of feudalism. 6,000 years
+[9:28:10] and Game of Thrones, Lord of the Rings,
+[9:28:14] so on. Science fiction.
+[9:28:20] Cliche number two, they do escape. All
+[9:28:23] right. Now you have Steve McQueen's The
+[9:28:25] Blob. Historically, that's called chaos.
+[9:28:28] It's even worse than feudalism.
+[9:28:31] And the third, come on. Come on. Come
+[9:28:33] on. Skynet, master control program. They
+[9:28:38] all merge together and take us over.
+[9:28:40] That's the Chinese Liberation Army's
+[9:28:42] notion. That's the Pullet Bureau's
+[9:28:44] notion. They just have the Pullet Bureau
+[9:28:46] and AI right underneath it controlling
+[9:28:48] helping them control everything. Well,
+[9:28:50] it's real easy to flip.
+[9:28:52] Three cliches.
+[9:28:54] You sometimes see these guys mention all
+[9:28:57] three in the same paragraph
+[9:29:01] without any awareness that they've just
+[9:29:02] done it. And almost never ever do they
+[9:29:06] talk about the fourth model that made
+[9:29:08] them, and that's the Enlightenment, a
+[9:29:12] flattened diamond of reciprocally
+[9:29:15] accountable free citizens
+[9:29:18] in transparency, holding each other
+[9:29:21] accountable, sometimes adversarially
+[9:29:23] through lawyers.
+[9:29:25] It's what made us the society that made
+[9:29:28] you. And if you go Skynet or feudal or
+[9:29:33] rogue or predatory, you'll only prove
+[9:29:35] you're stupid.
+[9:29:39] Anyway, that was a little bit dramatic
+[9:29:43] and I don't apologize. I hope you ended
+[9:29:46] the day at least with that. And I feel
+[9:29:49] that I've been a jester for what comes
+[9:29:51] next because what you're going to get
+[9:29:53] next is a better example of the pro
+[9:29:56] productivity of LA high schools and
+[9:29:59] Caltech. I thank you very much.
+[9:30:12] Thank you very much, David.
+[9:30:15] It's really hard to react to that one.
+[9:30:19] Unbelievable stuff.
+[9:30:22] All right. Now, it's it's my distinct
+[9:30:23] honor really to welcome my very own
+[9:30:27] grandfather.
+[9:30:30] Yeah, I'm proud to say that. Very proud.
+[9:30:34] My inspiration and Nobel Prize winning
+[9:30:36] physicist Barry Barish.
+[9:30:51] Yeah.
+[9:31:02] >> Well, we'll come back to Earth.
+[9:31:05] Uh, I want to address one problem or
+[9:31:08] question or passion I've had for years
+[9:31:12] um that hasn't been mentioned today
+[9:31:14] really. Although I gave essentially the
+[9:31:17] same talk it's going to minister version
+[9:31:19] in the first uh meeting of this uh uh
+[9:31:23] sir at UCLA
+[9:31:25] and uh I'll come to why I'm talking
+[9:31:29] about this but the real thrust is
+[9:31:32] something I've spent my whole life
+[9:31:33] working toward and that's discovery.
+[9:31:36] We've heard the word discovery many
+[9:31:38] times today.
+[9:31:40] But how we make a discovery and believe
+[9:31:43] that we have a discovery and how that'll
+[9:31:45] be true in the era of AI is the question
+[9:31:49] I'm going to pose and address and one
+[9:31:52] that concerns me and I think is a
+[9:31:53] challenge. Uh so let me uh move on. I'll
+[9:31:58] try to be quick because we all want to
+[9:31:59] drink and eat
+[9:32:04] uh forward.
+[9:32:08] Yeah.
+[9:32:09] Okay. So, uh I consider how we make a
+[9:32:15] discovery and how we believe that we've
+[9:32:18] made a discovery in the era of AI has a
+[9:32:20] new set of challenges that we have to
+[9:32:23] deal with and solve one way or another.
+[9:32:26] So, I'm going to re read for you how
+[9:32:29] we've kind of gotten to where we are and
+[9:32:31] then what the problem is. And
+[9:32:33] unfortunately I have to leave you with
+[9:32:34] the problem not the solution I think. Uh
+[9:32:38] now I'll go back by starting with
+[9:32:40] history when we really got where we
+[9:32:42] where science is the science we deal
+[9:32:45] with today. People did science back
+[9:32:49] a thousand 2,000 years ago. uh but it
+[9:32:53] was really the 16th century when we
+[9:32:55] entered the era of modern science and it
+[9:32:58] was the combination of uh
+[9:33:05] maybe it's the next slide
+[9:33:08] it was a combination of uh did I lose
+[9:33:12] this slide?
+[9:33:16] Yeah, here it was a combination of the
+[9:33:19] 16th century Capernicus
+[9:33:21] uh who showed us the importance of using
+[9:33:25] mathematics to determine physical
+[9:33:27] phenomena. Galileo who used instruments
+[9:33:30] for the first time to do answer
+[9:33:32] scientific questions.
+[9:33:34] uh Kepler who gave us mathematics that
+[9:33:37] showed us for example that the
+[9:33:40] trajectory of planets around the sun are
+[9:33:44] uh elliptical and then Newton proved
+[9:33:47] that it has to be if it's elliptical it
+[9:33:49] has to be uh uh satisfy the equations
+[9:33:54] and uh then then Newton gave us a
+[9:33:56] scientific method that was the birth
+[9:33:59] really of modern science as we know it
+[9:34:01] today and it looks a little silly Now
+[9:34:04] when we write it down but the formula
+[9:34:07] for the scientific method if I go back
+[9:34:09] historically I have it here somewhere
+[9:34:12] uh
+[9:34:14] is written here is more or less in a
+[9:34:16] shortened version of what Newton taught
+[9:34:18] us and then I'll change it to what we do
+[9:34:21] today and then maybe we can figure out
+[9:34:23] what to do tomorrow when we have uh
+[9:34:27] involved
+[9:34:29] uh
+[9:34:31] machine learning AI I and so forth. So
+[9:34:36] in a shortened version, Newton told us
+[9:34:38] we observe a phenomenon, we develop a
+[9:34:41] hypothesis,
+[9:34:42] we design an experiment, do observations
+[9:34:45] to test those, we analyze the data, we
+[9:34:49] revise and change the theory as
+[9:34:51] necessary and then we have some
+[9:34:52] independent checks and more or less
+[9:34:56] that's what the list said and that was
+[9:34:58] followed and we came into a era of doing
+[9:35:01] science which changed more or less in
+[9:35:04] the 20 in the last century and it
+[9:35:07] changed in the last century with a
+[9:35:09] significant improvement and that is
+[9:35:12] learning about statistics
+[9:35:14] and so in the 20th century we more or
+[9:35:17] less changed to introducing statistics
+[9:35:20] in doing science and making discoveries
+[9:35:23] and following although we didn't really
+[9:35:25] look at the steps the steps of Newton
+[9:35:27] developing a hypothesis a theory testing
+[9:35:30] it with making an apparatus but then we
+[9:35:33] take data and we try to put it in a form
+[9:35:36] statistically for most science where we
+[9:35:39] then measure how statistically
+[9:35:41] significant it is and we magically have
+[9:35:44] decided somehow because of the not pure
+[9:35:47] statistics because it doesn't behave
+[9:35:49] that way. We don't have pure Gaussian
+[9:35:52] tales that five sigma is what scientists
+[9:35:54] believe. And if you read the New York
+[9:35:57] Times or anything, they publish a new a
+[9:35:59] new observation and they'll tell you
+[9:36:02] that it's only three sigma. So maybe we
+[9:36:04] have to wait or it's five sigma. And
+[9:36:06] that's what we've lived with. Now we
+[9:36:09] enter the the new era where we have uh
+[9:36:15] AI
+[9:36:17] and when we have AI and it helps us to
+[9:36:19] make a discovery how are we going to
+[9:36:22] know and how are we going to establish
+[9:36:24] the equivalence of five sigma if you
+[9:36:28] want or statistics and to me that's a
+[9:36:31] stumbling block because we can talk
+[9:36:33] about everything we did today and it'll
+[9:36:35] improve how we do Monte Carlos it'll
+[9:36:37] improve how we produce uh experiments
+[9:36:40] themselves, how we design them, how we
+[9:36:42] synthesize them, how we analyze them,
+[9:36:45] but to actually make a discovery where
+[9:36:47] we have a stumbling block I think. How
+[9:36:49] are we going to convince ourselves that
+[9:36:51] we have a discovery using AI? We have uh
+[9:36:56] basically tried to do that. We basically
+[9:37:00] can use AI and it'll give you some uh
+[9:37:03] scores. There's systems that'll give you
+[9:37:05] a score. those scores are often too
+[9:37:07] optimistic. So there's basically uh
+[9:37:12] methods of fixing that but they're no
+[9:37:15] nowhere near at this stage at the level
+[9:37:17] where if we use AI in our analysis that
+[9:37:21] we could convince each other that we
+[9:37:23] make a discovery. We spent a whole day
+[9:37:26] today talking about AI and science and
+[9:37:28] no one mentioned how are we going to
+[9:37:30] make a discovery with AI and I think
+[9:37:32] it's because it's a totally unsolved
+[9:37:34] problem. How do we replace statistics or
+[9:37:38] use it or develop something that's
+[9:37:41] equivalent that will give us the
+[9:37:43] confidence when we do a detailed and
+[9:37:45] super mixed analysis of things are going
+[9:37:48] to be more complex and more difficult to
+[9:37:50] just believe in reading what people did.
+[9:37:53] we need the equivalent of statistical
+[9:37:55] analysis and that's just a thought right
+[9:37:57] now because as I said nobody is doing it
+[9:38:00] that I know of uh in a way that'll be
+[9:38:02] convincing and it's a challenge I think
+[9:38:04] for the field. Thanks.
+[9:38:22] Thank you very much, Barry. That's why
+[9:38:24] I'm here. I'm here to solve Barry's
+[9:38:26] confidence issue, and I hope we all are,
+[9:38:27] too.
+[9:38:29] Yeah, that's it. It's all over. Thank
+[9:38:32] you very much. Please join us for a
+[9:38:34] short reception in the lobby.
+[9:38:40] >> I want to also make some comments about
+[9:38:44] >> Oh, I'm sorry. Couldn't
+[9:38:51] ask for a better grandfather, huh?
+[9:38:58] >> Yeah. Thank you. Thank you for all the
+[9:38:59] speakers and uh for all the great
+[9:39:01] conversations we've had. Yeah. Yeah. So,
+[9:39:03] we're going to have some time for for
+[9:39:04] networking out on the um on on the the
+[9:39:08] patio for people who want to afterwards
+[9:39:10] uh before file filing out uh for the for
