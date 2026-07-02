@@ -1,6 +1,6 @@
 ---
 title: "Panel: AI-Driven Experimental Design"
-speaker: "RA Adhikari (Caltech/LIGO); Daniel Ratner (SLAC); Javier Duarte (CERN/LHC); Juan Tong Lee (dark matter)"
+speaker: "RA Adhikari (Caltech/LIGO); Daniel Ratner (SLAC); Javier Duarte (CERN/LHC); Chang-Kee Jung (dark matter)"
 affiliation: "Caltech; SLAC; CERN; UC Santa Barbara"
 event: "2026 Science and AI Summit"
 date: 2026-06-30
@@ -18,13 +18,13 @@ The panel explores AI-driven approaches to experimental design and detector cont
 
 [[Javier Duarte]] (UC San Diego, [[CMS detector|CMS]]/[[LHC]]) explains the [[LHC]] triggering challenge: 40 million proton-proton collisions per second require a first-level hardware trigger running on FPGA farms that must reject 99.8% of events within ~1 microsecond. His group replaced simple threshold algorithms (count muons, threshold total energy) with multivariate neural networks analyzing full event topology — including b-tagging for Higgs boson identification. Beyond efficiency gains for known signals, this enabled unsupervised [[anomaly detection]] via autoencoders running at the trigger level, now deployed in [[CMS detector|CMS]] and [[ATLAS detector|ATLAS]], providing years of data collected under an anomaly-sensitive trigger for potential new-physics discovery. The [[HLS4ML]] compiler framework he co-developed to synthesize neural networks for FPGAs has found applications in neuroscience, materials science, and qubit readout beyond particle physics.
 
-[[Juan Tong Lee]] ([[UC Riverside]]) works on near-sensor and in-memory computing for liquid argon time projection chamber (TPC) [[dark matter]] detectors. The core challenge is a data bandwidth mismatch: photon rates of ~10^10 per second far exceed what LVDS cables can carry, necessitating intelligent compression and filtering at micrometer-to-millimeter distances from the sensor. His approach involves early digitization of single photon avalanche diode (SPAD) signals, fine-grained local control, and dataflow-architecture ASICs operating within sub-100 mW power budgets — essential because any thermal increase risks boiling the liquid argon. The panel converges on [[co-design]] — jointly optimizing algorithm, hardware, and detector architecture — as the key paradigm for next-generation facilities, and closes with a candid discussion of the risk that over-reliance on AI tools may atrophy students' deep physical intuition.
+[[Chang-Kee Jung]] ([[UC Riverside]]) works on near-sensor and in-memory computing for liquid argon time projection chamber (TPC) [[dark matter]] detectors. The core challenge is a data bandwidth mismatch: photon rates of ~10^10 per second far exceed what LVDS cables can carry, necessitating intelligent compression and filtering at micrometer-to-millimeter distances from the sensor. His approach involves early digitization of single photon avalanche diode (SPAD) signals, fine-grained local control, and dataflow-architecture ASICs operating within sub-100 mW power budgets — essential because any thermal increase risks boiling the liquid argon. The panel converges on [[co-design]] — jointly optimizing algorithm, hardware, and detector architecture — as the key paradigm for next-generation facilities, and closes with a candid discussion of the risk that over-reliance on AI tools may atrophy students' deep physical intuition.
 
 ## Transcript
 
 [1:45:58] [[RA Adhikari|RA Adikari]] rejoining us who we just heard from. We also have [[Daniel Ratner]] who is a senior scientist at Jefferson Lab and the Jefferson professor at Old Dominion University.
 
-[1:46:12] We have [[Juan Tong Lee]], an assistant professor of physics here at [[UC Riverside]] in electrical and computing engineering, and [[Javier Duarte]], an associate professor of physics at UC San Diego.
+[1:46:12] We have [[Chang-Kee Jung]], an assistant professor of physics here at [[UC Riverside]] in electrical and computing engineering, and [[Javier Duarte]], an associate professor of physics at UC San Diego.
 
 [1:46:35] I would just like to ask the three new panelists joining us to just briefly in about one minute give us a quick introduction to your field of expertise. We'll start with Javier.
 
