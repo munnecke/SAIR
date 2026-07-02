@@ -1,7 +1,7 @@
 ---
 title: "Formal Verification with Lean: Addressing Plausible-but-Wrong AI Mathematics"
 speaker: "Alex Mberg"
-affiliation: "SIR Foundation"
+affiliation: "SAIR Foundation"
 event: "2026 Science and AI Summit"
 date: 2026-06-30
 timestamp: "6:53:48"

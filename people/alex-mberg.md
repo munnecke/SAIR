@@ -1,12 +1,12 @@
 ---
 title: "Alex Mberg"
 type: person
-tags: ["mathematician","SIR-Foundation","formal-verification","Lean"]
+tags: ["mathematician","SAIR-Foundation","formal-verification","Lean"]
 ---
 
 # Alex Mberg
 
-Affiliated with the [[SIR Foundation]]. At the [[2026 Science and AI Summit]], gave a talk on the danger of plausible-but-wrong AI-generated mathematics and advocated [[formal verification]] via the [[Lean theorem prover]] as the necessary filter. Also participated in the theory-building panel, pushing back on optimistic claims about AI's ability to autonomously formulate physical theories.
+Affiliated with the [[SAIR Foundation]]. At the [[2026 Science and AI Summit]], gave a talk on the danger of plausible-but-wrong AI-generated mathematics and advocated [[formal verification]] via the [[Lean theorem prover]] as the necessary filter. Also participated in the theory-building panel, pushing back on optimistic claims about AI's ability to autonomously formulate physical theories.
 
 ## Talks & Panels
 

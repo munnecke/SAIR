@@ -1,24 +1,24 @@
 ---
-title: "UCR Welcome and SIR Foundation Opening"
-speaker: "UCR Chancellor Hoo; Chuck Ing; Barry Barish"
-affiliation: "UC Riverside; SIR Foundation"
+title: "UCR Welcome and SAIR Foundation Opening"
+speaker: "UCR Chancellor Hoo; Chuck Ng; Barry Barish"
+affiliation: "UC Riverside; SAIR Foundation"
 event: "2026 Science and AI Summit"
 date: 2026-06-30
 timestamp: "0:16:36"
 youtube_url: "https://www.youtube.com/live/i6OQ5Z3repA?t=996"
-tags: ["SIR-Foundation","UCR","opening","institutional","AI-science-integration"]
-keywords: ["SIR Foundation","UC Riverside","science and AI","instrumentation gap","RACE Institute","Southern California Oasis","master key metaphor"]
+tags: ["SAIR-Foundation","UCR","opening","institutional","AI-science-integration"]
+keywords: ["SAIR Foundation","UC Riverside","science and AI","instrumentation gap","RACE Institute","Southern California Oasis","master key metaphor"]
 ---
 
 ## Summary
 
-UCR Chancellor Hoo opened the 2026 Science and AI Summit by welcoming participants and acknowledging co-organizers: the Center for Experimental Cosmology and Instrumentation at [[UC Riverside]] and the Global Foundation for Science and AI Research ([[SIR Foundation]]). He highlighted UCR's recently founded RACE Institute (Riverside Artificial Intelligence Research and Education), which unites over 85 interdisciplinary faculty across all seven colleges to advance machine learning and develop ethical, transparent AI solutions. The chancellor emphasized that UCR, as the only R1 research university in inland Southern California, occupies a distinctive position where technology, agricultural legacy, climate pressures, and global logistics intersect.
+UCR Chancellor Hoo opened the 2026 Science and AI Summit by welcoming participants and acknowledging co-organizers: the Center for Experimental Cosmology and Instrumentation at [[UC Riverside]] and the Global Foundation for Science and AI Research ([[SAIR Foundation]]). He highlighted UCR's recently founded RACE Institute (Riverside Artificial Intelligence Research and Education), which unites over 85 interdisciplinary faculty across all seven colleges to advance machine learning and develop ethical, transparent AI solutions. The chancellor emphasized that UCR, as the only R1 research university in inland Southern California, occupies a distinctive position where technology, agricultural legacy, climate pressures, and global logistics intersect.
 
 A central theme of the chancellor's remarks was the relationship between fundamental and applied research. Using a "master key" metaphor, he argued that translational research produces keys that open particular doors, while fundamental, curiosity-driven science produces a master key capable of opening many doors — including doors not yet known to exist. He stressed that foundational inquiry into physics, mathematics, and the nature of intelligence is the necessary bedrock for building robust next-generation AI systems.
 
-[[Chuck Ing]], co-founder of [[SIR Foundation]], framed the summit around SIR's founding conviction: that science and AI must be brought into the same room with equal seriousness to work on the same problems. He outlined three programmatic tracks for the day — AI's role in designing and operating scientific detectors, AI for simulating and analyzing scientific data at previously impossible scales, and AI as a tool for theory-building that changes how science thinks, not merely computes. He also noted Southern California and the Inland Empire as an underappreciated concentration of scientific talent and emerging technology.
+[[Chuck Ng]], co-founder of [[SAIR Foundation]], framed the summit around SIR's founding conviction: that science and AI must be brought into the same room with equal seriousness to work on the same problems. He outlined three programmatic tracks for the day — AI's role in designing and operating scientific detectors, AI for simulating and analyzing scientific data at previously impossible scales, and AI as a tool for theory-building that changes how science thinks, not merely computes. He also noted Southern California and the Inland Empire as an underappreciated concentration of scientific talent and emerging technology.
 
-Nobel laureate [[Barry Barish]], co-founder of [[SIR Foundation]] and part-time faculty at [[UC Riverside]] since 2018, described the institutional gap he identified in the university system: universities hire physicists to analyze data and publish results, but systematically underinvest in instrumentation expertise and laboratory technology development. The fields he highlighted — [[dark matter]] searches, cosmic microwave background studies, next-generation [[gravitational waves|gravitational wave]] detectors — sit between physics and astronomy departments and require precisely the kind of deep technical infrastructure that universities tend not to build. The CECI group at UCR represents a deliberate effort to close that gap, and the [[SIR Foundation]]'s mission is to integrate AI into that instrumentation and analysis work.
+Nobel laureate [[Barry Barish]], co-founder of [[SAIR Foundation]] and part-time faculty at [[UC Riverside]] since 2018, described the institutional gap he identified in the university system: universities hire physicists to analyze data and publish results, but systematically underinvest in instrumentation expertise and laboratory technology development. The fields he highlighted — [[dark matter]] searches, cosmic microwave background studies, next-generation [[gravitational waves|gravitational wave]] detectors — sit between physics and astronomy departments and require precisely the kind of deep technical infrastructure that universities tend not to build. The CECI group at UCR represents a deliberate effort to close that gap, and the [[SAIR Foundation]]'s mission is to integrate AI into that instrumentation and analysis work.
 
 ## Transcript
 
@@ -40,13 +40,13 @@ Nobel laureate [[Barry Barish]], co-founder of [[SIR Foundation]] and part-time 
 
 [0:20:41] We have already attracted several high-tech companies to our region, which are currently providing invaluable internship and job opportunities for our students and graduates. The integration of science and AI represents the next great frontier of human capability. I hope today's conversations spark new ideas, forge lasting partnerships, and drive impactful innovation. Thank you again for being here, and once more — welcome to Riverside.
 
-[0:21:28] [[Chuck Ing]]: Well, thank you, Peter. Good morning everyone and welcome to the Science and AI Summit at [[UC Riverside]]. I'm Chuck, co-founder of [[SIR Foundation]].
+[0:21:28] [[Chuck Ng]]: Well, thank you, Peter. Good morning everyone and welcome to the Science and AI Summit at [[UC Riverside]]. I'm Chuck, co-founder of [[SAIR Foundation]].
 
 [0:21:41] A few thank yous before we begin today — to our organizers, CECI and UC Riverside, thank you for making today possible. Thank you to physics chair Shamai Shan, CECI leaders Ho, Sean, John Richardson, Steve Choy, and the entire team who worked tirelessly behind the scenes. I also want to acknowledge [[Scott Clark]] and the team at Tarabia Scientific — thank you for sponsoring our event today.
 
-[0:22:41] I'm grateful to be doing this alongside my co-founders, Terrence Ta and [[Barry Barish]]. There is something particularly special about being here at UC Riverside because that is Barry's scientific home, and on top of that we have three generations of the Barish family in this room today: Barry, his son Ken, who will join us as a panelist later, and his grandson Milo, who is part of the SIR team.
+[0:22:41] I'm grateful to be doing this alongside my co-founders, Terrence Ta and [[Barry Barish]]. There is something particularly special about being here at UC Riverside because that is Barry's scientific home, and on top of that we have three generations of the Barish family in this room today: Barry, his son Ken, who will join us as a panelist later, and his grandson Milo, who is part of the SAIR team.
 
-[0:23:21] [[SIR Foundation]] was founded on a simple conviction: that science and AI need to be in the same room, with the same seriousness, working on the same problems. We're building neutral ground, science first — and having all the incredible people in this room with us today is something we don't take for granted.
+[0:23:21] [[SAIR Foundation]] was founded on a simple conviction: that science and AI need to be in the same room, with the same seriousness, working on the same problems. We're building neutral ground, science first — and having all the incredible people in this room with us today is something we don't take for granted.
 
 [0:23:51] I also want to say that personally this one means something to me. Southern California is one of the most extraordinary concentrations of scientific talent, research institutions, and emerging technology in the world. The Inland Empire is part of the story today, and I do not think it gets talked about enough.
 

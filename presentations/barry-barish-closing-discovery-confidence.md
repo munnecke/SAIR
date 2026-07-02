@@ -1,7 +1,7 @@
 ---
 title: "Closing: The Unaddressed Problem of Discovery Confidence in AI-Augmented Science"
 speaker: "Barry Barish"
-affiliation: "UC Riverside; SIR Foundation"
+affiliation: "UC Riverside; SAIR Foundation"
 event: "2026 Science and AI Summit"
 date: 2026-06-30
 timestamp: "9:35:52"

@@ -1,12 +1,12 @@
 ---
 title: "Infrastructure for AI-Augmented Mathematics"
 speaker: "Terence Tao"
-affiliation: "UCLA; SIR Foundation"
+affiliation: "UCLA; SAIR Foundation"
 event: "2026 Science and AI Summit"
 date: 2026-06-30
 timestamp: "0:33:13"
 youtube_url: "https://www.youtube.com/live/i6OQ5Z3repA?t=1993"
-tags: ["mathematics","AI-infrastructure","formal-verification","crowdsourcing","SIR-Foundation"]
+tags: ["mathematics","AI-infrastructure","formal-verification","crowdsourcing","SAIR-Foundation"]
 keywords: ["proof indigestion","Lean theorem prover","distillation challenge","inverse Galois problem","automobile analogy","crowdsourced mathematics","traffic jam","22 million algebra problems","LMFDB"]
 ---
 
@@ -16,15 +16,15 @@ keywords: ["proof indigestion","Lean theorem prover","distillation challenge","i
 
 To illustrate the structural problem, Tao offered an automobile analogy. When cars first appeared in the 19th century, they had to share narrow cobblestone streets built for pedestrians and horses — the result was chaos. The solution was not to improve the cars but to redesign the infrastructure: dedicated roads, pedestrian walkways, traffic rules, and hybrid zones. Tao argues mathematics is at that same inflection point. Traditional journals and conferences remain valuable but cannot absorb unrestricted AI use; new infrastructure is needed that accommodates AI contributions safely while preserving space for human mathematical work.
 
-The [[SIR Foundation]] is developing that infrastructure through a series of crowdsourced competitions. The first, the "[[distillation challenge]]" launched on Pi Day 2026, builds on an earlier project that generated 22 million true/false questions in equational algebra. Modern frontier models can answer nearly 99% of these questions individually, but that is expensive and reveals nothing about the underlying structure. The challenge asks contestants to write a one-page "cheat sheet" — readable by both humans and cheap open-source models — that distills the essential rules governing all 22 million answers. Early results show that the best cheat sheets lift weak-model accuracy from ~51% to ~80%, and a second phase pushing toward full proofs rather than true/false answers is underway.
+The [[SAIR Foundation]] is developing that infrastructure through a series of crowdsourced competitions. The first, the "[[distillation challenge]]" launched on Pi Day 2026, builds on an earlier project that generated 22 million true/false questions in equational algebra. Modern frontier models can answer nearly 99% of these questions individually, but that is expensive and reveals nothing about the underlying structure. The challenge asks contestants to write a one-page "cheat sheet" — readable by both humans and cheap open-source models — that distills the essential rules governing all 22 million answers. Early results show that the best cheat sheets lift weak-model accuracy from ~51% to ~80%, and a second phase pushing toward full proofs rather than true/false answers is underway.
 
 The second featured competition, developed in partnership with the L-functions and Modular Forms Database ([[LMFDB]]), targets the [[inverse Galois problem]]. Contestants search for polynomials with specific Galois groups, framed as an "Easter egg hunt" across 160,000 possible group types. Verification is automatic and nearly instantaneous, making the task well-suited to large-scale crowdsourcing and AI assistance. The competitive phase rewards teams who find rare group types that others have not yet found; a cooperative phase will follow in which all polynomials are shared openly. The competition has generated unusual enthusiasm among professional algebraists and is producing the first large-scale empirical dataset on the distribution of Galois groups — something traditional mathematics, not being an experimental science, has lacked. Tao noted that these competitions represent a model for how AI capabilities can be directed toward tasks that are orthogonal to, rather than competitive with, traditional mathematical work.
 
 ## Transcript
 
-[0:33:45] Well, I will — I can probably describe my talk without the slides. Anyway, so thank you all for coming. I'm very excited. This is the third [[SIR Foundation|SIR]] event. I've been involved in SIR for about six months now.
+[0:33:45] Well, I will — I can probably describe my talk without the slides. Anyway, so thank you all for coming. I'm very excited. This is the third [[SAIR Foundation|SIR]] event. I've been involved in SIR for about six months now.
 
-[0:34:19] At SIR we've been trying to figure out ways to support and integrate AI and other modern technologies into scientific research, and in particular in my home field of mathematics.
+[0:34:19] At SAIR we've been trying to figure out ways to support and integrate AI and other modern technologies into scientific research, and in particular in my home field of mathematics.
 
 [0:34:36] Mathematicians are very traditional. The way we do mathematics has not fundamentally changed in centuries. We still use blackboards — we're almost the last profession in academia to cling to our chalk. In fact, we favor certain special Japanese and Korean chalk. You can read a textbook from 200 years ago and it looks almost identical to the ones we use today.
 
@@ -46,7 +46,7 @@ The second featured competition, developed in partnership with the L-functions a
 
 [0:40:43] That's kind of where mathematics and probably the sciences more broadly stand today with regard to AI. What we need is to redesign our infrastructure and create new ways to do scientific research that can accommodate AI use safely. With the automobile, we figured this out: we have roads specifically for automobiles, pedestrian walkways where no cars are allowed, and a very small number of hybrid roads where you have both. We figured out ways to have them coexist.
 
-[0:41:41] We should keep our infrastructure of journals and traditional ways of producing research — still valuable — but we should also create new ones. That's what I've been interested in at SIR. One of the venues for this are the SIR competitions.
+[0:41:41] We should keep our infrastructure of journals and traditional ways of producing research — still valuable — but we should also create new ones. That's what I've been interested in at SIR. One of the venues for this are the SAIR competitions.
 
 [0:42:08] Mathematics has been a fairly heavily gatekept field until recently. You needed a math PhD often to even understand the problems we work on, let alone contribute to them. But now we have the capability to accept contributions from the broader community of math-adjacent people who may not have PhDs but who have new tools — AI and otherwise — and can contribute. The key is that we need to design the right problems for them to work on, for which we can safely incorporate hundreds or thousands of contributions from the public.
 
