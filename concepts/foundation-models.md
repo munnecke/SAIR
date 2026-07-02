@@ -1,5 +1,6 @@
 ---
 title: "foundation models"
+aliases: ["foundation models"]
 type: concept
 tags: ["machine-learning","AI","deep-learning"]
 ---

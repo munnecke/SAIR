@@ -1,5 +1,6 @@
 ---
 title: "two-level systems"
+aliases: ["two-level systems"]
 type: concept
 tags: ["quantum-physics","materials","instrumentation"]
 ---

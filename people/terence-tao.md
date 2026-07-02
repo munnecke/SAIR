@@ -1,5 +1,6 @@
 ---
 title: "Terence Tao"
+aliases: ["Terence Tao"]
 type: person
 tags: ["mathematician","Fields-Medalist","UCLA","SAIR-Foundation"]
 ---

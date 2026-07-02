@@ -1,5 +1,6 @@
 ---
 title: "Barry Barish"
+aliases: ["Barry Barish"]
 type: person
 tags: ["physicist","Nobel-laureate","LIGO","SAIR-Foundation"]
 ---

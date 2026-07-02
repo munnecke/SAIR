@@ -1,5 +1,6 @@
 ---
 title: "FourCastNet"
+aliases: ["FourCastNet"]
 type: concept
 tags: ["weather-forecasting","neural-operators","AI"]
 ---

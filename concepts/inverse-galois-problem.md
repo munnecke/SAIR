@@ -1,5 +1,6 @@
 ---
 title: "inverse Galois problem"
+aliases: ["inverse Galois problem"]
 type: concept
 tags: ["mathematics","number-theory","SAIR-Foundation"]
 ---

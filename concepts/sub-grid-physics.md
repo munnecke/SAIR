@@ -1,5 +1,6 @@
 ---
 title: "sub-grid physics"
+aliases: ["sub-grid physics"]
 type: concept
 tags: ["cosmological-simulation","AI","astrophysics"]
 ---

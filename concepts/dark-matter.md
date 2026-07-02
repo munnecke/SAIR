@@ -1,5 +1,6 @@
 ---
 title: "dark matter"
+aliases: ["dark matter"]
 type: concept
 tags: ["cosmology","particle-physics","instrumentation"]
 ---

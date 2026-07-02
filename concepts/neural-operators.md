@@ -1,5 +1,6 @@
 ---
 title: "neural operators"
+aliases: ["neural operators"]
 type: concept
 tags: ["deep-learning","physics-AI","weather-forecasting"]
 ---

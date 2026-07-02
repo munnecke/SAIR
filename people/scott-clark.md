@@ -1,5 +1,6 @@
 ---
 title: "Scott Clark"
+aliases: ["Scott Clark"]
 type: person
 tags: ["industry","Bayesian-optimization","multifidelity"]
 ---

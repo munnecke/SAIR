@@ -1,5 +1,6 @@
 ---
 title: "LMFDB"
+aliases: ["LMFDB"]
 type: concept
 tags: ["mathematics","number-theory","database"]
 ---

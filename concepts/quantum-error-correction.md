@@ -1,5 +1,6 @@
 ---
 title: "quantum error correction"
+aliases: ["quantum error correction"]
 type: concept
 tags: ["quantum-computing","Google-Quantum-AI"]
 ---

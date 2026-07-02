@@ -1,5 +1,6 @@
 ---
 title: "Go-Explore"
+aliases: ["Go-Explore"]
 type: concept
 tags: ["reinforcement-learning","sparse-reward","AI"]
 ---

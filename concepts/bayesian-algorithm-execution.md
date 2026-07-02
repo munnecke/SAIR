@@ -1,5 +1,6 @@
 ---
 title: "Bayesian Algorithm Execution"
+aliases: ["Bayesian Algorithm Execution"]
 type: concept
 tags: ["Bayesian-optimization","experimental-design","accelerators"]
 ---

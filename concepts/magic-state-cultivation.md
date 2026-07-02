@@ -1,5 +1,6 @@
 ---
 title: "magic state cultivation"
+aliases: ["magic state cultivation"]
 type: concept
 tags: ["quantum-computing","quantum-error-correction"]
 ---

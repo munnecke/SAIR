@@ -1,5 +1,6 @@
 ---
 title: "LHC"
+aliases: ["LHC"]
 type: concept
 tags: ["particle-physics","CERN","instrumentation"]
 ---

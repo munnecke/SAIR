@@ -1,5 +1,6 @@
 ---
 title: "Kimmy Wu"
+aliases: ["Kimmy Wu"]
 type: person
 tags: ["cosmologist","Caltech","weak-lensing","inference"]
 ---

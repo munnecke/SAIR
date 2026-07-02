@@ -1,5 +1,6 @@
 ---
 title: "HLS4ML"
+aliases: ["HLS4ML"]
 type: concept
 tags: ["particle-physics","FPGA","hardware-AI"]
 ---

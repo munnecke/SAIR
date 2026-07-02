@@ -1,5 +1,6 @@
 ---
 title: "Daniel Ratner"
+aliases: ["Daniel Ratner"]
 type: person
 tags: ["physicist","SLAC","Bayesian-optimization","accelerators"]
 ---

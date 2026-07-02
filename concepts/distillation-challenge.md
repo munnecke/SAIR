@@ -1,5 +1,6 @@
 ---
 title: "distillation challenge"
+aliases: ["distillation challenge"]
 type: concept
 tags: ["mathematics","SAIR-Foundation","AI-competition"]
 ---

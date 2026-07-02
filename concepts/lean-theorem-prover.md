@@ -1,5 +1,6 @@
 ---
 title: "Lean theorem prover"
+aliases: ["Lean theorem prover"]
 type: concept
 tags: ["formal-verification","mathematics","software"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Foundation BAX"
+aliases: ["Foundation BAX"]
 type: concept
 tags: ["Bayesian-optimization","foundation-models","experimental-design"]
 ---

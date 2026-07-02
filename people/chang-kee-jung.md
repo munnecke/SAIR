@@ -1,5 +1,6 @@
 ---
 title: "Chang-Kee Jung"
+aliases: ["Chang-Kee Jung"]
 type: person
 tags: ["physicist","dark-matter","instrumentation","in-memory-computing"]
 ---

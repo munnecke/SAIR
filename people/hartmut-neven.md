@@ -1,5 +1,6 @@
 ---
 title: "Hartmut Neven"
+aliases: ["Hartmut Neven"]
 type: person
 tags: ["quantum-computing","Google-Quantum-AI"]
 ---

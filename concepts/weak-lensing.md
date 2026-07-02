@@ -1,5 +1,6 @@
 ---
 title: "weak lensing"
+aliases: ["weak lensing"]
 type: concept
 tags: ["cosmology","observational-astronomy","AI"]
 ---

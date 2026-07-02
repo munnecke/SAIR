@@ -1,5 +1,6 @@
 ---
 title: "Anima Anandkumar"
+aliases: ["Anima Anandkumar"]
 type: person
 tags: ["computer-scientist","Caltech","Nvidia","neural-operators"]
 ---

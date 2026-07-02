@@ -1,5 +1,6 @@
 ---
 title: "2026 Science and AI Summit"
+aliases: ["2026 Science and AI Summit"]
 type: concept
 tags: ["event","SAIR-Foundation","UC-Riverside"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "gravitational waves"
+aliases: ["gravitational waves"]
 type: concept
 tags: ["astrophysics","LIGO","general-relativity"]
 ---

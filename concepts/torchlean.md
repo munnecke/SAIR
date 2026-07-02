@@ -1,5 +1,6 @@
 ---
 title: "TorchLean"
+aliases: ["TorchLean"]
 type: concept
 tags: ["formal-verification","neural-networks","Lean"]
 ---

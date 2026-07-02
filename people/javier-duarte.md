@@ -1,5 +1,6 @@
 ---
 title: "Javier Duarte"
+aliases: ["Javier Duarte"]
 type: person
 tags: ["physicist","CERN","LHC","FPGA","anomaly-detection"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Andrews conjecture"
+aliases: ["Andrews conjecture"]
 type: concept
 tags: ["mathematics","group-theory","sparse-reward"]
 ---

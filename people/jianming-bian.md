@@ -1,5 +1,6 @@
 ---
 title: "Jianming Bian"
+aliases: ["Jianming Bian"]
 type: person
 tags: ["particle-physicist","foundation-models","neutrino-physics"]
 ---

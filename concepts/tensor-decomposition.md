@@ -1,5 +1,6 @@
 ---
 title: "tensor decomposition"
+aliases: ["tensor decomposition"]
 type: concept
 tags: ["data-science","knowledge-discovery","linear-algebra"]
 ---

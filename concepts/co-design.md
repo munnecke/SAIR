@@ -1,5 +1,6 @@
 ---
 title: "co-design"
+aliases: ["co-design"]
 type: concept
 tags: ["experimental-physics","AI","instrumentation"]
 ---

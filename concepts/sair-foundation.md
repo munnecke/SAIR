@@ -1,5 +1,6 @@
 ---
 title: "SAIR Foundation"
+aliases: ["SAIR Foundation"]
 type: concept
 tags: ["organization","open-science","AI-science"]
 ---

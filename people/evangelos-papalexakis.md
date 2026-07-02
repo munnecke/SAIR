@@ -1,5 +1,6 @@
 ---
 title: "Evangelos Papalexakis"
+aliases: ["Evangelos Papalexakis"]
 type: person
 tags: ["computer-scientist","UC-Riverside","tensor-decomposition"]
 ---

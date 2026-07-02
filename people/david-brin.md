@@ -1,5 +1,6 @@
 ---
 title: "David Brin"
+aliases: ["David Brin"]
 type: person
 tags: ["author","physicist","AI-governance","NASA"]
 ---

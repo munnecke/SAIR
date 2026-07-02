@@ -1,5 +1,6 @@
 ---
 title: "sparse reward"
+aliases: ["sparse reward"]
 type: concept
 tags: ["reinforcement-learning","mathematics","AI"]
 ---

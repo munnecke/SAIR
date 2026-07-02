@@ -1,5 +1,6 @@
 ---
 title: "Kolmogorov-Arnold theorem"
+aliases: ["Kolmogorov-Arnold theorem"]
 type: concept
 tags: ["mathematics","neural-networks","interpretability"]
 ---

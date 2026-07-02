@@ -1,5 +1,6 @@
 ---
 title: "Simeon Bird"
+aliases: ["Simeon Bird"]
 type: person
 tags: ["cosmologist","UC-Riverside","simulation","sub-grid-physics"]
 ---

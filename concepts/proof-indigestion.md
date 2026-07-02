@@ -1,5 +1,6 @@
 ---
 title: "proof indigestion"
+aliases: ["proof indigestion"]
 type: concept
 tags: ["mathematics","AI","research-infrastructure"]
 ---

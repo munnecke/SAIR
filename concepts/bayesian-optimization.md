@@ -1,5 +1,6 @@
 ---
 title: "Bayesian optimization"
+aliases: ["Bayesian optimization"]
 type: concept
 tags: ["optimization","experimental-design","machine-learning"]
 ---

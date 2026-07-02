@@ -1,5 +1,6 @@
 ---
 title: "MathLib"
+aliases: ["MathLib"]
 type: concept
 tags: ["Lean","formal-verification","mathematics"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Sergei Gukov"
+aliases: ["Sergei Gukov"]
 type: person
 tags: ["physicist","Caltech","mathematics","sparse-reward"]
 ---

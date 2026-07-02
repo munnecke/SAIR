@@ -1,5 +1,6 @@
 ---
 title: "Alex Meiburg"
+aliases: ["Alex Meiburg"]
 type: person
 tags: ["mathematician","SAIR-Foundation","formal-verification","Lean"]
 ---

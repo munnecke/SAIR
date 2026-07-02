@@ -1,5 +1,6 @@
 ---
 title: "Chuck Ng"
+aliases: ["Chuck Ng"]
 type: person
 tags: ["entrepreneur","SAIR-Foundation"]
 ---

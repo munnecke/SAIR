@@ -1,5 +1,6 @@
 ---
 title: "five-sigma standard"
+aliases: ["five-sigma standard"]
 type: concept
 tags: ["statistics","scientific-method","particle-physics"]
 ---

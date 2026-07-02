@@ -1,5 +1,6 @@
 ---
 title: "RA Adhikari"
+aliases: ["RA Adhikari"]
 type: person
 tags: ["physicist","Caltech","LIGO","reinforcement-learning"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "LIGO"
+aliases: ["LIGO"]
 type: concept
 tags: ["gravitational-waves","physics","instrumentation"]
 ---

@@ -1,5 +1,6 @@
 ---
 title: "reinforcement learning"
+aliases: ["reinforcement learning"]
 type: concept
 tags: ["machine-learning","AI","control-systems"]
 ---

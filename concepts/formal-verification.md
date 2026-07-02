@@ -1,5 +1,6 @@
 ---
 title: "formal verification"
+aliases: ["formal verification"]
 type: concept
 tags: ["mathematics","AI-safety","Lean"]
 ---

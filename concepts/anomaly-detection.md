@@ -1,5 +1,6 @@
 ---
 title: "anomaly detection"
+aliases: ["anomaly detection"]
 type: concept
 tags: ["machine-learning","particle-physics","unsupervised-learning"]
 ---

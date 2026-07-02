@@ -1,5 +1,6 @@
 ---
 title: "Michael Mulligan"
+aliases: ["Michael Mulligan"]
 type: person
 tags: ["physicist","UC-Riverside","neural-networks","Kolmogorov-Arnold"]
 ---

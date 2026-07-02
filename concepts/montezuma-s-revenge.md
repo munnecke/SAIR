@@ -1,5 +1,6 @@
 ---
 title: "Montezuma's Revenge"
+aliases: ["Montezuma's Revenge"]
 type: concept
 tags: ["reinforcement-learning","sparse-reward","AI"]
 ---
