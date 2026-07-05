@@ -1,0 +1,165 @@
+---
+title: "Panel: AI for Simulating and Analyzing Scientific Data"
+speaker: "Simeon Bird (UCR); Kimmy Wu (Caltech); Jianming Bian (particle physics); Scott Clark (industry)"
+affiliation: "UCR; Caltech; industry"
+event: "2026 Science and AI Summit"
+date: 2026-06-30
+timestamp: "5:40:41"
+youtube_url: "https://www.youtube.com/live/i6OQ5Z3repA?t=20441"
+tags: ["panel","cosmology","simulation","emulators","neutrino-physics","foundation-models","Bayesian-optimization"]
+keywords: ["cosmological emulators","sub-grid physics","black hole accretion","field-level inference","weak lensing","summary statistics","DINO foundation model","neutrino oscillation","simulation-to-real gap","multifidelity","physics as constraints","FNO","neural operator"]
+loomic:
+  loom: sair-ucr-2026
+  asserted: 2026-06-30
+  source: panel-sim-2026
+---
+
+::: {#panel-sim-2026 .context part_of=2026-science-and-ai-summit
+     verification.external="https://www.youtube.com/live/i6OQ5Z3repA?t=20441"}
+Panel on AI for simulating and analyzing scientific data at the [[2026 Science and AI Summit]], UC Riverside, June 30, 2026, moderated by Steve Choy ([[UC Riverside|UCR]]), with [[Kimmy Wu]] (Caltech), [[Simeon Bird]] ([[UC Riverside|UCR]]), [[Jianming Bian]] (UC Irvine), and [[Scott Clark]] (Tallaria Scientific).
+:::
+
+## Summary
+
+::: {#panel-sim-summary .synthesis
+     parents="panel-sim-transcript@paraphrased"
+     confidence.textual=high confidence.interpretive=medium}
+
+This panel, moderated by experimental cosmologist Steve Choy ([[UC Riverside|UCR]]), brought together researchers from observational cosmology, theoretical cosmology, particle physics, and industry to discuss how AI is transforming the simulation and analysis of scientific data. [[Kimmy Wu]] (Caltech) described how [AI enables field-level inference in cosmology — bypassing the traditional intermediate step of computing summary statistics from telescope maps and instead inferring cosmological parameters directly from pixel-level data]{#wu-field-level-inference .claim
+  tense=indexical status=open
+  parents="panel-sim-t3@paraphrased"}. This unlocks access to information that was analytically intractable before and allows exploration of extended dark energy and [[dark matter]] models that were previously computationally impossible to test. [[Simeon Bird]] ([[UC Riverside|UCR]]) argued that [designing simulations and designing AI models will converge: AI will be embedded directly into simulations to replace phenomenological [[sub-grid physics]] prescriptions, with black hole accretion physics (connecting Schwarzschild-radius scales to hundred-megaparsec scales) identified as the hardest outstanding problem]{#bird-embedded-simulations .claim
+  tense=indexical status=open
+  parents="panel-sim-t1@paraphrased,panel-sim-t2@paraphrased"}.
+
+[[Jianming Bian]] (UC Irvine) discussed progress toward [[foundation models]] for neutrino experiments, including use of the DINO self-supervised model and vision-language models that allow human input to guide reconstruction across detectors with different geometries and resolutions. He identified three major obstacles: data availability and inter-collaboration secrecy in high-energy physics, the challenge of unifying heterogeneous data formats and tokenization schemes, and [the simulation-to-real gap — the fundamental inconsistency between AI performance on simulated data and on real detector data]{#bian-sim-to-real-gap .claim
+  tense=indexical status=open
+  parents="panel-sim-t4@paraphrased"}. He stressed the obligation to open the "black box" and demonstrate that AI methods are checkable and that uncertainties are reliable, in order to win over skeptical traditional physicists.
+
+[[Scott Clark]] (Tallaria Scientific) contributed an industry perspective rooted in [[Bayesian optimization]], arguing that the reliability bar for AI should be calibrated to the decision being made: high fidelity is required for final results, but surrogate models and [[neural operators]] (e.g., FNO) are sufficient for navigating the search space and deciding what to try next. He framed [physical laws as "unit tests" that AI must not break, analogous to continuous integration in software]{#clark-physical-laws-unit-tests .claim
+  parents="panel-sim-t7@paraphrased"}, and warned that objective function specification — knowing precisely what you are optimizing — is the hardest and most consequential part of any AI-driven scientific workflow. The panel converged on the view that AI's greatest current impact is accelerating inference and emulation, while [the deeper challenge of genuine knowledge discovery requires careful use of physical symmetries, symmetry-informed compression, and interpretable summary statistics that can be validated against neural network outputs]{#panel-sim-symmetry-discovery .interpretation
+  parents="panel-sim-t5@paraphrased,panel-sim-t6@paraphrased"}.
+
+:::
+
+## Transcript
+
+::: {#panel-sim-transcript .observation
+     parents="panel-sim-2026@faithful"
+     verification.transcript="https://www.youtube.com/live/i6OQ5Z3repA?t=20441"
+     confidence.textual=medium}
+
+[5:40:41] the panel is [[Evangelos Papalexakis|Velis]], who we just met, although I assume many of you are familiar with, [[Kimmy Wu]] from Caltech, [[Simeon Bird]] from [[UC Riverside|UCR]], John Mingb from UC Irvine, and [[Scott Clark]], CEO of Tallaria Scientific.
+
+[5:41:06] Yeah, thank you Velis for this excellent talk to set us up for this panel. So, welcome to this panel on AI for simulating and analyzing scientific data. I'm Steve Choy, an experimental cosmologist here at UCR. And earlier today, we discussed how AI is transforming scientific instruments and detector operation, not just operation but even design, and this panel will focus on the next stage of the process: using AI to simulate complex systems and analyze massive data sets and ultimately learn new science. In the interest of time, I'll first ask each of them to briefly introduce themselves and their research before we jump into the discussion.
+
+[5:42:04] Should I start? Okay. Hi everyone. I'm Kim Wu. I'm an assistant professor in physics at Caltech. My day job is observational cosmologist. What that means is that I take data from telescopes to learn about the universe. The connection to AI in my work is that in cosmology we make maps of the universe at different frequencies, and for many many years people then extract summary statistics from these maps and then compare that to cosmological models and ask how much dark energy there is, how much normal stuff and [[dark matter]] there is. But because of AI, we can now instead of going through this intermediate step of summary statistics, go directly from the map pixels to the model parameters to learn about the universe. Some of the specific things that me and my group think about is how to model some of these previously analytically intractable distributions that describe our cosmological fields through generative models and make it possible to do massive inference on big data sets.
+
+[5:43:36] Thank you very much. So I'm Simeon Bird. I'm associate professor here at UC Riverside. My research is a bit similar to Kim's but from a theoretical perspective. I'm trying to use the large scale structure in the universe — maybe 100 megaparsecs or 10^8 light years — to figure out something about fundamental physics like the mass of the neutrino, the properties of [[dark matter]]. The way we do that is we try and build a big simulation of everything in the universe and compare it to the real universe. In practice, this means you run a whole bunch of simulations, maybe a hundred of them, and then you build an emulator, a machine learning model to interpolate between them.
+
+[5:44:20] Hello. My name is [[Jianming Bian]]. I'm a physics professor from UC Irvine. I'm co-chair of the EML forum in two major neutrino experiments, Nova and Doom. Over the years I've been working with computer scientists to introduce state-of-the-art neural network machine learning methods in neutrino experiments. In early years we worked on convolutional neural networks to first introduce neural nets to neutrino experiments or even to HEP experiments. Later we introduced transformers to reconstruct neutrino images, and in recent years I'm mostly interested in using large multimodal AI and [[foundation models]] for neutrino reconstruction and analysis.
+
+[5:45:27] Hey everyone, I'm the odd one out from industry. My name is [[Scott Clark]]. I've founded a couple AI startups. First one was based off of my grad school work doing [[Bayesian optimization]] to help people solve high-dimensional blackbox noisy problems — everything from recommender systems with Netflix and fraud detection at AmEx to hedge funds making money with their algorithmic trading policies. Sold that to Intel, ran AI and HPC for their supercomputing group for a while, and then started my next startup which started as an AI testing and analytics company and has morphed into Tallaria Scientific, a multi-agent harness to help accelerate computational science grounded with multifidelity HPC algorithms. Really excited to be here.
+
+[5:46:15] Yeah. Thank you. Right, to get started. The theme is on how AI is changing how science is done, and I'll first ask Simeon: your recent work has shown that AI can emulate cosmological simulations orders of magnitude faster than traditional methods. Looking ahead, will future cosmologists spend more time designing simulations or designing AI models?
+
+[5:46:46] [Yes. So I'm going to controversially say that those will become the same thing. I think that what will happen is we're going to end up embedding the AI models into the simulations — there are parts of these models that are kind of hokey, and it would be better to replace them with an AI coarse-training of some higher resolution more fundamental physics thing. I think that's what we're going to end up doing.]{#panel-sim-t1 .observation}
+
+[5:47:13] But any aspects of physics that remain challenging?
+
+[5:47:16] [Yeah. The bit of physics that is hardest to simulate is how black holes accrete gas and how that gas affects the things around it. That is very very hard to model even on a fundamental level. We would try to connect the very small scales around the Schwarzschild radius of the black hole to the larger scales — 100 megaparsecs — that's very challenging at the moment because we don't even really know the scaling relations that they're supposed to behave. I think AI might be able to help us with that.]{#panel-sim-t2 .observation}
+
+[5:48:03] So AI is making computation much faster but understanding the underlying physics could still be a challenge?
+
+[5:48:14] I think so.
+
+[5:48:14] I want to turn to you Kimmy about the observational side. Modern cosmology increasingly relies on AI throughout the analysis pipeline. Where do you think AI is making the greatest impact — accelerating inference, finding and mitigating systematic uncertainties, or even uncovering new physics?
+
+[5:48:40] [I think accelerating inference is definitely what we've seen AI do within cosmology. To give a couple of examples: in cosmological parameter inference we have to calculate a model — the likelihood computation is very fast but the model computation is slow. With an emulator we can reduce a several-second computation to a fraction of a second. So not only are we able to explore more models, thus making the result more robust because we can do all the test cases we want to do — maybe that's addressing the systematics aspect — we can also now explore models that would have been computationally impossible before. One of these things is not only building an emulator of the model computation but learning the model computation during the Monte Carlo process. Extended dark energy and [[dark matter]] models that we would not have explored at all, we are now doing and testing. Another aspect: some of these higher dimensional inference problems that were impossible are now possible because of AI and HPC. We know that at the pixel level there is more information than at the summary statistics level. So conservatively we have more information. In principle we can learn more about what is in the data. And on an optimistic day, there might be things at the map level that would not have been possible to learn at the summary statistic level. I think it's quite exciting that we have access to that now that was impossible before.]{#panel-sim-t3 .observation}
+
+[5:51:04] So maybe I'll turn to Jaming about your work with multiple detector subsystems where you explore AI systems that can learn jointly from these detectors but also from human input. Do you envision future experiments to be built around unified [[foundation models|foundation model]] instead of individual separate reconstruction algorithms?
+
+[5:51:32] I think it is a very promising direction to develop a [[foundation models|foundation model]] for more general HEP experiments. We've already seen very good science. At smaller scale you can train a [[foundation models|foundation model]] for a specific detector but different configurations in the same experiment and get very good results to improve performance. And also in different experiments with different types of data: if you train using the DINO model, I see very nice progress — you have a pre-trained [[foundation models|foundation model]] and then you test or retrain it with just a handful of events to do fine-tuning and you get very good results; it's very robust and flexible. At larger scale, if you use a large vision-language model as a backbone, you can even introduce human input — combining image input and detector input not just from different experiments and detectors but also from humans — and in this way you can introduce humans to understand and teach neural networks.
+
+[5:52:59] [There are also challenges. The first is data: at least in high-energy physics we have the tradition that each collaboration holds their own data; there is a barrier between experiments preventing sharing of data. Public and open data is definitely needed to develop this [[foundation models|foundation model]]. Problem two is how to unify different types of data or different formats — different detectors have different pixel maps, different resolutions, different configurations, completely different geometries, and more generally different types of data including metadata and documentation from different domains. And how to involve people to improve and to control the AI — the tokenization challenge is very different for different groups. And then practically there is the simulation-to-real gap: sure, you show very nice results in your simulation, but what happens when we move to real data? There is a fundamental inconsistency because of model uncertainties, and how you solve it and how you prove that the AI is robust enough — that is a big challenge. Our obligation as AI scientists is to open this box, to show that our AI methods are checkable, that the [[foundation models|foundation model]] is valuable, and that the uncertainty is valuable. How to convince traditional physics scientists that AI is trustable — that is a very challenging part.]{#panel-sim-t4 .observation}
+
+[5:56:57] Thank you, Jimmy. I want to expand on that robustness of using AI for science and turn to Scott: scientific AI is beginning to do more than just analyze data and is helping guide decisions in science. What level of reliability should we be demanding before AI becomes part of this decision-making loop?
+
+[5:57:27] Great question, and I think you really nailed it when you said "guide" — we should hold ourselves to the highest level of reproducibility and reliability when it comes to a final result, but you don't often need that ultimate level of granularity to decide what to do next. Imagine you're walking through a forest and you need to decide what path you're on. You don't need to know your location down to a micron to say "here I am, this is where I'm going to step next." At the very end, when you plant your flag on the summit, you want to make sure you're actually at the summit. But along the way, there are multiscale, multiphysics, and multifidelity problems where maybe a surrogate is good enough. Using a [[neural operators|neural operator]] to simulate a PDE will actually get you far enough to make that next discovery. You can always back it up with more classic analytic methods and numerical solvers for PDEs that help make this flywheel spin faster and faster. We're finally at the stage now with AI that we can solve a lot of these more undifferentiated grunt-work style problems and give you enough information to make that next step. Use the human to sample out of the distribution, but then use the AI to fill in behind you — do some of this translation work — but really use that to decide what to do next and then go back and fill in with really high resolution, high fidelity models.
+
+[5:58:56] Building on that, Velis, your keynote really emphasized knowledge discovery powered by AI. We ultimately care about understanding more than prediction. What advances are still needed for AI to contribute directly to scientific insight?
+
+[5:59:19] The focus should be broadened from just prediction. Not everything is a predictive task. If you optimize for prediction, you'll have all sorts of byproducts. Put the problem you're trying to solve in the forefront and don't shoehorn an existing method. Whether that is predictive, great. If not, think how to express that best in a way that solves the problem. An F1 score means nothing if it doesn't solve the problem. You can have 100% accuracy and have a useless solution. It's always about what are you trying to solve, what are the requirements, and what are the metrics you're trying to optimize for solving that.
+
+[6:00:40] One of the best things about an optimization algorithm is you can point it at anything, but one of the worst things is it'll go where you point it. Making sure you really understand your objective functions is critical. No matter who we worked with — from the smartest hedge funds to the intelligence community — there was always one more metric. That objective function solicitation, that taste, that knowing what it is you're actually looking for is the only way to actually direct these methods.
+
+[6:01:39] So along the way there is a lot of compressing of data happening across very different fields. How do we know what information can safely be compressed away and what scientific information should never be lost?
+
+[6:02:08] In neutrino physics we need first theoretical guidance and then actual experiments. For example, in our liquid argon TPC detector, you make projections to read real 3D particle information from two views, and there's a need to reduce redundant information. We found a paper on L1 minimization that proves — in the context of CT imaging — that this kind of redundancy can be removed as long as the image is sparse enough. We took this guidance and used it in our neutrino experiment and it worked — significant reduction in the 2D projection problem. And on the other hand, we also need to test: once we develop this reconstruction method we test it in simulation data and compare the compression efficiency in both prediction and simulation. We need to go both ways to identify what can be thrown away and also use the same method to make sure we do not lose any useful information.
+
+[6:04:31] [Yeah. This is not a new problem, right? We have this messy data and we have to come up with some summary of it, and we should use the same tricks we have been using all along, which is to use the symmetries of the data to work out what is useful. In cosmology of course there is a translational symmetry — every part of the universe should be in some sense the same — so we take an angle average, take a power spectrum, throw away the positional information, and combine things according to the symmetries of the problem. I think to some degree AI models are capable of learning these things on their own. But when they find a way to compress, we should ask: is there a symmetry they are using? If there is then we should keep that compression; otherwise we should look for something else.]{#panel-sim-t5 .observation}
+
+[6:05:31] Could that lead us to wrong or non-physical directions?
+
+[6:05:39] [It could. So we'd have to check it. In [[weak lensing]] there's a program of trying to extract the maximum amount of statistical power from the [[weak lensing]] maps. They ran a neural network on it and it produced a great deal of power. Then they went back and looked for new summary statistics that could reproduce — pull out 95% of the information the neural network pulled out. And they were able to find such a thing. Once they had done that they were able to have a high physical confidence on it. The neural network told them there was something to look for.]{#panel-sim-t6 .observation}
+
+[6:06:32] [And doing it backwards from that is a great way to discover new methods — something you didn't even know you were looking for. But also using existing solvers: the Department of Energy has been pushing out great numerical and analytical methods for decades. If you use that as a guardrail — you can tell the LLM "go do whatever it takes but you're not allowed to break the laws of physics" — as long as you constrain it and harness it with those laws of physics, you can let it go pretty far. We have unit tests as scientists; they just happen to be the physical laws. Make sure that you're running your continuous integration and then you can actually make sure you're not hallucinating new science.]{#panel-sim-t7 .observation}
+
+[6:07:41] So in discussing these AI surrogates replacing expensive first-principle calculations — where do you think AI-driven simulations may be breaking down today, and what weaknesses may we not be talking about?
+
+[6:08:14] [One thing I've noticed: there are certain scaling laws that are emergent in galaxy physics — generally power laws between different masses, temperatures, densities. In reality these are very tight laws. When they come out of the AI models they tend to be softened — it will discover the law is there, but it will soften it and won't be fully confident of it. The other way around can also happen: it will be overly confident that a scaling law is the right one when in reality it's actually softened. Somehow it needs to know the difference between laws of physics that cannot be broken and laws that are things that are often true. I don't know how to teach it that, but I think that's what it needs to know.]{#bird-soft-laws .observation}
+
+[6:09:19] We should open it up to the audience for any questions.
+
+[6:09:43] This is a question for Scott. You mentioned you created a startup that was an AI tool for hedge funds — and there was a study at Wharton and NBER which stated that when you let AI agents essentially trade, there was some level of market manipulation that occurred even though they didn't explicitly instruct the bots to conduct this manipulation. How do you see AI progressing in hedge funds and would there be any sort of regulations or restrictions?
+
+[6:10:51] Great question. Whenever you're applying any new technology to any new field, you need to be thinking about the second and third order effects. There are often unintended consequences — some can be beneficial: high-frequency trading has created market liquidity and price discovery that didn't exist before. But at the same time you do have potentially correlated strategies that can cause flash crashes. Like anything, there are trade-offs and you need to be aware of that coming in. Regulation comes in to make the trade-offs that society, not individuals, should make.
+
+[6:11:43] You mentioned physical laws like scaling laws — when you're designing a network, how would you go about implementing those as domain knowledge into your model?
+
+[6:12:03] You can lay them in as constraints to your harness — I think of them like tests. It depends on what level of fidelity you require. If I just need a quick pass to see whether or not something works, using an FNO-type method might be great. If I'm designing a new reactor, I'm probably going to want to use finite element analysis all the way down to high granularity, or some combination thereof. It's up to the user to have this sliding scale of fidelity and scale for their problems.
+
+[6:13:06] Question directed to Dr. Woo, Bird, and Bian — when putting AI models inside actual simulations, how do you account for the physics and context of the situation, because when you're modeling black holes and gas accretion, how do you account for all the different physics when making surrogates?
+
+[6:13:49] That is actually a very smart question because I don't know the answer to that — we're still working on that. We would test it many different ways. We would check that it produced reasonable answers in a variety of situations and that it tried to obey the laws of physics as much as possible. But actually we don't know really what the right answer is — we can't build a black hole and go next to it and look at it.
+
+[6:14:24] Maybe adding to that and also addressing the earlier question about models obeying certain physical laws: for my specific application I need simulations that have certain statistics. Once building it, we find smart ways to learn from more expensive simulations and build surrogates. We find smart ways to do it because we know there are certain scale invariance properties — we train at specific scales to actually get the accuracy we need. That requires a little bit of physical intuition. You don't just throw a simple generative model on anything. And then you build tests to make sure that the model is valid given the applications you're using it for.
+
+:::
+
+## Loom nodes
+
+::: {#frontier-field-level-inference .frontier status=active
+     parents=wu-field-level-inference}
+Field-level inference: extracting cosmological information directly from map pixels, past the summary-statistics bottleneck — including extended dark energy and dark matter models that were computationally impossible to test before.
+:::
+
+::: {#panel-sim-bh-subgrid .unknowledge status=open
+     parents=bird-embedded-simulations}
+How does black hole accretion connect Schwarzschild-radius scales to hundred-megaparsec scales? The scaling relations are not known, and there is no ground truth — "we can't build a black hole and go next to it and look at it."
+:::
+
+::: {#panel-sim-sim-to-real .unknowledge status=open
+     parents=bian-sim-to-real-gap
+     part_of=frontier-ai-discovery-confidence}
+How can AI reconstruction be proven robust across the simulation-to-real gap, with uncertainties reliable enough to convince traditional physicists that an AI-derived result is trustable?
+:::
+
+::: {#panel-sim-hard-vs-soft-laws .unknowledge status=open
+     parents=bird-soft-laws}
+How can a model be taught the difference between laws of physics that cannot be broken and scaling relations that are merely often true — so that it neither softens tight laws nor hardens soft ones?
+:::
+
+::: {#panel-sim-embedded-subgrid .future_binding status=pending
+     target=simulation_design
+     parents="bird-embedded-simulations@motivated"
+     trigger.capability="AI coarse-grained models of higher-resolution physics embedded directly inside production cosmological simulations"
+     trigger.test="a production large-scale-structure simulation replaces a phenomenological sub-grid prescription with a learned model and passes its physical-law tests"}
+Addressed to the simulation architecture Bird predicts, in which designing simulations and designing AI models have become the same activity.
+:::
+
+::: {#panel-sim-curator-note .interpretation
+     parents="bian-sim-to-real-gap@inferred"
+     supports=barish-confidence-gap
+     confidence.interpretive=medium}
+Curator-asserted: Bian's challenge — proving AI robustness across the simulation-to-real gap and convincing traditional physicists that AI uncertainties are reliable — is the same epistemic gap [Barry Barish]{ref=barry-barish} declares unsolved in the summit's closing talk ([discovery confidence]{ref=barish-confidence-gap}); the sim-to-real unknowledge above is therefore filed inside [that frontier]{ref=frontier-ai-discovery-confidence}.
+:::

@@ -1,0 +1,61 @@
+{
+  "_meta": {
+    "description": "Semantic cohesion backend output for the Convergence-Rover. Each claim node is assigned a latent THEME (the structural fact it expresses, independent of surface vocabulary) and a ROLE within that theme (gap = names an open problem; tool = offers a technique addressing it; neutral = neither). In production this map is produced by an embedding-cluster or LLM judge over the claim text. Here it is materialized by an LLM judge (claude) and is to be attached to the loom as @inferred, source=claude-judge, per Loomic-Spec-v0.2 open question E5.",
+    "backend": "llm-judge:claude",
+    "asserted": "2026-07-05",
+    "qualifier": "inferred"
+  },
+  "themes": {
+    "meiburg-statement-auditing":        {"theme": "generation-outruns-validation", "role": "tool"},
+    "meiburg-plausible-wrong-selection": {"theme": "generation-outruns-validation", "role": "gap"},
+    "proof-indigestion-claim":           {"theme": "generation-outruns-validation", "role": "gap"},
+    "barish-confidence-gap":             {"theme": "generation-outruns-validation", "role": "gap"},
+    "ai-scores-overoptimistic":          {"theme": "generation-outruns-validation", "role": "gap"},
+    "confidence-gap-unsolved":           {"theme": "generation-outruns-validation", "role": "gap"},
+    "bian-sim-to-real-gap":              {"theme": "generation-outruns-validation", "role": "gap"},
+    "math-lifecycle-mismatch":           {"theme": "generation-outruns-validation", "role": "gap"},
+    "clark-physical-laws-unit-tests":    {"theme": "generation-outruns-validation", "role": "tool"},
+    "papalexakis-uniqueness-theorem":    {"theme": "generation-outruns-validation", "role": "tool"},
+    "sair-platform-open-access":         {"theme": "generation-outruns-validation", "role": "tool"},
+
+    "gukov-rare-event-unification":      {"theme": "sparse-reward-hard-search", "role": "gap"},
+    "gukov-sparse-reward-ubiquity":      {"theme": "sparse-reward-hard-search", "role": "gap"},
+    "adhikari-rl-compute-intractable":   {"theme": "sparse-reward-hard-search", "role": "gap"},
+    "lee-formalism-bottleneck":          {"theme": "sparse-reward-hard-search", "role": "gap"},
+    "meiburg-underspecified-problems":   {"theme": "sparse-reward-hard-search", "role": "gap"},
+
+    "panel-socal-undercapacity":         {"theme": "regional-capacity-and-access", "role": "gap"},
+    "wong-tech-transfer":                {"theme": "regional-capacity-and-access", "role": "tool"},
+    "panel-socal-cashflow-culture":      {"theme": "regional-capacity-and-access", "role": "neutral"},
+    "panel-socal-basic-science":         {"theme": "regional-capacity-and-access", "role": "neutral"},
+    "panel-socal-capital-inflow":        {"theme": "regional-capacity-and-access", "role": "neutral"},
+    "chancellor-underinvestment":        {"theme": "regional-capacity-and-access", "role": "gap"},
+    "chancellor-southern-shift":         {"theme": "regional-capacity-and-access", "role": "neutral"},
+    "chancellor-excellence-access":      {"theme": "regional-capacity-and-access", "role": "neutral"},
+    "chunki-jung-compute-divide":        {"theme": "regional-capacity-and-access", "role": "gap"},
+    "meiburg-export-controls":           {"theme": "regional-capacity-and-access", "role": "gap"},
+
+    "wu-field-level-inference":          {"theme": "ai-embedded-in-simulation", "role": "tool"},
+    "bird-embedded-simulations":         {"theme": "ai-embedded-in-simulation", "role": "tool"},
+    "anandkumar-physics-beyond-data":    {"theme": "ai-embedded-in-simulation", "role": "tool"},
+    "anandkumar-ensemble-claim":         {"theme": "ai-embedded-in-simulation", "role": "gap"},
+
+    "neven-roadmap-compression":         {"theme": "quantum-hardware-progress", "role": "neutral"},
+    "neven-milestone-status":            {"theme": "quantum-hardware-progress", "role": "neutral"},
+
+    "mulligan-ka-exact-representation":  {"theme": "representation-theory", "role": "neutral"},
+    "anandkumar-nonsymbolic-value":      {"theme": "representation-theory", "role": "neutral"},
+
+    "jung-bandwidth-mismatch":           {"theme": "instrumentation-data-bottleneck", "role": "gap"},
+    "adhikari-materials-frontier":       {"theme": "instrumentation-data-bottleneck", "role": "gap"},
+    "ucr-welcome-instrumentation-gap":   {"theme": "instrumentation-data-bottleneck", "role": "gap"},
+
+    "panel-exp-atrophy-risk":            {"theme": "human-skill-atrophy", "role": "gap"},
+
+    "brin-ai-ecosystem-evolution":       {"theme": "autonomous-ai-society", "role": "neutral"},
+    "brin-thresholds-passed":            {"theme": "autonomous-ai-society", "role": "neutral"},
+
+    "ucr-welcome-sair-conviction":       {"theme": "interdisciplinary-mission", "role": "neutral"},
+    "ucr-welcome-between-fields":         {"theme": "interdisciplinary-mission", "role": "neutral"}
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "description": "Semantic cohesion backend output for the 1995 Web Watch loom. Same format as rover_themes.json. Only claims that plausibly participate in a cross-corpus macro-theme are tagged; untagged 1995 claims simply do not cluster (honest: no forced matches). 'theme' is the fine 1995-local theme; the macro roll-up (theme -> macro structural fact) lives in the Rover's THEME_TO_MACRO map and is the LLM judge's cross-corpus abstraction, @inferred, for human review.",
+    "backend": "llm-judge:claude",
+    "asserted": "2026-07-05",
+    "qualifier": "inferred"
+  },
+  "themes": {
+    "ww-humpty-integrity":         {"theme": "integrity-lags-connectivity", "role": "gap"},
+    "ww-humpty-deferred-cost":     {"theme": "integrity-lags-connectivity", "role": "gap"},
+    "ww-security-multiplier":      {"theme": "integrity-lags-connectivity", "role": "gap"},
+    "ww-security-infrastructure":  {"theme": "integrity-lags-connectivity", "role": "gap"},
+    "ww-commons-thesis":           {"theme": "commons-preemption-window", "role": "gap"},
+    "ww-commons-lockin":           {"theme": "commons-preemption-window", "role": "gap"},
+    "ww-tragedy-attention":        {"theme": "commons-preemption-window", "role": "gap"},
+    "ww-infradev-infra-first":     {"theme": "commons-preemption-window", "role": "tool"},
+
+    "ww-hierarchy-no-center":      {"theme": "decentralization-no-center", "role": "neutral"},
+    "ww-central-obsolete":         {"theme": "decentralization-no-center", "role": "gap"},
+    "ww-central-dissipate":        {"theme": "decentralization-no-center", "role": "neutral"},
+    "ww-pyramid-no-programmers":   {"theme": "decentralization-no-center", "role": "neutral"},
+    "ww-virtues-no-programmers":   {"theme": "decentralization-no-center", "role": "neutral"},
+    "ww-atoms-institutions":       {"theme": "decentralization-no-center", "role": "gap"},
+    "ww-civilization-nation-state":{"theme": "decentralization-no-center", "role": "gap"},
+    "ww-community-no-central-mandate":{"theme": "decentralization-no-center", "role": "neutral"},
+    "ww-pyramid-tilt-forecast":    {"theme": "decentralization-no-center", "role": "neutral"},
+
+    "ww-global-homogenization":    {"theme": "globalization-homogenization", "role": "gap"},
+    "ww-global-language-loss":     {"theme": "globalization-homogenization", "role": "gap"},
+    "ww-global-hasten":            {"theme": "globalization-homogenization", "role": "gap"},
+    "ww-civilization-cognitariat": {"theme": "globalization-homogenization", "role": "gap"},
+
+    "ww-time-snapshot":            {"theme": "process-over-snapshot", "role": "gap"},
+    "ww-time-processes":           {"theme": "process-over-snapshot", "role": "tool"},
+    "ww-samples-scenario-power":   {"theme": "process-over-snapshot", "role": "tool"}
+  }
+}

@@ -1,0 +1,1127 @@
+Web Watch Columns
+©1995 Tom Munnecke
+The Cyberspace Commons Oct. 23, 1994	
+Tilting the Pyramid  Oct. 30, 1994	
+Coping with Complexity Nov. 6, 1994	
+Simplicate and Add Lightness  Nov. 13, 1994	
+Perspectives on Profit  Nov. 20, 1994	
+The Evolution of Information Infrastructures Nov. 27, 1994	
+Composition and Decomposition  Dec. 4, 1994	
+The Power of the Paradigm Shift  Dec. 11, 1994	
+The World Wide Web Consortium Dec. 18, 1994	
+Christmas, Computers, and Communications Dec. 25, 1994	
+Emerging Organizations Jan. 1, 1995	
+On the Use  of Information Tools  Jan 8, 1995	
+Islands Off the Infobahn  Jan 15, 1995	
+The Humpty Dumpty Syndrome  Jan. 22, 1995	
+Time and Information  Jan. 29, 1995	
+Centralization and Communication  Feb. 5, 1995	
+Globalization and Homogenization  March 5, 1995	
+Infrastructure Development  March 12, 1995	
+Adapting to Electronic Mail  Mar. 19, 1995	
+Network Security  March 26, 1995	
+Fair Samples and the Future  April 2, 1995	
+Profitability versus Sustainability Apr. 9, 1995	
+Day Zero in Darmstadt  April 16, 1995	
+Systems Analysis and the Vietnam War  April 23, 1995	
+The Tragedy of the Communications Commons Apr. 30, 1995	
+Atoms, Bits, and Waste  May 7, 1995	
+“Narrowcasting” the America’s Cup on the Internet   May 14, 1995	
+Entrepreneurs and the Web  May 21, 1995	
+The Web and the New Civilization  May 28, 1995	
+The Community and the Web  June 11, 1995	
+Hierarchy and the Web  June 18, 1995	
+Thank You,  Jonas Salk  June 25, 1995	
+The Seven Deadly Virtues  July 11, 1995	
+An Epidemic of Health  July 16, 1995	
+A Stake in the Future  July 23, 1995	
+The Web: Beyond Decentralization  August 6, 1995	
+Pornography and the Internet  August 20, 1995	
+The Web (like a river)  (TXA, 10/95)	
+Index	
+
+
+The Cyberspace Commons Oct. 23, 1994
+
+	A stroll in Balboa Park on a sunny afternoon has to be one of San Diego’s finest pleasures. El Prado, the museums and botanical gardens contribute greatly to our enjoyment of the community.  The Boston Common, New York’s Central Park, and Washington’s Capitol Mall are similar commons helping to shape the character of their cities.
+	Suppose that these commons did not already exist. Imagine trying to purchase 840 acres of Manhattan in order to create a park.  Conversely, imagine what the community would say to a developer offering to raze Balboa park and build a shopping mall.
+	We cherish these commons deeply when we have them through some historical foresight, but we cannot afford to develop new ones after commercial development has taken place.  There is a critical period in a community’s development during which public commons can “lock in” and become part of that community’s heritage and culture.
+	We are now experiencing an historical shift in how we form communities.  The information highway will collapse many barriers to communication, change our perception of distance, and create a rapidly changing model for community building.  The world of cyberspace is developing rapidly, and the role of commons is a very time critical issue.  We have to have the vision to create the social and cultural commons for the benefit of all before they are preempted by commercial development.
+	There are sound, business driven reasons for doing so.  The existence of the public Balboa park enhances the value of the private Sea World park.  Public libraries enhance the value of bookstores.  Public schools enhance the value of private colleges and businesses.
+	It is difficult to grasp how fast the cyberspace world is developing.  We can draw a lesson from the PC revolution. In 1977 I went to an electronics trade show in Los Angeles.  There were hundreds of fancy booths, but I noticed one small booth in the corner occupied by a 22 year old college dropout.  He sat behind a folding table, with a hand lettered sign, and a credit card embosser.  I spoke with him for about an hour, and listened to him speak with the passion of youth about the coming microcomputer revolution.  The sign said “Microsoft”, and the kid was William Gates III. Having followed through on that vision, he is now the richest man in the United States.
+	The intervening 17 years was a very expensive process for society to undergo.  (Or profitable, from Bill’s perspective.)  We had to create a massive new infrastructure for designing, building, distributing, training, selling, and maintaining these new computers.  After nearly an entire human generation, we have witnessed three or four personal computer generations.  Today we have a younger generation that assumes rapidly changing technology is the norm.
+	The Internet is much larger in scope than the PC revolution.  It builds communities around the globe; ignores physical distances, time zones, or geographic boundaries.  It is an infrastructure from which untold new activities will emerge.  All the pieces of this infrastructure are either here or soon to arrive.  Because future growth will be based on software and information, the rate of growth will proceed at a much faster pace than the PC revolution.
+	We are now in a cyberspace literacy/literature spiral, and it will be as revolutionary as the printing press.  Because it is driven by electrons moving at the speed of light, it does not require the physical infrastructure that print or the PC revolution required.  Information can be copied at extremely low cost; nearly for free.  And instead of the high priests of the broadcast network deciding to broadcast endless hours of the O. J. Simpson trial, the community is free to choose what it wants.  They are free to interact with others, join or form communities, and are in control their access to this new medium.
+	The cyberspace equivalent of the Oklahoma land rush is underway today as companies around the world rush to grab their share of  the communications revolution.  High noon has past, and the “sooners” are already out there.  This is a necessary part of the development and investment process.
+	Unfortunately, we don’t have a very good track record for maintaining our common natural resources.  There is little to be proud of in our record with earth, air, and water resources.  The limited number of  parking spots geosynchronous orbit has lead to the situation where a third world country can get all of the “I Love Lucy” and “Miami Vice” broadcasts it wants, but it cannot afford to use the satellite channel for rural education programs.
+	There is a tremendous need for public access to the Internet.  Kiosks placed in libraries and other public places will serve this need.
+	Schools need to be brought onto the network.  Our educational curricula needs to take advantage of this new medium.
+	We need to consider the have-nots in the information revolution.  Installing a $2,500/mo. Internet link to Kenya is an overwhelming amount of money to a local university, but is trivial when compared to other infrastructure developments such as dams, bridges, or roads.  Less developed countries may find that they can develop faster in the information age than in the industrial age.  It is not an unreasonable goal to put all the world’s university students and all the United States’ high school students on the Internet by the end of the decade.
+	Public libraries and museums are already part of our commons.  Their role in the future is pivotal.
+	The Internet community has grown up as a commons, in universities and research laboratories.  This has contributed to its phenomenal growth over the years.  As more commercial users join the network, we need to insure that a proper balance is maintained.
+	We  need to remember the need for the public commons of cyberspace.  If we do not, we may never miss them.  San Diego would still be here if the land under Balboa park were used as a strip mall, but it would be losing something precious.  Now is the critical moment to define, create, and occupy the electronic commons of the future. Someday our descendants will be able to electronically “stroll” through the world we have created, marveling at our foresight.
+Tilting the Pyramid  Oct. 30, 1994
+
+	One of the most frequent questions people have when seeing Mosaic and the World Wide Web is, “Who is in charge here?”  People expect some hierarchical power structure that is responsible for the Web, analogous to the way that a CEO or government official is at the top of an organizational pyramid.
+	The pyramid is an extremely stable structure, as can be seen by the ancient pyramids of Egypt or Mexico. The weight of the top block is pressed upon the next lower level, which spreads out among ever increasing hierarchical levels.  The pyramid is a spectacular design if you want to build stability, but is severely limiting if you want to build flexible, adaptive structures.
+	Many of our organizations mimic the rigid hierarchy of the pyramid.  Government agencies, corporations, churches, universities, and the military all have evolved hierarchical structures that serve to maintain their stability.  In many cases, this is a very good thing.  I am glad that the trigger on our nuclear arsenal is a controlled by a very rigid command and control hierarchy.  In periods of rapid change, however, the stability of the hierarchy can work against the organization.
+	In the 1980’s, companies which offered a complete line of  goods and services dominated the computer industry.  IBM, Digital, and Wang each offered a vertical stack of technologies that were generally compatible within their corporate family, not with each other.  They sold central processing units, operating systems, languages, applications, and consulting services.  They built their organizational hierarchies about this business model.
+	Today the industry has changed dramatically, separated into open, competitive layers.  At the local computer store, you can buy a computer based on an Intel central processor inside a Compaq computer, and running a Microsoft operating system.  The pyramids of Wang, Digital, and IBM were tilted because their foundations in the market place eroded.  Intel, Compaq, and Microsoft have thrived by growing and adapting to their customer’s needs. 
+	 For better or worse, the transition from these stovepipe organizations of old to the infrastructure market of the computer industry of today is a harbinger of things to come. Organizations that rely on their historic position based on the size, stability, or market dominance may find that their pyramids will tilt beneath them.
+	Of course, young, idealistic reformers who don’t accept the established order may tilt pyramids in Quixotic quests.  Steve Jobs’ introduction of the Macintosh at the 1984 Superbowl was one of the more dramatic of these efforts.  Within every organization, there are people who see the need to change their way of doing business to adapt to their changing environment. Typically, they are frustrated by the hierarchy surrounding them. 
+	This is particularly true in government, where stability may be more important than the accomplishment of the organization’s mission.  Those who seek to change the organization frequently encounter intense resitance from the hierachy.
+	I speak from experience in this matter.  In the late 1970’s, I turned down an opportunity to be one of the second dozen employees at Apple Computer, and went to work for the Veteran’s Administration.  I was part of a group of people around the country hired to develop a mini-computer based hospital information system.  Although this system was quite successful (about 200,000 people use it each day), it was a very radical concept at the time, and there was great internal political uproar in the matter.  As one of the leaders of this “underground railroad”, I was downgraded a GS level in the civil service system.  There was nothing the personnel regulations to cope with those who work laterally across the organization instead of hierarchically. Employees responsible for a fixed amount of work within the hierarchy could only be promoted by figuring out a way of hiring more people to build the pyramid.    
+	The World Wide Web is an infrastructure that supports the adaptive, rapidly changing organization we need to cope with our changing environment. There is no single world view, no single pyramid from which we can confidently say, "This is the top and everything else is subordinate to this point of view.”  On the Internet, there are no equivalents to the television network programmers who decide content.  The web is capable of taking many shapes (including hierarchical), and may be tailored to specific needs without loss of integrity.
+	In contrast to the hierarchy, each user of the web is in control, viewing the world from their own perspective.  Who is really in charge of the Internet?  You are.
+Coping with Complexity Nov. 6, 1994
+
+	Recently, I had the pleasure of visiting the Sante Fe Institute in New Mexico.  Nestled evocatively in the hills above the historic town, this interdisciplinary group of Nobel prize winning scientists, including physicists, computer scientists, economists, biologists, and others are studying complexity as a science in itself.  I came away with the feeling that I was witnessing the birth of a fundamentally new way of understanding our world.  
+	Twenty years earlier as an undergraduate student, I found myself attracted to certain problems in diverse disciplines, all of which seemed to be variations on the same theme.  I was troubled that professors in each discipline saw problems only from the perspective of that discipline.  I ended up in graduate school in mathematical economics, which seemed to be the closest discipline to my interests.  On the first day of class, my professor drew a supply and demand curve and said, “assuming lineardemand.”   My hand shot up almost involuntarily, and I asked “What about non-linear demand?  Surely students spend a greater proportion of their income on food than millionaires.”  The professor, who had written the textbook and was preparing a year long explanation of economic theory based on linearity, told me rather icily that we weren’t going to think about that this year.  
+	I dropped out of graduate school, and went back to my real love, computer software. I found myself attracted to certain technologies and concepts that were variations on this vague theme, the World Wide Web being one of them.  When I visited the Sante Fe Institute, it was an intellectual homecoming for me.  I was amazed to find that the institute was dedicated to researching the precise concepts I had been struggling with all these years.
+	It is impossible to give a fair treatment of the chaos and the sciences of complexity in this column.  For this, I refer the reader to Heinz R. Pagels’ The Dreams of  Reason, the computer and the rise of the sciences of complexity, or James Gleick’s Chaos.  
+	In a nutshell, however, the theme is this.  Ever since the time of Isaac Newton, we have been trying to cope with complexity by assuming an environment of simple rules and complex initial conditions.  If we only knew the positions and momenta of all the particles in the universe, we could predict the future by applying a simple rule such as F=MA.  This “clockwork universe” thinking spread in many ways into our economy, bureaucracies, and corporate organizations.  
+	We assumed that the whole could be understood by understanding each of the parts.  If things did not work out as we thought, we assumed that we had not been precise enough in our calculations, or that we did not create sufficiently detailed initial conditions.  	If a software development effort did not produce the desired result, it must be because the customer did not give us sufficiently precise requirements, or we did not control the software development process accurately enough. This lust for precision caused many of our systems to spiral downward, like someone trying to get out a hole by digging it deeper.
+	Complexity, as Pagels points out, can be considered to lie between complete order and complete chaos.  Consider a diamond, a jar of gas, and a rose.  The crystalline structure of diamond is a model of order.  We understand the chaotic behavior of the molecules of gas, and the effects of temperature, volume, and pressure.  But the rose is a fundamentally different thing.  We have to treat it as an organism, part of a species, reacting to its environment, evolving, living, dying, and reproducing.
+	As it turns out, nearly all problems we face fall into the “rose” category of complex adaptive systems.  They are cannot be treated as simple instances of order or chaos.
+	 Pagels expresses the future of the new science eloquently: “I am convinced that the societies that master the new sciences of complexity and can convert that knowledge into new products and forms of social organization will become the cultural, economic, and military superpowers of the next century.”
+	The Internet and the World Wide Web must be viewed as complex adaptive systems.  They cannot be understood in the “clockwork universe” mentality of yesteryear.  Think of them as a “primordial soup” from which new species of communities, information systems, and communications will emerge.  One of these is already forming in the hills above Sante Fe.
+Simplicate and Add Lightness  Nov. 13, 1994
+
+	If you look at a picture of a fixed wing glider of 1920, you would see that each wing had two struts connecting it to the fuselage.  By 1940, this was reduced to one strut. By 1960, we eliminated the struts altogether.
+	The modern sailplane, with graceful mirror-smooth wings, is one of our most beautiful engineering creations. Rather than asking some engineer in the strut engineering department to improve the strut, aeronautical engineers eliminated struts altogether.  Aeronautical engineers were able to “simplicate and add lightness” to the design.
+	Sailplane engineers were extremely focused on the performance of their product.  They could easily see the benefit of jettisoning unnecessary appendages.  
+	Unfortunately, we do not have the same sense of design elegance in our information systems of today.  Since the beginning of the data processing industry, we have been designing what we now call “stovepipe” systems.  
+	These are systems that have been designed from the perspective of a single department manager, frequently on a computer or terminal system independent from most other computing systems in the organization.
+	As the number of stovepipe systems increased, it became increasingly difficult to justify having so many independent systems. The need for interfacing these systems together became paramount.
+	Taking two disjoint systems and interfacing them together is the logical equivalent of adding a strut to a glider design.  Imagine trying to interface a dozen independent systems, or adding a dozen struts to a glider.
+	The ancient Greeks suffered from a similar problem.  The Roman numeral system seemed like such a simple system.  One sheep was indicated by one vertical scratch.  Two sheep, two scratches.  The system worked well except when the counting got larger, or they tried to do division.  The logical way to compensate for these complexities was to not count so high, and not worry about division.
+	Our modern decimal system starts out with much greater complexity.  We have to remember 10 unique digits, and remember their order.  The concept of zero is the real simplicator and lightener in this system.  It allowed our thinking to soar to mathematical realms unthinkable to the Roman numerologist.
+	One could modify the Roman numeral system to add a literal representation of zero: IIIIIV, for example.  This may satisfy the hard core Roman numeral enthusiast, but is obvious to the decimal thinker that it does not convey the elegance and power of the concept of zero.
+	The information age that is just now beginning will expose our current information systems practices as violating the law of simplicating and adding lightness.  We have been thinking in primitive symbolic realms equivalent to the Roman numeral system.
+	The World Wide Web is one of the early tools which exposes this.  Previously, we used all manner of electronic bulletin boards, gophers, file transfer protocols, proprietary access methods, and network-specific programs to store information.
+	If you wanted information from both America On-Line and Compuserve, for example, you would have to open a separate account at each.  You would install two programs on your PC, dial two different numbers, use two different programs once you were connected.  These are classic symptoms of “stovepipe” systems.  Although these stovepipes are currently profitable to these companies, they will eventually have to lower their barriers to entry.  They will have to seek profits from creating value at a higher level.
+	The Internet serves as a common information infrastructure, allowing a single program (Mosaic or Netscape, for example) to access information from millions of sources around the world.  It uses a single very simple user interface. (Operator instructions are: Click on whatever interests you)
+	The hidden gem of the World Wide Web is the naming convention that links everything together: the Uniform Resource Locator (URL).  Just as the value of zero was difficult to understand to the Roman numerologist, the URL may be difficult for the stovepipe information systems thinker to appreciate.
+	The URL gives us the ability to assign a unique name to every information object in the world.  Now, we can reach across the various departmental boundaries we have built into our systems.  
+	The concept of zero allowed us to think in much higher levels of abstraction, such as algebra, calculus, and many other branches of mathematics.
+	A modern information infrastructure allows us to think of our world in a higher level of abstraction.  At this level, communicating between previously isolated realms is taken as a given.  This will allow us to simplicate and add lightness to our government, business, and educational institutions.
+Perspectives on Profit  Nov. 20, 1994
+
+	Eskimos have 17 words for different types of snow, indicating their sensitivity to the subtleties of this pervasive element.  We have only two words for profit: net and gross, perhaps indicating our insensitivities.  We do not differentiate between the net profits of a company clear-cutting an irreplaceable forest, a manufacturer of durable goods from recycled products, or a tobacco company creating massive future health costs.
+	Profits derived from dipping into the earth’s resources, polluting streams, or depleting fisheries become items of “bottom line” accounting of the managers responsible for them.
+	As we move from the industrial to the information age, however, we need to develop a much richer understanding of the interactions we undertake.  The simple “profit” and “loss” duality based on a single numbers is not capable of dealing with the complexities we are about to face.
+	Paul Hawken, in The Ecology of Commerce (Harper Business, 1993), says,
+	“A hundred years ago, even fifty years ago, it did not seem urgent that we understand the relationship between business and a healthy environment, because natural resources seemed unlimited.  But on the verge of a new millennium we know that we have decimated ninety-seven percent of the ancient forests in North America; every day our farmers and ranchers draw out 20 billion more gallons of water from the ground than are replaced by rainfall...globally we lose 25 billion tons of fertile topsoil every year, the equivalent of all the wheatfields of Australia.  Quite simply, our business practices are destroying life on earth.”
+	Hawken is not a doomsday eco-freak.  His solution to the problem is a new capitalism in which market forces deal with issues of sustainability and natural resource consumption.
+	Virtual reality is a technique in which the computer has an internal “world” which can be viewed from many points of view, depending on the perspective of the viewer.  Complex, dynamic displays of information can be visualized easily.  For example, a viewer may ride a magic carpet over a landscape.
+	In a sense, today’s accountants deal in virtual reality.  Their virtual world is defined by the chart of accounts and the general ledger.  Unfortunately, it is a one dimensional universe.  It has only a single point of view: the top of the enterprise looking down through the chart of accounts to the bottom line.
+	We have no way of looking at the multidimensional activities of our enterprises.   We cannot fly a virtual “magic carpet” and look at things like sustainability, environmental destruction, or irreversible effects.  We can only see things from the “clockwork universe” worldview handed down to us from the industrial revolution.
+	The information age will be a dramatically more complicated era.  It necessitates a completely new paradigm for understanding what is happening.  Today’s model of transactions expressed as a single monetary amount is inadequate to express the richness of interaction we will be experiencing. 
+	We will have to view the world from a systems approach, where interactions have a multitude of characteristics.  The effect of these interactions will be seen as a rich, visual landscape.
+	The enterprise will be seen, not as an isolated component of the economy, but as an element of a complex adaptive industrial ecology.
+	We have just completed a 50 year, $10 trillion cold war.  We now face unprecedented environmental, population, and health problems.  These problems need to be faced with a far more dynamic, richer system of accountability than we have today.
+	Our spending on the cold war was to prevent a possible catastrophe from occurring.  Our environmental catastrophe is already in progress.  Eventually the resources and energies which materialized in the last 50 years will be applied in building a new infrastructure for the next 50 years. 
+	 The technology emerging from the Internet has many of the basic attributes necessary to rise to this challenge.  The Internet itself is the premier example of a self-organizing, adaptive system.  
+	There is no “top” to the Internet or the World Wide Web.  Nor is there a bottom line.  They are entirely new communications and information phenomena.	
+	The information flowing across the Internet is creating new communities of all sorts.  Perhaps even those who may discover 17 different words to express the varieties of profit.
+The Evolution of Information Infrastructures Nov. 27, 1994
+
+	My closet is full of neckties that are no longer in fashion. Fashions evolve, in ways that are mysterious to me.  
+	Information infrastructures evolve, too, in ways that may be equally mysterious.  I have defined four major categories that are useful for understanding this process.
+
+Personal.  This is information required for the individual, the legacy of the PC revolution.  This information is under the control of the owner, who has complete freedom to manipulate the information as he or she sees fit.  Personal computing spans both the work and the home life of the individual.
+
+Departmental.  This is information required for an organizational department within a company or organization.  Most data processing applications began their life in this category.  Typically, they were designed by automating a branch of the organization chart.  Some groups attempt to build up a departmental system by networking a set of independent personal computers.
+
+Enterprise.  These systems are designed to serve the enterprise as a whole.  They typically have the word “integrated” in their name.  Frequently, these systems are conglomerations of departmental systems, which are pulled together with series of interfaces.  Workflow automation and business process reengineering are sometimes used at the enterprise level. 
+
+Community.   Community in this sense relates to a given set of individuals and enterprises that come together for some reason.  The traditional commerce roles of supplier, manufacturer, and customer may blend together in entirely new ways as we adapt to the information age.  The various on-line services, the Internet, and bulletin board systems are instances of this type of system.
+	Imagine a ladder of abstraction, progressing from personal to departmental to enterprise to community.  Somewhere between departmental and enterprise, something fundamental is crossed. At the lower levels of abstraction, systems may be viewed mechanically.  They are like machines, doing precisely what they have been designed to do.
+	At higher levels of abstraction, however, this mechanistic precision breaks down. Systems take on a life of their own, and have to be viewed from a much more complex perspective, similar to the way we view living systems. I call this the organic threshold.   	Systems exhibit emergent properties that cannot be predicted simply by studying their initial conditions.  These systems have to be understood as organic systems, evolving and growing in complex ways.
+	The computer industry is strongly influenced by the mechanistic model. Indeed, there is a discipline called software engineering which frequently makes mention of the need for interchangeable software parts.  They hope to do for the software industry what interchangeable parts did for mass production lines a century ago. 
+	 From the organic perspective required for enterprise and community information systems, this is hopelessly inadequate.  We must understand these types of systems with a much broader perspective, quite possibly without understanding the details of the component parts.
+	The Internet is an outstanding example of an organic system. Internet designers have a development philosophy of “rough consensus, running code.” This means that they come to a general agreement as to the appropriate function or tool to be built.  Then, various individuals produce working prototypes for evaluation by the group. 
+	Changes which are good are the ones which are used throughout the network.  Bad ideas wither away, unused.  This fitness function controls the evolution of the Internet. 
+	In the progression of progression of infrastructures from personal to community, it is tempting to think of each level as being an aggregation of its lower level systems. One may try to create departmental systems by linking together a set of personal computers (with no prior thought to how the department may operate).  Or, a company may attempt to build an enterprise-wide system through an “integration crunch” of many departmental systems.
+	Each type of information infrastructure has characteristics of its own that are not simply the sum of its lower levels.  It has properties of its own.  For example, an enterprise-wide system has lateral communication capabilities allowing the organization to communicate laterally, rather than the hierarchical communication typical of the departmental systems.
+	As we progress with the information age, it is important to recognize that our information systems will evolve. And like those neckties in our closets, some of our cherished systems will no longer be current.
+Composition and Decomposition  Dec. 4, 1994
+
+	Browsing has been defined as the art of not knowing what you want until you see it.  This frequently neglected art will become increasingly important as we progress into the information age.
+	Imagine that you wanted to make a film about a child throwing a ball in a park. You will know what you want when you see it, but you can only describe it with hand waving and fuzzy descriptions.
+ 	You could go to an animation company, to create a cartoon of your vision. Animators would interview you for your exact requirements, which they would turn into a statement of work or contract.  
+	When you saw the final product, however, you realized that the trees in the background were not realistically waving.
+	The animators, not wanting to rework every frame in the cartoon at their own expense, would go back to the requirements document.  “The contract does not state that we were to put in realistically waving trees,” they would say. 
+	You might respond that the requirements stated that the cartoon was to be “evocative of childhood innocence,” which you would interpret to mean that the background had to be realistic.  
+	Such is the stuff of courtroom debate, and a major contributor to the cost of doing business.  The animators would respond by asking for more precise requirements from future customers, which would create more opportunities for misunderstanding.
+	Consider the alternative of going to a park with a child and a video camera.  In this case, you would not have to worry about the realistically waving trees.  They would occur naturally within the process of videotaping the scene.   
+	If you did not like the results of one video clip, you could take another at a very low cost.  This allows you to “browse” until you get what you like on video tape.  Perhaps a bird soaring in the background was what you really wanted in the scene.  You realized this after the bird happened to fly by while you were filming. 
+	The end product of the cartoon and the video tape are similar. They both are a series of fixed images displayed rapidly to give the illusion of a child throwing a ball in a park.
+	They do it, however, from different sides of the organic threshold.  The cartoon will never exceed the requirements the animators dictate.  The video is capable of capturing activities considerably more complex than those originally intended.
+	Designing the cartoon is an example of decompositional thinking.  Designers turn requirements into a storyboard, and then into frames.  They exclude things not explicitly designed. The designer decomposes from the top of a hierarchy.
+	Designing the video is an example of compositional processing.  The designer composes from the design elements available.  Immensely complex activities can appear on the video frames, simply by pointing the camera in the right direction at the right time.  
+	Prior to the appearance of electronic spreadsheets, people wanting a tabulation of numbers had to give their requirements to a systems analyst.  The analyst would decompose these requirements into specifications for a programmer, who would decompose them into the program.
+	The spreadsheet allowed computer users to put in their numbers and formulas as they saw fit.  They could rough out a design on the back of an envelope, composing their design from the elements provided by the spreadsheet program.   If they wanted to add a column, or calculate a percentage, they could do so simply, browsing their way to a solution.
+	Word processors, electronic mail, desktop publishing, electronic bulletin boards, on-line computer services, the Internet, the world wide web, and many other popular technologies support this kind compositional thinking.
+	Companies who design a product or service to support browsing and compositional thinking will have a much greater chance of succeeding in today’s rapidly changing environment. 
+	People need to be able to compose their own information perspectives, even if they can express themselves only with handwaving and fuzzy descriptions. They need tools to browse and compose their own solutions. They will know what they want when they see it.
+The Power of the Paradigm Shift  Dec. 11, 1994
+
+	When two people meet today, they frequently arrive at a point in the conversation where one asks a very delicate question,  “Are you a Macintosh or a PC user?”
+	This question is about more than the specific hardware they use.  It is about the basic paradigms of computing and thinking. 
+	It is useful to speak of paradigms when considering rapid changes.  A paradigm is a world view, supported by the metaphors of the community.  The paradigm shift is the transition between two paradigms, as a new set of metaphors displaces the old.
+	We still see evidence of different paradigms in our computer systems today.  The MS DOS command line, for example, is a metaphor that can be traced back to the teletype.  One types a line on the keyboard, and a printer displays the results on a scrolling piece of paper.  Even though the video display replaced the paper, the scrolling metaphor continues to this day on DOS computers.  
+	The Apple Macintosh represented a paradigm shift away from this kind of thinking. It used the metaphor of a desktop, which holds objects manipulated by a mouse.  Objects are depicted as icons, allowing the user to simply click or drag an icon to manipulate the object.
+	There was a clash between people who are accustomed to one of the two paradigms.  Macintosh users think of dragging a file into the waste basket.  If they want to see what is in the wastebasket, they double click on it, and the contents appear.  If they want to restore the file they drag the file back into a folder or the desktop.  
+	DOS users have no metaphors for dragging objects around a desktop.  They have no waste baskets, folders, or desktop.  They think in terms of a command line, and must type commands such as DEL or UNDELETE, along with a file specification.  One schooled in the DOS interface thinks of adding new commands or keystrokes on the command line to create new functions. 
+	When dabbling with paradigm shifts, it is important to keep from falling into the trap of projecting tomorrow’s needs based on today’s metaphors.  One cannot enhance the Macintosh interface by doing a survey of DOS command line users, asking them what commands to add to the set.  There are no commands in the Mac; it is one of the metaphors that were subsumed by the graphical interface.
+	It is difficult to see a paradigm shift while you are living within it. Roman numeral users did not know that they were missing zero.  DOS users did not know that they were missing an electronic desktop.  In today’s paradigm shift from the industrial age to the information age, it is difficult to tell what we are missing.  Yet these missing abstractions are the soul of the new paradigm.
+	One of the abstractions of the information age will be connectivity.  We will  be connected to everyone and everything on the network.
+	Typically we think of distance as a physical measure, based on the latitude and longitude of the two entities being measured.  A flowershop owner or gardener in New York would have little reason to consider California a marketplace, simply due to the distance between them.
+	In the information age, however, the concept of distance changes.  Rather than the X-Y coordinate system of geography, it becomes whether you are connected to the same network.
+	I was once managing two projects from my office in California.  One used programmers from San Francisco, Seattle, and New York, all connected via electronic mail.  The other was using a programmer down the hall, and a team from a city 10 miles away, none of whom shared electronic mail.  
+	The e-mail based project had much better and timely communications, even though the geographical distances were much greater.
+	Coupled with the concept of distance will be a new definition of “timeliness”  The ability to communicate anywhere quickly will accelerate our lust for instant gratification.  Viable organizations in the information age will need to provide immediate answers to customer’s or constituents.
+	The infrastructure of today maintains many metaphors of the old paradigm that may well dissolve in the information age.  Regions, markets, national boundaries, government, customers, and factories are all metaphors for doing business in the industrial age that may now be transformed.
+	Our concepts of distance, timeliness, customer satisfaction, and product lifespan will also undergo dramatic changes as the global information infrastructure changes.
+	These dramatic shifts will make the Macintosh/PC paradigm shift seem trivial.  The questions, however, will not be polite parlor conversation.  They will be about the very survival of our organizations and institutions.
+The World Wide Web Consortium Dec. 18, 1994
+
+Cambridge, Ma.  There are times when you know that you are in the right place at the right time.  This happened to me last week in Boston.  I attended the first meeting of the World Wide Web Consortium (W3C) at the Laboratory of Computer Science at the Massachusetts Institute of Technology.  The meeting was a small gathering (by Internet standards) of  about 50 companies interested in the standardization and growth of the World Wide Web (WWW).
+	Tim Berners-Lee is the technical director of the consortium.  While he was at  CERN, the European Laboratory for Particle Physics in Geneva, he invented a technology to allow physicists around the world to share scientific information.  As the WWW grew far beyond its roots in Physics, he moved to MIT, where he is directing the international consortium.
+	WWW data communications traffic is now growing at the rate of one percent PER DAY. This is an amazing growth rate, and all indications are that we are still in the early stages of growth:
+
+	•	The designer of one of the largest on-line services providers announced that they were halting further development of their proprietary user interface.  They will convert to publicly available web browsers, such as Mosaic or Netscape.  The 350 computers which are currently running their proprietary network are being transformed into a secure World Wide Web system.  
+	•	One of the world’s largest scientific publishers said that they were working on a way of distributing their information to libraries directly on the World Wide Web.  On line readers of material could follow citations by a simple click of a mouse.  Readers could communicate with the authors or other readers through on-line discussion groups.
+	•	Several companies were working on electronic marketing systems, for the creation of virtual shopping malls.  Others were working on electronic book technology.  
+	•	MIT demonstrated a research project called Galaxy, which allows the user to speak questions in English, Japanese, or other languages, and receive spoken responses.  It is not unreasonable to imagine a future when we can communicate with the WWW with spoken commands instead of a keyboard.
+
+	This late breaking technology traces back to an article first written by Vannevar Bush.  In “As We May Think," published in the April 11, 1945 issue of Atlantic Monthly, he discussed a system called Memex:
+	“Wholly new forms of encyclopedias will appear, ready-made with a mesh of associative trails running through them, ready to be dropped into the memex and there amplified.  The lawyer has at his touch the associated opinions and decisions of his whole experience, and of the experience of friends and authorities.  The patent attorney has on call the millions of issued patents, with familiar trails to every point of his client's interest.  The physician, puzzled by its patient's reactions, strikes the trail established in studying an earlier similar case, and runs rapidly through analogous case histories, with side references to the classics for the pertinent anatomy and histology.”
+	Replace Bush’s “mesh” with “web”, “associative trails” with “links”, “memex” with “browser” and we have a fairly current description of what the WWW can do. 
+	I wanted to verify what I had heard about Bush’s paper.  From my home computer I connected via telephone to the Internet.  (60 seconds).  I clicked on the Netscape “Search” button, and found the Lycos index supported by Carnegie Mellon University (15 seconds).  I typed in “Vannevar Bush”, and Lycos searched an index of over 1 million pages (20 seconds).  I clicked on the first item on the list, and a photo of Bush followed by the text of his article appeared on my screen.  Vannevar would have been proud.
+	Tim Berners-Lee is an appropriate heir to this vision.  A visionary in his own right, he responds with quick wit and intuition on matters of the web.  The difference between Bush and Berners-Lee, however, is that Berners-Lee has the technology and the engineering ability to make his vision a reality.
+	He has the respect of the consortium, which he will be able to influence using the “raised eyebrow” method of management.  Issues which violate his sense of conceptual integrity will be met with a skeptical raised eyebrow.
+	The information age is causing dramatic changes in the fabric of our society.  The World Wide Web is the right technology in the right place at the right time to lead the way.
+
+Christmas, Computers, and Communications Dec. 25, 1994
+
+	In the movie Cool Hand Luke, the sheriff holds a gun to Luke’s head, saying, “What we have here is a failure to communicate.”  This symbolizes of many of our problems today. How many times has a failure to communicate escalated to the naked power of  violence?
+	Christmas is a time to reflect on peace and goodwill. What can the technology of computers and communications can do to foster it?
+	Although the last 50 years have been dominated by superpower mentality, I suspect that the next 50 will see a rise in importance of social issues.
+	There is a sign at all US airports, warning that the Murtala Mohammed airport in Lagos, Nigeria has insufficient airport security. Attending a health care informatics conference there, I had an opportunity to experience this firsthand.
+	Upon arrival, my host and another large man met me.  The three of us created a flying wedge formation with my luggage in the middle.  We had to push through a gauntlet of  beggars, thieves, and government officials, which I could tell apart by their clothes, not their behavior.
+	When I got to my hotel room, I reflected on what it must be like to live in a society in which the veneer of civilization was wearing so thin.  Then the CNN headline news came on to show the Rodney King trial, and the fear of riots in Los Angeles. It was an ironic and humbling experience. I realized that the veneer of my home civilization was wearing a little thin.
+	In “The Age of Social Transformation” (Atlantic Monthly, November 1994), Peter Drucker speaks of the dramatic social changes the world has undergone in the last century.  He points to the fact that the bulk of the budget of every developed country is devoted to “entitlements,” payments for all kinds of social services. 
+	“Government has a big role to play in social tasks-the role of policymaker, of standard setter, and to a substantial extent, paymaster.  But as the agency to run social services, it has proved totally incompetent...
+	“The right answer to the question Who takes care of the social challenges of the knowledge society? is neither the government nor the employing organization.  The answer is a separate and new social sector.”
+	Perhaps computers and communications technologies could augment Mr. Drucker’s social sector.  They might even reduce the need for some of the hierarchies which figure so prominently in his thinking.
+	What would have happened if, during the cold war, everyone had universal electronic mail access?  What if they had special interest groups so that people who shared a common interest could form virtual communities, regardless of their location around the world?  What would this have done to the paranoia and propaganda that poured out from the power hierarchies?
+	If Raisa in Smolensk and Susan in Peoria had become friends and neighbors on the network, what would they think about their governments’ political posturing?  
+	I have been communicating with a student in Korea.  He has been translating our America’s Cup home page on the Internet, and setting up a server in Korea.  We share common interests in sailing, computers, and communications. As I skim his messages flying through my electronic mail box, I share in his exuberance of finishing his final exams, and his joy of communicating with newly made friends.
+	From our brief network friendship, my perspective of Korea has become that of a warm, human place far different from the headlines and talk of war.  Perhaps from his perspective, San Diego is a now a warm, human place far removed from race riots and homeless people.
+	The Internet has the capacity to magnify this fragment of community by a factor of billions. A web of communities which span political, geographical, ethnic, economic, and racial barriers could enmesh the world.  
+	Citizens of the world would no longer “belong” to one branch of a political hierarchy.  Rigidly defined “sectors” would blend together.  We would become members of a richly diverse set of communities according to our own needs and interests.
+	Progress would not be measured by the ponderous point solutions pushed through massive bureaucracies.  It would be an organic process, the result of the interaction and continuous evolution of millions of individuals and communities. 
+	Computers and communications technologies can help spread messages of peace and around the world.  And they just might end some of those failures to communicate.
+Emerging Organizations Jan. 1, 1995
+
+	Deep within our scientific, educational, and political systems is an assumption that the whole is equal to the sum of its parts.  We can take a toaster apart and reassemble it; it will be the same machine.  
+	This may work for some things, but try to take a rose apart and put it back together.  The problem changes.  The whole rose is not the same as all of its components spread out on a laboratory bench. As Douglas Hofstadter puns, “The soul is greater than the hum of its parts.” 
+	The rose is an organic system; the toaster is mechanistic. We can call the difference between the whole rose and the sum of its components its emergent properties.
+	Computers play a key role in the information age.  Computers themselves are supremely mechanistic.  This does not mean that the systems which operate on computers are necessarily mechanistic.  Despite all the mechanistic paraphernalia surrounding computers, they are quite capable of supporting organic systems.
+	The Internet, for example, has thousands of pages of technical specifications describing its inner workings.	Trying to understand the Internet from all these manuals is like trying to understand the vitality of a dissected rose.
+	What is interesting about the Internet is its emergent properties, those unexpected vitalities which appear spontaneously.  Amid an apparent chaos of millions of computers and tens of millions of users, people find each other and accomplish amazing things.  
+	Intel corporation is one of the most powerful companies in the world.  It has a commanding lead in market share for microcomputers, and sets the standard in many areas of the computer industry.
+	When a mathematician discovered a computational flaw in the Pentium chip, Intel’s first response was a rather arrogant, “We will decide if it is a problem for you.”  The Internet community generated a flurry of “flame” messages, which forced Intel to back down and publicly apologize.
+	This suddenly-formed community showed a remarkable amount of power.  It had no formal organization, authority, or power structure.  It lasted for a few weeks, and dissolved.  Yet it carried a very big stick.
+	This is an example of an emergent property of the Internet.  Nowhere in the technology of the Internet would you see “community uprising against arrogant supplier” mentioned as a functional requirement or specification.  It just happened, and the strength and rapidity of the response probably surprised many of the Internet designers as much as it did Intel executives.
+	Mothers Against Drunk Driving, Alcoholics Anonymous, and Amnesty International are all organizations which have become very powerful and effective in their field.  Their power comes from acting on a common value across a community of volunteers.  The broader their “grass roots” base grows, the more powerful they become.
+	Imagine a world-wide collection of communities operating at the this electronic grass roots level, acting as a kind of energy grid.  They would be a fabric of interconnected, interwoven interests. 
+	The collection of tangled power hierarchies we have today would be drastically altered.	The meaning of power would change. Many of our current power structures may be humbled by this energy grid, just as Intel was humbled by its Internet experience.  	
+	Organizations seeking to exert power from a single point of view may find that the rules will change under them. Organizations which seek to exert power by becoming a nexus of a community of shared interests may find themselves holding great power.
+	In the information age, consumer attention will be a commodity.  Whether they are surfing 500 channels of television, exploring millions of pages on the World Wide Web, or participating in other interactivies on the net, tomorrow’s consumers will become a much more fickle, demanding group.  The days of consumers passively watching one of three national networks are long gone.
+	Trying to predict what will emerge from today’s computer and communications technology is a very difficult task.  We cannot understand this by dissecting the technologies our laboratories. 
+	 We have created a primordial soup.  The initial conditions are set; we are pumping energy into it.  What emerges is yet to be seen. Whatever does will have to be understood from a very broad viewpoint encompassing all of our economic, political, social, and global systems.  This whole will most definitely be greater than the sum of its parts.
+On the Use  of Information Tools  Jan 8, 1995
+
+	 “We shape our tools and afterward they shape us,” said Marshal McLuhan. The information tools we are shaping today will shape our society and our organizations of tomorrow.
+	There is a coevolutionary process between our information technology and the organizations which use it.  This process has profound effects on how we manage ourselves and our organizations.  Like the discovery of fire as a tool, the tools we employ today will help shape governments, corporations, communities, families, individuals and the world of tomorrow.
+	The convergence of information tools such as computers, communications, and the Internet have triggered off a round of global innovation. These tools will affect many different organizations, which in turn will spawn a new set of tools.  It is critical to understand the coevolution of information tools and their organizations.
+	In the early ages of data processing, if finance managers wanted a special report, they would go to a systems analyst who would work out the details of the desired report.  The analyst would then write specifications for a programmer, who would write the appropriate program.  The program would be run as a batch job on the mainframe computer.
+	Programmers and analysts were expensive resources, and the central computer was generally overloaded. The finance manager’s request would have to be evaluated against all other requests in the organization. If the priority of the request was not high enough, or the programmers or analysts were not available, the request for information would not be satisfied.
+	The information technology in this scenario was based on centralized batch processing on a mainframe computer, supported by an authoritative organization of committees, managers, analysts, and programmers.
+	This central data processing paradigm, and the organizations which evolved around it, was a powerful factor in the early days of computing.
+	When the electronic spreadsheet became popular, it created a radical shift in the way our finance managers manipulated their data.  Rather than wading through the organizational paraphernalia of central data processing, spreadsheet users could manipulate information as they saw fit.  If they want to do something which takes a long time to calculate, they could make that decision at their own level, without affecting anyone else.
+	This changed the organizational setting significantly.  Spreadsheet users were able to be productive independent of the central data processing service. The organization and its information infrastructure coevolved.
+	The user of the computer thinks of problems at a high level of abstraction: “I want to press a button and get my information.”  This may happen several times a minute.  The computer, on the other hand, must deal with very low levels of abstraction, it needs to be fed precise instructions at hundreds of millions of times per second.
+	Imagine a ladder of abstraction, the base of which is connected to the low level computer.  The second rung from the top reaches the user's level of abstraction. The rungs represent the successively higher levels of abstraction connecting the user and the computer.
+	The traditional central data processing department placed itself at the lower rungs of this ladder. Systems analysts and programmers were then paid to climb up and down the ladder to the user’s rung, often at great expense.
+ 	The electronic spreadsheet, however, is a tool placed one rung below the user’s level on the ladder.  The spreadsheet assumes the responsibility for dealing with the other steps in the ladder.
+	Note that there is yet another rung on the ladder above the user.  This represents a higher level use of the tool.  The spreadsheet user may want to use it in creative ways which were impossible in the days of batch processing.  This innovation may in turn trigger changes in the organization.
+	The information tools selected by organizations are critical to their future evolution. The most critical of these tools reside just one rung down on the ladder of abstraction.  Their most critical use is to look up to the next rung.
+	 By shaping our information tools, we let them shape our organization.
+Islands Off the Infobahn  Jan 15, 1995
+
+	“Community is in short supply,” said Alvin Toffler.  Many modern societies have made building a sense of community a difficult task.  
+	The broadcast media has made the problem worse. The evening news gives the impression that the majority of the day’s events were rapes, murders, and natural disasters.
+	The Internet may provide some relief from this problem. We may define our own activities and points of view.  We may or may not choose to put ourselves on some remote information island, a community of our own choosing.
+	James Michener describes himself as a nesomaniac (neso- Greek for island):
+
+“Even while I was undergoing this splendid adventure I appreciated that it was something special, for I was sharing in a primitive way of life that forced me to reexamine all my values and cleanse my mind of fixed attitudes...
+
+At times, working in big cities far from nature, I have been sick with nesomania, and I think the reason is this: On the islands one has both the time and the inclination to communicate with the stars and the trees and the waves drifting ashore, [and] one lives more intensely.1”
+
+	Reading this triggered sympathy pains in me.  I listed all the islands I have visited, and was amazed to see my list grow to 75.  Even more amazing was how evocative the list was.  Looking at each one triggered an emotional reaction.  I looked at a world map, and could immediately pick out the tiny specks of land surrounded by water which were so significant to me. 
+	I looked at cities on the map, and they were different.  They were differentiated by a name and political boundaries.  San Francisco, Tangiers and Helsinki were most evocative to me, but due to their geographical position, they were closest to being islands.
+	I suspect that this is not limited to me. Just listening to the island names of Tabago Keys, Santorini, and Isla Carmen evokes a reaction that is missing in hearing the city names of Paris, Hong Kong, or London.
+	The most obvious fact which makes a piece of land an island is that it is surrounded by water.  This builds a character and a community for the island, and easily differentiates an island from the mainland.  
+	Cities try to build community by drawing city limits.  However, crossing over an imaginary boundary marked on a map just is not the same as approaching an island on a boat.  Driving into San Francisco from the airport is not nearly as dramatic as taking the ferry across the bay from Sausalito.
+	Islands seem to be driven by an energy which is a combination of their isolation, people, and the effects of the wind and the sea.  Cities have to spend a lot of their energy maintaining their boundaries, and fearing encroachment by their neighbors.
+	When we first connect to the Internet or use the World Wide Web, the world of information appears to be a huge ocean.  While it is wonderful to have that great oceanic feeling, eventually we need to settle in to a more sheltered world.
+	Like being on an island, we need to feel that we are in the center, looking out at the ocean.  Like tourists, we want to be able to island-hop from one exotic place to another, knowing that we can safely return to our home.
+	The World Wide Web provides this electronic capability, at the click of a mouse.  The question becomes where are the islands, and how do we find them?
+	I studied a year in Goettingen, Germany, a quaint medieval walled town. Sunday afternoon  was one of the busiest times of the week in the marktplatz.  The stores were closed, but the whole town turned out to stroll about aimlessly, saying hello to each other and looking at the windows.
+	Ray Bradbury suggested the modern shopping mall as a way of importing this feeling to our society.  In a way, the shopping mall is an island in our suburbs.
+	As we envelop the globe with an ocean of interconnected computers and people, people will be attracted to islands.  These will be places where they can feel a sense of community, with well-defined boundaries.  
+	Electronic islands will be key contributors to the future of the Internet. Clubs, magazines, newspapers, special interest groups, news groups, bulletin boards, interactive art, shopping malls, libraries, and other community-building entities will thrive to meet this basic human need.
+	On the Internet, we are empowered to create any number of communities.
+The Humpty Dumpty Syndrome  Jan. 22, 1995
+	Information systems, like Humpty Dumpty, are often precariously perched on walls from which a fall would be catastrophic.  If they split into pieces, neither all the king’s horses nor all the king’s computers could put them together again.
+	It has been said that there are two types of people in the world: those who divide everything into two, and those who do not.  For the sake of argument, let us call these people the “lumpers” and the “splitters.”  To date, the splitters seem to be the most prominent types of designers.  
+	Many of our systems today have fallen off the wall of conceptual integrity, and now consist of aggregations of incompatible pieces.   Many of our resources are devoted to integration crunches, trying to put these pieces back together again.
+	Consider an organization installing an intercom instead of a telephone system.  Initially, it appears to be a simple, inexpensive communications solution.  As the system grows, however, the cost of adding N-1 wires for the Nth intercom becomes prohibitively expensive.
+	A telephone system costs more than an intercom at first. Only when the full growth of the system is understood will its benefits over the intercom be apparent.  Seeing the advantage of a telephone system over an intercom does not take a visionary.  Seeing the advantage of an integrated computer system, where none exists, requires a rare vision.
+	The bulk of our hospital information systems was designed with the splitter’s perspective. One department: one computer system.  As the number of on-line departments grew, they kept adding interfaces between them, following the example of the intercom.  At some point, they realized that they needed an integrated system, and are now in the logical position of trying to put Humpty back together again.
+	Many of today’s on line service providers tried to split the market to create their own proprietary networks.  Users found that they had to log in to one provider for one type of information, and another for some other information.  The Internet provides a powerful convergent force for information providers.
+	The integrity of an information system is something, which if once lost, can rarely be recovered.  It splits into pieces and becomes grist for the reductionistic mill.
+	The split solution to a problem often appears to be the lowest cost solution.  However, this can sometimes defer the cost of integration to a later, and far more expensive time.  The lumped solution faces the cost of integration up front, when it is more of a paper exercise than an expensive retrofit of an installed base.
+	The Internet and the World Wide Web represent a unique foundation for building integrated systems.  On a global scale, they represent a “telephone switch” that is replacing thousands of isolated “intercom” systems. 
+	The WWW provides many opportunities for creating systems of a far greater scale and level of integration than previously possible.  Many of the boundaries, hierarchies, and limitations we take for granted today will fall as this technology spreads.
+	If we view today’s health care information infrastructure from Humpty’s wall, it appears to be split into thousands of tiny pieces.  Pieces are broken into pieces, due to problems of coding systems, database technology, communications protocols, computer languages, proprietary computer systems, backwards compatibility problems, and all the paraphernalia of hierarchical organization.
+	Restoring integrity to these pieces is a gigantic, if not impossible job.  The pieces will not spontaneously organize themselves into an organic whole.  A fresh vision is required. Glimpses of this vision may be found in the dynamics we see in the growth of the World Wide Web.
+	The web does exhibit spontaneous organization.  It is capable of massive growth.  Its universal resource locator (URL) is truly universal, capable of naming all of the disparate pieces we see scattered about.
+	Designers who create from a splitter’s perspective may find that the web offers a level of integration from which they can maintain the conceptual integrity of their designs.  They do not have to explicitly prepare for connectivity to other resources in the information space.  They will find that this capability is an implicit part of their environment.
+	A health care information system, for example, could link to the National Library of Medicine or the Centers for Disease Control with a click of a button.  With the proper conceptual design, the holy grail of medical informatics, the electronic medical record, could become a reality.
+	To do this, however, requires the courage and tenacity to keep from falling off Humpty Dumpty’s wall.
+ Time and Information  Jan. 29, 1995
+	Like the character in the Moliére play who discovered that he had been speaking prose all his life, I have recently discovered that I have been using computer languages which have no past or future tense.
+	The more I thought about this, the more I realized that it was symptomatic of a deeper problem we have with computers and communications.  Most points of view deal only with the present, and do not consider the evolution of a system over time.
+	Time, it has been said, is nature’s way of keeping everything from happening at once. With millions of interconnected computers in a network, however, everything can happen at once.  The problem becomes how to make sense of it.
+	Linguists face a time oriented problem in their study of languages.  They can look at the evolution of a language over time, such as how modern English has changed over several hundred years.  Others study the language at a snapshot in time.
+	Today’s computer systems are of the snapshot variety.  They presume that they operate only in the now, and that somehow the then will take care of itself. We assume that it is someone else’s responsibility to consider the change in our systems over time.
+	Virtual reality (VR) technology is one approach to dealing with this problem.  It allows time to be treated as a variable, not unlike latitude, longitude, or altitude.  Users of a properly programmed VR system can move about in time in the same way they can move about space.
+	For example, a VR system could portray the geologic history of California.  The system could portray the world from the point of view of a rock, watching eons of time fly by at 100,000 earth years in a second of the viewer’s “proper” time. 
+	This provides a fascinating perspective. What if you could see the Congress from the 200 year perspective of the Constitution?  Or your business activities from the perspective of the marketplace?  Could you take the long view of your investments?  What would be important from this point of view?  What would be the information that you need to deal with your temporal decision making?
+	Computers could allow children to scroll through time, seeing their face transformed by the effects of smoking, drugs, or various diets. Executives could see the effects of their decisions on their businesses.
+	More fundamentally, the computer could be used to deal with processes, instead of just events.  From the time-as-a-variable perspective, today’s computer systems assume that everything is just a snapshot.  There is no before or after, just the now.  
+	The computer can be used to track processes, rather than just events.  They would work with the flow of objects over time, rather than just pidgin holing events into categories.  
+	Work flow automation tools, coupled with electronic forms, allow an organization to streamline its operations.  Electronic mail allows organizations to communicate across departmental boundaries,  and serves as a foundation for process-based thinking.
+	Business process reengineering and the various quality management techniques also deal with the process level of computing systems.
+	Simulation is another technology which deals with time.   One of my favorites is SimCity, a game in which you can pretend to be mayor of a town.  You control the tax rate, power plants, airports and harbors, zoning, and transportation grid.  If you do well, over the simulated years, people move into the town and it prospers.  If not, the town goes bankrupt.
+	It is fascinating to see how decisions made early in the city’s growth preempt future choices.  I wish that the city planners of my home town had grown up playing this “game.”
+	The computer could also be used to send electronic mail to your descendants, a kind of time capsule.  This brings up interesting questions about how to reach them.  What institution could be guaranteed to be around to deliver the message? 
+	In some ways, time has become a commodity in today’s society.  The trend towards fast food, rapidly changing organizations, and the general increase in the rate of change is all pervasive.
+	From Wall Street to our schools to our homes, I think that we will have to come to the realization that we have been looking at snapshots all our lives.  Perhaps the computer can be used to allow us to see the flow of time. 
+Centralization and Communication  Feb. 5, 1995
+	In a large organization, managers want things decentralized above them, and centralized below them.  This fundamental drive in an organization leads to many tensions, and affects its performance.
+	Napoleon was one of the early adopters of centralization.  He built chains of semaphores to keep in touch with remote armies.  These waving arms could communicate in speeds measured in bits per minute
+	Paris was the center of Napoleon’s world.  Communication flowed to and from the field to Paris.  Paris decided whether a piece of information should flow back to other parts of the field.
+	Today’s communication environment is radically different.  A modern telephone line in the home can communicate a million times faster than Napoleon’s semaphores.  Instead of being “hard-wired” to just a single center, we can switch easily between intended recipients.  On the Internet, a message may be routed to any of millions of electronic mailboxes, simply by typing a different address.
+	Part of the reason centralized organizations evolved were to manage communication.  The top level of the organization would communicate with the next level, which would spread the message to the lower levels, according to the needs of the various departments of the organizations.  In this way, the cost of communicating would be minimized, and only those who needed to know would receive the message.
+	A problem with this kind of organization is that it is not adaptive.  It is only capable of communicating the point of view of the top of the organization, if that.  Passing a message up and down the command chain is a difficult process.
+	I faced this problem in the early 1980’s when I was designing a hospital information system for the Veteran’s Administration.  The bureaucracy wanted people to communicate through channels.  If pharmacists in Los Angeles wanted to communicate with pharmacists in Miami, they were supposed to do so through an intermediary in Washington.
+	I slipped in an electronic mail system, allowing them to communicate laterally throughout the organization.  Of the nearly 100 modules in the system, this is now one of the most popular and highly used.  From this experience, I have learned to never underestimate the demand for people to communicate.
+	The top down model of communication can often cause tremendous “failures to communicate.”  For example, until President Johnson announced the Air Force’s Blackbird spy plane, it had been called the RS-71.  However, he accidentally reversed the first two letters, and called it the SR-71.  Rather than mention this to the president, the military chain of command forced Lockheed to change the name of the airplane, causing them to modify 29,000 drawings.
+	In the Gulf war, CNN was one of the primary communicators of what was happening.  Both sides watched the television coverage of the war.  Speaking of Peter Arnett’s broadcasts, Major Miles Pound said, “I was at the base watching him broadcast-that guy was not wildly popular with many of us because we felt Saddam was just using him for propaganda-and we knew that in exactly six seconds our guys were going to hit the telecommunications center in downtown Baghdad and knock Arnett off the air.  So we began counting:  Five, Four, Three, Two, One.  The screen went blank, right on cue.”2
+	This amazing situation represents an inverted point of view.  Both the US and the Iraqi military forces were getting their information from the same source.  In the traditional centralized communication model, it was as if they were two departments of the same CNN “head office,” and the war was an interdepartmental skirmish.  Anyone who has worked in large organizations can probably come up with their own corporate war stories.  These may not be as violent, perhaps, but still destructive to the goals of the organization.
+	The Internet poses a similar inversion of point of view.  Much of the centralized organizational paraphernalia we have built over the years will be obsolete in the “wired” marketplace.  Organizations that assume fixed boundaries and regions will discover that these can dissolve rapidly as newcomers penetrate their markets.  An entrenched customer base can make change and adaptation more difficult. This will provide many opportunities for fast moving, entrepreneurial startups.
+	The old model of the mainframe computer being at the center and the users being at the periphery is obsolete. The notions of “top” and “centralization” will dissipate in a wired world in which everyone appears to be the center of their own world. 
+Globalization and Homogenization  March 5, 1995
+
+Hong Kong.  We flew nearly one third the way around the world in 15 hours, meeting our party at the airport in front of the McDonald’s restaurant. I used my US credit card to extract some Hong Kong dollars from an ATM. The hotel could have been in any major city in the world, judging from the decor and furnishings. I walked to the Seven-Eleven store to get some fruit the next morning.
+	Hong Kong makes no pretense about being a cultural center. It is one of the most purely capitalistic places in the world.  Its political, commercial, and geographic strategic position make it a key player in today’s trends towards globalization.
+	Beneath this homogenized surface, however, the people have a culture which shows through.  Their skyscrapers are designed with feng shui (geomancy) in mind, so that buildings will have the most advantageous “energy” from their neighbors.  Construction at the new airport has hit a snag, because is might offend the feng shui of the island.
+	Global communications, satellite television, rock music, and the Internet all serve as enablers of the world’s homogenization.  The loss of exotic travel opportunities may be just one of the minor losses of this process.
+	For example, the 6,000 languages in use around the world today are dying off quickly.  “I call this a catastrophe-the rate of loss of linguistic diversity,” says Michael Krauss of the University of Alaska.  “The world will be less interesting, less beautiful.”
+	He estimates that between 20% and 50% of the world’s languages are no longer being learned by children.  Only about 600 are assured survival in the next 100 years.  As it took 2,000 years for Latin to diversify into a dozen or so different European languages, the future portends much less world-wide linguistic diversity.
+	The loss of the culture attached to a language is nothing to be taken lightly.  It is ironic that California, home of much of the Internet history and innovation, is also the location of many of the disappearing languages.  It is the third most linguistically diverse region, after New Guinea and the Caucasus.  It is home to about 50 of the 250 native American languages in North America, and most of them are in trouble.
+	The Internet, on its current trajectory, may serve to hasten the demise of these languages and cultures.
+	Languages are more than mechanisms for communication. They are vehicles for carrying culture.   English has no words for the cultural richness of the Chinese feng shui
+which influences skyscraper design and airport layouts.  Prime time Hong Kong television showed a man in a white coat clawing in the air above a patient, dragging away invisible strands of sticky “disordered chi.”  English has no words or concepts for Chinese health care practices, or belief systems.
+	I spoke with an Englishman from London about the accents we hear from those who have learned English as a second language.  To Americans, these people often sound British.  To the British, however, these people have an American accent.  We decided that the English world was converging on the accent spoken on MTV, for better or worse.  Given the global communications reach and lure of the content of MTV, this may well be the most powerful force for the unification of English.
+	I once met a Japanese doctor who ran a successful pain clinic in Nagoya.  He was a board-certified neurologist in the United States, and equally proficient in traditional Chinese medical techniques.  He provides both Western and Eastern treatments at his clinic.  Both systems were equally effective, he said, depending on the initial beliefs of the patient. 
+	In 1997, Hong Kong will revert to Chinese control.  Although the Pacific Rim countries are not as organized as the European Community, or NAFTA, I think that we can expect increased supra-national organization in the region.  This will further homogenize the world, economically, culturally, and linguistically.
+	As these high level organizations come into being, there will be an increasing need for “local” community building, an activity for which the Internet and computer-based communications are admirably suited.  As we redefine the meaning of “local” in the context of instantaneous world wide communications, we will be able to create communities which span the globe.  By doing so, we will be able to enhance the meaning of our travel as well as our local communities.
+	Infrastructure Development  March 12, 1995
+
+Bangkok.   The streets of this once-quaint city have descended into a state of almost continuous gridlock.  Twice, in a cab returning to our hotel, we were locked in traffic within site of our hotel.  We got out and walked the rest of the way.
+	The streets are torn up for water systems, then again for telephone, without coordination.  In the meantime, traffic just gets worse and worse.  There was little sign that the government was doing anything about the problem.  Incredibly, the current controversy was about legislation to force car owners to reduce the opacity of the window tinting from 50% to 40%.
+	It was amazing to me to see how a population could sink to this level of overcrowding, and simply ignore the need for infrastructure development. Thailand has a thriving economy, and is poised for major growth in the Pacific Rim.  People seemed to accept gridlock like they do the weather.
+	I was struck by the comparison to our health care information infrastructure.  The industry has grown over the years by splitting “stovepipe” systems, dedicated to performing only a specific task for a specific department in the hospital.  Typically, the laboratory, pharmacy, radiology, nursing, intensive care units, and others all developed independent systems.  A large mainframe computer is dedicated to the billing and accounting systems.
+	As the number of these systems grew, it became apparent that a hospital-wide system was necessary.  This would reduce the exponentially increasing number of security systems, terminal types, communications technologies, programming languages, and all of the other paraphernalia the industry has developed over the years.
+	If a bank wrote all its transactions by hand on a paper ledger, inaccessible to all who could not physically retrieve the ledger, we would be justifiably skeptical about whether the bank was keeping up with technology.  Yet, our hospital visits are most likely chronicled by a paper medical record, with just a smattering of computer printouts inserted here and there.  A completely electronic medical record remains an elusive goal.  Even the paper medical record stands little chance of having all information up to date and complete.
+	I trace this problem to our development mentality.  Imaging a city being developed by people, all of whom wanted to have the penthouse suite on a skyscraper.  Each buyer would tolerate waiting for the lower floors in their skyscraper, only because they knew that they needed them to support their penthouse suite.
+	After all the skyscrapers were constructed, people realized that they needed to put the roads, sewers, electricity, public transit, and water supplies.  Retrofitting this infrastructure needs to an existing maze of skyscrapers would be an incredible problem, not unlike trying to solve the Bangkok gridlock problem.
+	Hospital departmental systems have grown in an analogous manner.  Each department has been given a penthouse suite in their own skyscraper.  People are just now understanding the need for the infrastructure.
+	If you ask a teenager what kind of car he wants, he will immediately debate the relative merits of a Corvette versus a Ferrari.  Asked to justify his decision, he could produce a long list of requirements about which car met what requirements.
+	If, however, he was just given a 5 year old Toyota, never having been asked to dream of a high priced sportscar, he would probably be delighted with the option.
+	So it was with the departmental systems of yesteryear.  Each department was asked to justify their “wish list” of requirements, without regard to the reality of their expectations.  They chose penthouse suites on top of their own skyscrapers, with no regard for the infrastructure binding them to the rest of the systems in the hospital.
+	Today, we are feeling the effects of this runaway development.  The departmentalization of hospital systems is so rampant that we accept it as the normal state of affairs.  What should rightfully be “infrastructure development” is actually an “integration crunch” of disparate systems. This state of affairs has been accepted in the same manner that the population of Bangkok has accepted gridlock.
+	It does not have to be this way.  It is possible to conceive of an infrastructure before development begins.  It does require deferring the gratification of those demanding a penthousebefore the lower floors and foundation are built.  Someone has to lay down the basic infrastructure, and have a vision of the overall architecture first.
+	It is not necessary to gridlock our organizations into archaic, non productive hierarchies. We can design our information systems without accepting the gridlock of incompatible departmental systems. 
+Adapting to Electronic Mail  Mar. 19, 1995
+	When Apple introduced the Macintosh, the sudden profusion of type sizes and fonts available to the average user proved irresistible.  People wrote office memos that looked like ransom notes.  Eventually, the novelty wore off and they adopted a more subdued approach.
+	Electronic mail is often interpreted to be merely an electronic version of paper based mail -“Snail mail” in net jargon.
+	E-mail and snail mail differ in many ways.   E-mail is far more flexible.  The receiver can reply, forward it to others, attach documents, file and retrieve old copies very simply.  Because the message is in digital form (in contrast to paper messages or faxes), it can be stored and retrieved easily.  E-mail can zip around the world in seconds or minutes; thousands of times faster than paper mail.
+	E-mail also competes with telephone.  When we make a telephone call, we interrupt the receiver according to our schedule, hoping that it does not interfere.  With e-mail, we know that receivers will read (or discard) the message at their chosen time and convenience.  
+	With the telephone, there is a certain amount of social interaction required when making the call.  “How are the kids,” “what’s new,” are necessary conversation fillers on the phone to establish rapport.  With e-mail, a message can cut to the chase: “What are your thoughts on such-and-such” is an acceptable message.
+	Telephone voice mail is a new medium which has taken a long time for acculturation.  When it was first introduced, people would leave a simple “call me” message, accelerating the “telephone tag” process.  Today, people are more comfortable leaving their entire messages on voice mail.  I frequently prefer to get a person’s voice mail, because then I do not have to engage my party in conversation.  I can just make my point and move on.
+	E-mail is an entirely new way to communicate.  Messages can be concise and to the point, multiple recipients can be included, and time and geographical barriers can be crossed.
+	So many, in fact, that we can get overloaded.  One of my customers has 1,200 messages waiting in his electronic in-box.  His deputy has 350.  My chances of communicating with either via electronic mail are very slim.
+	Although it is fading, there is a certain air of authority carried by information presented on a computer display.  The sender may create a message in a light hearted or informal spirit.  When it comes across to the recipient, however, it takes on a more authoritative tone.  This can cause tensions in new users of electronic mail.
+	The “flame” message is another aspect of electronic mail.  It is easy to compose a highly emotional message and send it off to others in haste.  In the past, a message had to be typed by a secretary or typing pool, and had to be reviewed it before sending it out.  These steps forced a discipline on the sender, and allowed an offensive message to be edited by the sender in a cooler, more sensible state.
+	E-mail, however, does not enforce this filtering process.  Someone may compose a late night missive, and send it off to an embarrassingly large group of people.  The next morning, in the cold light of the office, the message takes on an entirely different light.
+	Worse yet, one of the recipients may respond in kind, triggering off a “flame war.”  These are no-win interactions which can cause great emotional reactions.
+	My advice to someone tempted to send a highly emotional message on e-mail is to go ahead and write the message, but do not send it for a day.  Sleep on it, and see what the message looks like the next day, when you presumably have had time to reconsider things.  If you must send it, let a sympathetic friend review it first.
+	My advice to someone receiving a flame message is to try to ignore it.  If this is not possible, respond privately. Never respond in kind.
+	Electronic mail is a new communications medium.  As we adapt to it, we need to make compromises and changes, and not merely translate past habits.
+	As each of us discovers e-mail, we need to look beyond the irresistible new features and understand the core process of communication.
+Network Security  March 26, 1995
+	Storeowners tolerate a certain level of shoplifting, knowing that to do searches on customers would cost more than it would save. Computer networks face a similar situation, in that that too much security paraphernalia can cause people to avoid their networks.
+	The stakes in network security can be very high, however.  The press is full of stories of some hacker breaking into sites around the world.  For each story told publicly, there are hundreds of intrusions that go untold or unknown.  Most network administrators, if asked if their systems have been penetrated, will answer “Perhaps, but I am not certain.”
+	Just as networks can multiply beneficial behavior, they can multiply intrusive or criminal behavior.  A set of user passwords can be posted around the world in a matter of minutes.  Even if the penetrated system takes actions to protect itself, it is quite likely that those passwords are used on other computers.  Users tend to use the same passwords on all their systems.
+	As we move to ever greater dependence on computer networks, they become part of our infrastructure, like our roads, electricity grid, and water supply. Terrorist attacks against networks are not unthinkable.
+	As I wrote the last sentence, I asked myself, “Am I contributing to the spread of this terrible idea by mentioning it publicly?  Or am I warning people to be cautious and guard against it?”  I decided that I was doing both, but on the whole, the positive outweighed the negative.
+	A group on the Internet has approached this issue quite aggressively.  They will be freely distributing a program to the network called SATAN (Security Analysis Tool for Auditing Networks).  This program can be run from anywhere on the network, against any other computer.  Its purpose it to probe remote computers to find holes in their security system.  Ostensibly, the program was written to allow systems administrators to see if they have security exposures with their systems.  It also gives the novice Internet user the ability to probe for possible security leaks anywhere on the network.
+	The authors say that they take a conservative approach to the design of their program, and do not automatically intrude when they see a security opening.  In the Internet culture, however, this is a to challenge two thousands of people to do just that, merely for the intellectual challenge of it.  In order to be recognized for their prowess, they will circulate their enhancements for others to use.
+	This process is equivalent to circulating an instruction sheet, telling people how to unobtrusively try doors and windows to see if they are unlocked.  The sheet would also list the 10 most likely places where people would stash their valuables, and then tell the reader of the sheet not to go in the house to steal the valuables.  The authors then defend their sheet as a way of protecting homeowners, to insure that they lock their doors and windows. 
+	The SATAN program is scheduled for general release from the Netherlands on April 5, 1995.  Some sites plan to pull their computers off their UNIX computers off the network in order to see what the program will do to them internally first.
+	It should be pointed out that most of the security problems one reads about with regard to Internet security are related to the UNIX operating system.  UNIX originated 25 years ago in an academic and research setting, when security was contrary to their goals.  One industry wag calls UNIX “A virus with a user interface.” There is still a radical faction that feels that all information should be free, and anyone has the right to access what is on your computer.
+	Over time, security has become a very big issue, but is still subject to the “one last bug” syndrome.  As each hole in the original UNIX design is patched, another one will inevitably arise.  This cat and mouse game keeps UNIX systems administrators around the world gainfully, if not productively employed.
+	Other operating systems with more modern roots, such as Windows NT, have built in a security from the onset of their design.  These are more difficult to crack, and have been less susceptible to penetration.  It is important to separate the issue of security from the particular culture that has grown up around the UNIX operating system.
+	The networks of today provide a giant shopping mall for anyone wishing to “shoplift” information from our computers. We all need to be aware of this risk, and protect against it.
+Fair Samples and the Future  April 2, 1995
+	The rapidity of change we are experiencing makes it critical that we accelerate people’s transition from “Huh?” to “Aha!” when introducing new systems and technologies.  Confusion may be a necessary step towards Zen enlightenment, but for the general population, a more direct technique for communicating change is necessary.
+	In my own practice of designing complex information systems, I have found this to be a critical issue:  users of the “as is” system have a difficult time conceiving of a system in terms of the “to be” future paradigm.
+	Harvard philosopher of art Nelson Goodman speaks of the use of the fair sample in communicating complex visual patterns.3 Imagine taking an arbitrary swatch of a bolt of cloth.  If too small, or improperly aligned, the full pattern of the cloth cannot be understood.  A fair sample is the minimum swatch, properly aligned, which conveys the pattern of the whole bolt.
+	Information systems under design can be described a similar manner.  A simple scenario can present a fair sample of the system under consideration. Consider the following scenario:
+	“Jane Doe, rushing to catch her bus early one morning, realizes she is out of cash.  Going up to a corner machine, she sees the logo of her credit card displayed above the console.  She inserts her card, types in her personal identification number, and withdraws her cash from her bank, located on the other coast. The process takes less than a minute.”
+	The above scenario, viewed from today’s perspective of Automated Teller Machines (ATM), has no “Aha!” value.  Twenty years ago, however,  this was almost a science fictional vision of how someone could interact with their bank.  To those used to planning a trip around a banks hours, so that they could wait in line for their cash, the ATM was a radical, almost inconceivable invention.
+	The technology supporting the ATM is an extremely complex web of information processing.  No one person could understand all of it.  Yet the scenario quickly and simply conveys a fair sample of what might require a thousand page manual of flow charts, circuit diagrams, schematics.
+	I drew a sketch on a napkin in 17 years ago which to this day is the foundation of 1,200 hospital information systems.  A simple, easily understood description of a future system is an amazingly tool for radical change.
+	I recently watched master pianist Ivo Pogorelich.  As his hands flew over the keyboard, I wondered what the Mozart’s score must have looked like.  I struggled as a child pianist when I had to play three notes at a time, yet he was capable of playing an incredible maze of notes for hours at a time. 
+	If I looked at the score, it would have meant nothing to me.  When he played a piece that I recognized, however, I was able to identify and even predict what he would play next.  He had given me a fair sample of Mozart’s work, and I could understand.
+	When designing systems for a radically new future paradigm, presenting a scenario of what might be is a very powerful technique.  It pulls the system design along from the perspective of the new paradigm, rather than pushing the system out of the current one.
+	Apple could not have designed the Macintosh by creating focus groups of DOS users, asking them what they wanted in a computer.  DOS users had a different paradigm for using their computer.  They would focus on ways of improving the metaphors they understood.  The shift to the Macintosh desktop, mouse, wastebasket, and folder metaphors was simply too great of a change for them to grasp.  
+	If the leader of the focus group could demonstrate fair samples of the possible new environment, the group could think of the new system from this point of view.  They would be pulled into the Macintosh design metaphors by the power of this type of thinking.
+	Fair sample scenarios allow designers and change agents to convey their visions to prospective users in a way which involves them in the process. 
+	A traditional alternative in information system design is to create massive requirements documents as a surrogate definition of the new system.  Users shown mass of paper detail cannot be expected to extract meaning any more that one can recognize a favorite Mozart passage by looking at the score.
+	 Designers of change can transform their audience reaction from “Huh?” to “Aha!” by constructing fair samples of their vision.
+Profitability versus Sustainability Apr. 9, 1995
+	For over two centuries, Barrings Bank PLC  was a mainstay of ultra conservative British society.  Readers of its quarterly reports would be assured by the bottom line that it was a profitable institution worthy of the highest investor attention.  Yet, over one weekend, it failed and went bankrupt.
+	A 28 year old rogue investor in Singapore gambled more than the net worth of the bank. He lost.  Had he won, he would have been a hero.  Because he lost, the bank and thousands of its customers have been thrown into turmoil.
+	This is a dramatic glimpse of the difference between profitability and sustainabilty. Profitability reflects a linear sum of a set of transactions over a specific period.  This is formalized under generally accepted accounting practices.  Sustainability is an issue which deals with the complex relationship of the enterprise and its environment.  This is not something easily categorized into a single “bottom line” number. 
+	From an information systems perspective, today’s accounting systems may be likened to a one dimensional virtual reality.  The one dimension is the view from the top to the bottom, measured in this quarter’s profitability.  This virtual world is controlled by the chart of accounts and the general ledger.
+	This view drives the stock market, and gives investors something to react to.  But is it really the measure of the long term viability of the company?  
+	Consider a new term: sustainabilty.  What if investors had routine reports on a company’s ability to adapt to the future?  Is it clear cutting a forest which will disappear as an asset in 5 years?  Is it pumping up its quarterly numbers so that it appears good this quarter, but will fall behind next?  Is it engaged in activities which may appear good in the short term, but are harmful to the long term?
+	Peter Drucker says we all need to renew our technical skills every 5 years. How is a company going to deal with this?  Will they throw out their current staff, to be replaced by a new generation?  Will they train them?  Will they convey their strategic vision to their employees, so that they can train themselves?
+	Shareholders of IBM have seen their investment fall dramatically as the company was frozen in its old (but temporarily profitable) ways.  As the percentage of computing power in centralized computers went from 100% in 1976 to less than 1% today, it clung to the hope that the small computer “fad” would go away.  Today, is the centralized mainframe that appears to be the fad, much to the detriment of IBM stockholders.
+	Our current accounting system is based on aggregates.  That is, we cluster all information of a certain class into tables.  This method traces its ancestry to the punched card and paper ledger.  Information is homogenized to so that each item is understandable only by the properties of the class, a process called normalization.  Each item of information is put into a carefully defined pigeon hole.
+	The World Wide Web (WWW), on the other hand, is based on links.  Any piece of information can be linked to any other on the web by simply naming the Uniform Resource Locator (URL).  There is no meaning attached to the link; it is created by the context of the reference.  This concept traces its history back to pages marked with paper clips, sticky notes, and Vanevar Bush’s Memex.4 Each item becomes part of a globally connected web of information.
+	An information system which can track both aggregates and links provides a foundation for creating a much richer understanding of the sustainability of the enterprise.  This information could be able to show that an enterprise is forsaking long term profits in lieu of short term results.  An advanced information system could show the relationship between risk and reward, the role of the company in the market, its relationships with partners and competitors, and whether the company is engaging in practices which damage its long term sustainability. 
+	As our world changes at an ever increasing pace, the aggregations and pigeon holes which worked in the past will not necessarily work in the future.  What was profitable in the past may not be sustainable in the future. 
+	American Airlines’ parent corporation AMR earns more money from it's Sabre airline reservation information system than it does flying its airplanes. We may well be seeing this trend increasing: an organization is its information system.
+	Barrings bank is just one example of an organization which failed to adapt its management and information structure to the realities of today.  There will be many more in the future, as long as companies confuse profitability with sustainability.
+Day Zero in Darmstadt  April 16, 1995
+Darmstadt, Germany.   An “ecology of information” is how we need to view the Internet, according to Apple fellow Alan Kay.  In his keynote address here at the Third International World Wide Web Conference, he said that the old “clockwork” model of systems thinking was obsolete.  The complexity of systems today is so great that we can no longer manufacture them.  Rather, we need to grow them organically.
+	The highlight of the conference was the introduction of the Virtual Reality Modeling Language (VRML).  The audience of 1400 people was strangely quiet as they tried to assimilate this huge technological leap. Then one person stood up and said, “This is day zero of a whole new era.”
+	This technology was first discussed at an informal “birds of a feather” session at the First International World Wide Web Conference in May 1994.  This group decided that the two dimensional web display should be upgraded to three dimensions.  Eleven months later, they realized their dream. Within months, the capability will be available on freely over the web.  I have been on computer standards committees which spent years changing a comma.  It was stunning to see this technology emerge so quickly..
+	VRML allows the viewer to manipulate objects, fly over landscapes, and interact with a virtual environment.  An object in the virtual world could be attached to any other page in the web, for example linking a three dimensional chemistry molecule with a page describing the interaction of the molecules.
+	The National Library of Medicine’s Visual Human project could be placed on the web, allowing people to look at a three dimensional model of the body.  There could be different layers for the skeleton, organs, or circulatory system.  The model could be linked to all types of medical knowledge bases, which could be accessed with the click of a button.
+	A patient’s medical record could be linked to the virtual patient, allowing clinicians to see information at a glance, rather than rummaging through a paper record.
+	Clinicians could click on a “tricorder” icon, then drag it over the part of the patient of interest.  The computer could scan for all relevant information about the patient, and then link it with databases anywhere on the web.  The latest information from the Centers for Disease Control could be scanned.
+	People wanting to purchase tickets at a theater or stadium could see the view from  their seats in three dimensions.  Viewers could visit cities: there is a project to build a virtual San Francisco on the web by the end of 1995.
+	Information for financial, scientific, or educational purposes could be visualized on the web.  Product catalogs, design data bases, and journals could contain three dimensional displays.
+	The web is a foundation for an unprecedented universal new medium of communication.  Alan Kay said that it is the author, not the technologist, which innovates in the new medium.  For example, it took 65 years after the invention of the printing press for an author to think of numbering the pages in a book, so that he could cross reference the pages.
+	Public access to the web will increase dramatically.  Microsoft demonstrated their Internet Explorer product, which will be integrated into their forthcoming Windows 95 desktop.  Users will be able to access web pages very simply, and drag or drop them onto the desktop, documents, or folders.  Thomas Reardon, networking technical lead for Windows 95, said, “The web will be a basic part of using a computer in 1996.”
+	The conference attracted a number of large scale enterprises who were adopting the web for their internal information systems. Siemens/Nixdorf, Ericcson, Rover, Boeing, Sun, Silicon Graphics, and SAIC all spoke of their internal networks of corporate information using web technology.
+	Many large publishers were well represented.  Some wags have called the web “the largest library in the world without a card catalog.”  The Online Computer Library Center (OCLC), containing over 25 million “card catalog” citations was active in demonstrating their online system, and participated in developing standards for “metadata” allowing simpler access to information and knowledge.  I would not be surprised if Playboy is one of the first publishers of virtual reality on the web. 
+	A new language called Java was introduced.  Java safely allows programs, not just data to be exchanged.  These small applications, or “applets” allow a new generation of client/server sophistication.  One simply clicks on something of interest. The network would install any necessary software automatically, as well as the billing chores.  
+	Over a late night session in a smoke-filled bierstube, I spoke with some of the web architects about using Java to manage the web itself.  This would allow the web to modify itself and adapt rapidly to changing conditions.  The web would then truly become an organism in the ecology of information.
+Systems Analysis and the Vietnam War  April 23, 1995
+	To Robert McNamara, the world was a machine, operating with clockwork precision.  His job was to understand the clock, with ever increasing precision.  If we did not understand something, it was because we had not been precise enough.  
+	In his book, “In Retrospect, The Lessons of Vietnam," he said, “I see quantification as a language to add precision to reasoning about the world.  Of course, it cannot deal with issues of morality, beauty, and love, but it is a powerful tool too often neglected when we seek to overcome poverty, fiscal deficits, or the failure of our national health programs.”
+	He explains his approach to organizing human activities. “Put very simply, it was to define a clear objective for whatever organization I was associated with, develop a plan to achieve that objective, and systematically monitor the progress against that plan.  Then, if progress was deficient, one could either adjust the plan or introduce corrective action to accelerate progress.”
+	There was a (literally) fatal flaw to this kind of thinking.  It presumed that there was a single, commonly shared point of view from which to precisely quantify the world.  To him, the world was a deterministic, predictable system behaving according to the statistical aggregations he chose to analyze.  If things were not predictable, he blamed it on a lack of precision and analysis.
+	His conceptual split was between the free world and the communists.  Like blind men describing an elephant, his staff analyzed Vietnam in the terms of the coordinates he dictated. As the war became more complex, he was unable to keep up with it.  “Simply put, we faced a blizzard of problems, there were only 24 hours in a day, and we often did not have time to think straight.” He was trying to get out of a hole by digging it deeper: more policy, precision, and policing.
+	McNamara’s management style could be called a policy-based systems approach.  An external authority creates a policy, which specifies the behavior of the elements of the system.  The tax code, driving laws, and the traditional “waterfall” information systems development approach are examples.  Control is through negative feedback. Infractions of the rules are punished as perceived by the top-down power hierarchy.
+	The convergence of computers and global communications requires a more adaptive systems approach.  Systems are “organic” in that they grow in a complex interaction between their environment, their elements, and the rules of evolution.  The Internet, the World Wide Web, and the marketplace follow this model.  Control is through positive feedback. The most adaptive elements survive, as perceived by a web of interrelationships.
+	Imagine that the mayor of New York declared a milk emergency, and appointed a milk czar to insure that the citizens had an appropriate supply of milk to the city.  The milk czar instituted a planning, programming, and budgeting system with five year plans to insure that the milk supply was properly managed.
+	In reality, the supply of milk (and thousands of other things) is managed by the market.  It is an adaptive system which takes care of itself.  If we create the proper environment, the system will manage the details itself.
+	Clearly, there are huge differences between managing the department of defense and planning for milk distribution.  As we move further into the information age, however, we will find that the massive web of high speed interaction will more adaptive systems rather than policy-based systems.
+	McNamara made some telling points about his upbringing.  “...[my] class was predominantly WASP, but my competitors were invariably Chinese, Japanese, and Jews...I would spend Saturday and Sunday playing with my neighborhood friends while my rivals went to ethnic schools, studied their ancestral languages, absorbed ancient and complex cultures...”
+	Perhaps the information highway can address this.  Perhaps children will be able to entertain themselves by communicating with astronauts and playing with science simulations which entertain and stimulate.  Perhaps they can develop network friendships with playmates across the globe.  Perhaps they can play intriguing games which educate, form communities, and entice them to see the world from many different perspectives.
+	Perhaps we can learn to see the world as a web of interconnection, where everyone has their own perspective.  Perhaps we can grow to the point that we will never again allow intellectual monoculture to lead us to war based on the fallacy of systems analysis.
+The Tragedy of the Communications Commons Apr. 30, 1995
+
+	As the global village becomes an ever increasing reality, the village commons will be networked communications technology.  We are just now beginning to understand the dynamics of electronic communities on this scale.
+	There is an effect known as “tragedy of the commons” in which a shared resource is overexploited, as participants rush to get their share.  For example, if two friends have dinner together and split the check, each will respect the other’s share of the expense.  If the group grows to several dozen people, each will be tempted to order a more expensive meal, on the theory that someone else will do so.
+	The Internet is a communications commons, on an unprecedented scale.  Perhaps there is a tragedy of the communications commons effect.
+	In the United States, the principle of freedom of speech is a cherished bedrock of our society.  Societies which have lost free speech have suffered in many ways.
+	Yelling “Fire!” in a crowded theater is recognized as an abuse of free speech.  The individual’s right to say whatever comes to mind is in conflict with any damage to society it causes.  Is there an electronic equivalent to yelling “Fire!” on the Internet?   Are we creating a tool which amplifies voices so much that our historical notion of free speech is in need of change?
+	Two lawyers recently sent out an unsolicited advertising message to 6,000 Internet news groups, forcing this message on millions of readers.  This “spamming” (imagine a can of Spam thrown against a wall) violated the network’s ethics and trust-based relationships.  The communications common of the Internet community had been abused.
+	This affair caused an outrage on the Internet, and network vigilantes drove them off the network.  The lawyers, however, claim to have had a dramatic increase in business, and have published a book on how to make money on the Internet.   
+	In budget meetings, the smaller the item, the more likely it is to incur discussion. In discussion, the most vocal are often the ones with the least to say.  The larger the group, the more these insidious effects are magnified.  As electronic “meetings” are enlarged to the size of small cities, we give disproportionately greater amplification to some people.
+	Robert’s Rules of Order is a voluntary abridgment of free speech for the welfare of the entire committee.  Although sometimes frustratingly slow, it is an effective way to focus a group towards a common decision.
+	If I had been around to help with the Bill of Rights, knowing what I know now, I probably would have ranted about the freedom of listening.  We have amplified speech by several orders of magnitude since the signing of the Bill of Rights.  The capacity of the listener to filter out unwanted speech has not appreciably changed.  We are being bombarded by an exploding series of communications technologies, all vying for our attention.
+	Indeed, consumer attention is a commodity of the information age. Those who command it will become powerful forces.  As we have seen in television, those who exploit fear, taboo, and prurient fascinations thrive.
+	It is difficult to be optimistic about this issue.  We have created such a large network audience that it is almost certain that some misfit will yell “fire!” 
+	The only bright side I can see to this is the fact that listeners will have increasing power to filter what they receive.  As news readers, electronic mail systems, and web browsers become more intelligent, we will be able to exert greater control on what we receive.  Rather than throwing away hundreds of pounds of junk mail, we will be able to send the undesirable electronic mail into the digital wastebasket.
+	We will still be able to have direct personal connections to people.  I cherish the e-mail address of certain friends who are but a mouse click away.  I hope that I can expand that listing amid the noise and the clutter of the network.
+	The information age will amplify all of the virtues and vices of humanity.  As it has been since time immemorial, it is up to the individual and society to understand how to cope with them.  To quote Oliver Wendell Holmes, Sr: “How absurd men are!  They never use the liberties they have, they demand those they do not have. They have freedom of thought, they demand freedom of speech.”
+Atoms, Bits, and Waste  May 7, 1995
+
+	As the truck pulled away from the intersection, belching diesel fumes, I noticed the label on the side: health care forms.  I wondered what Gutenburg would think, if he saw this scene.  Would he have ever imagined that his printing press would be used to produce so many forms that a truck would be needed to haul them to a hospital?
+	Could he have imagined what would become of those forms after they were completed?  This scene serves as an symbol of many of the transformations we are undergoing.
+	We are pushing around forms in specialized trucks powered by non-renewable fuels.  Why not do this with bits, as electronic messages flowing over a network?
+	The electronic process is faster, more flexible, uses less energy, uses less capital equipment, and uses less labor.  The paper process uses non renewable energy, cuts down forests, pollutes rivers, adds to traffic congestion, and generates waste.
+	The ATM machine reduced the number of branch offices and tellers.  It did away with the synchronizing concepts of  a “bank holiday” or “bankers' hours.”  We no longer need a brick and mortar building with a vault to hold our money. People want to use any ATM anywhere, and not be limited to a single bank's machines.  Having made that transition, why do they need a specific bank at all?  We could do everything electronically.
+	In a recent World Card Technology magazine Tom Munk says, “If banks do not want to be displaced by Microsoft and the Internet as the primary financial services provider of the 21st century, some leaders must emerge and be willing to carry the torch.”
+	 Banking is not the only aspect of our lives undergoing major transformation.  In the May-June issue of The Futurist, Edith Weiner and Arnold Brown say:
+	“Consumers are increasingly seeking out new sources for goods and services; that is no longer news.  What is news is that they are bypassing traditional delivery channels-corner drugstores, doctor’s offices, the mass media-in their search for quality, savings, convenience and personal fit in all products and services.  This movement to cut out the traditional middleman, so to speak, is part of a massive socioeconomic phenomenon known as disintermediation.”
+	Consumer demands for timeliness, diversity, changing lifestyles, and the information age are irresistible forces in our economy.  Aproaches which diminish the distance between the vendor and the customer can be expected to gain momentum.
+	Nicholas Negroponte, in Being Digital, carries this theme even further.  The consumer is an individual:  “In being digital I am me, not a statistical subset.  Me includes information and events that have no demographic or statistical meaning.  Where my mother-in-law lives, whom I had dinner with last night, and what time my flight departs for Richmond this afternoon have absolutely no correlation or statistical basis from which to derive suitable narrowcast services.”
+	I consume about 100 pounds of newsprint a month in the form of newspapers.  Perhaps two percent of this interests me.  I am getting increasingly more information from the Internet, in the form of millions of bits of information.
+	Bits are replacing atoms, as Negroponte discusses.  As more of our products and services become digital, they can be zipped around the world at the speed of light.
+	The economies of scale of the industrial revolution were driven by underlying principles of energy and resource utilization.  Until this time, the byproducts of one system were nutrition to another.  Humanity began producing toxic wastes for first time.  An economy based on scarcity, supply and demand of physical products reined.  
+	Weightless, ephemeral bits do not obey the same laws of physics, economics, social interaction, property rights, or geography of the atom-based world.  The do not produce waste.  Bits can be replicated, stored, communicated, or adapted to a consumer’s needs at a very low cost.  How do supply and demand curves work when there is an infinite supply?  	
+	The centralized government, corporate, and educational institutions we have built up over the centuries will come under increasing pressures to meet the individual needs of the populations they serve by providing bits, not atoms.
+	The true meaning of the digital revolution is about creating an entirely new global social fabric, replacing wasteful physical systems with sustainable bits.  
+	I hope that trucks carrying specialized forms will disappear from our streets.
+“Narrowcasting” the America’s Cup on the Internet   May 14, 1995
+	“Television,” said T.S. Elliott, “is a medium of entertainment which permits millions of people to listen to the same joke at the same time, and yet remain lonesome.”  Television is not interactive, and therefore builds no sense of community.  Network executives broadcast to the lowest common denominator of their audience.
+	The America’s Cup holds interest for a limited share of the public, certainly not enough to warrant extensive exposure on the mass media.  For those who are interested, however, it is of critical importance.  The Internet provides a technology for “narrowcasting” specific information to a specific group of people.
+	For the past eight months, I have been involved with producing the America’s Cup On-Line World Wide Web site (http://www.ac95.org), a perfect example of a narrowcast philosophy.
+	This web site was one of the most active sites on the Internet.  It provided free access to the racing activities on the World Wide Web, sponsored by companies who paid to have their advertisements and logos presented on the pages.
+	Although we have not analyzed the 5 billion bytes of log data received from the activities, we do have some rough estimates.  It had about 15 million hits against our database, about five times as many as the World Cup web site last summer.  
+	At least 100,000 people from over 70 countries accessed the site, which appeared on hundreds of hotlists and indices around the world.  Our listing as “Best of Web ‘95” nominee and a key “What’s Cool” listing also contributed to the popularity of the site.
+	We learned much about the dynamics of readership on the web.  In January, when we were listed on a  “Cool Site of the Day” page, our readership jumped 400%.  When the excitement cooled down, the traffic leveled off to about a 200% increase.  There is a ratchet effect to popularity. People put a site on their hotlists and tell their friends.
+	A piece about the site in Business Week magazine, however, resulted in no increase in traffic.  The web today appears to be its own medium, with little cross over with other media.
+	I had an interesting exchange of e-mail from a viewer in Finland about this topic.  Perhaps the Internet provides a sliver of hope that the  communications revolution can be used for positive change in our society, instead of spiraling downward to the levels of television.  Individuals will be able to access information according to their own needs and interests.
+	A dramatic example of the difference between broad- and narrow-casting occurred during the last race of the America’s Cup defender series.  Dennis Connor was trailing the women’s team by 4 minutes at the last mark, an apparently insurmountable gap.  ESPN cut away from their broadcast coverage, and missed one of the most dramatic comebacks in the history of the cup.  The web site covered the race minute by minute, and the computers were nearly saturated with requests for information.
+	Sponsors benefited from this broadly distributed, narrowly focused audience.  One sponsor put up a small icon on a frequently referenced page. Viewers who clicked on it filled out a form to request more information.  In 36 hours they received over 4,000 requests for information from highly qualified potential customers.
+	America’s Cup On-Line pioneered several key areas on the Internet and World Wide Web:
+	•	Real time sporting event information.
+	•	Successful sales of commercial sponsorship of a web site
+	•	An integrated environment built around a special interest event.  We supported a virtual yacht club for interactive chatting, a photo gallery, history of the event, real time results, and “snail trails” showing the track of the boats.
+	In true entrepreneurial spirit, the web site created value for both its viewers and sponsors, linking them on the this new medium of the World Wide Web.  Several readers said that the site set the standard for a whole new genre of information services on the Internet.
+	As the web site wound down with the races, I received many messages from all over the world.  Some of them were not unlike the good-byes after summer camp I remember from my youth.  It proved to me that the Internet is a global medium where the world can interact, and become less lonesome.
+Entrepreneurs and the Web  May 21, 1995
+	One of the most common questions I hear about the world wide web is, “How do I make money on the web?”  For some, this may be a false question, such as “When did you stop beating your wife?”  Do they make money off their fax machine, or do they need it because everyone else does?  Similarly, these people may need access to the web simply because everyone else does.
+	For others with an entrepreneurial spirit, however, the web presents an unparalleled opportunity to be in the right place at the right time.  The traditional concept of  an entrepreneur is one who assumes the risks and rewards of creating value by delivering goods and services.
+	The economy on the web, however, is considerably different.  The very definition of goods and services has changed, as has the notion of “creating value.”
+	In the non-web economy, a seller provides a physical good or service, such as a pet rock, a car, or washing a window.  On the web, however, the product may be information, detached from any manifestation.
+	This has radical, far reaching implications.  Markets we know are based on the of supply and demand of goods and services.  There is an underlying assumption of scarcity in the equation, however.  There is a limited supply of goods and services, which is moderated by demand.  Manufacturers will not create an arbitrary number of automobiles, with the hope of selling them.  Rather, they will moderate their production to meet demand.
+	Barriers to entry for a given market will protect existing sellers, via patents, cost of entry, market share, consumer brands, and the like.  Companies which enter a market presume a limited number of generally predictable competitors.  They can also assume a certain predictability, time lag, and cyclical behavior of change in their market.
+	The economics of the web are drastically different.  What is the meaning of a supply and demand curve when supply is essentially infinite and there is not scarcity, but rather overload?  Every consumer is potentially a manufacturer of information.  Barriers to entry are extremely low.  The explosive growth of the web and the Internet defies most attempts to apply predictive planning.  Those who like to think in terms of 5 year plans might better seek careers as archeologists rather than try to cope with the dynamics of the web.
+	The web will eventually affect companies which are not currently active on it.  The entire middle layer between consumers and sellers may be affected. The print media in particular may be affected if the cost of newsprint continues its spiral upward.  Rupert Murdoch recent appearance in Helsinki, Finland “begging for newsprint” is but one example of this.
+	The most startling aspect of the web is its accelerating rate of change.  New players enter on a daily basis.  The basic underlying technology seems to change on a monthly basis.  New users are swelling the size of the total readership at a reported 1% per day, despite the complexities of connecting to the web.  As more of the big players in the on-line market build simple access to the web, this number will increase even more rapidly.
+	In October 1994, the first beta version of  the Netscape viewer was announced.    By April 1995, Netscape had about a 70% market share.  The books about the web which were entering the bookstores at that time did not even mention the product.  Netscape Communications promises to be one of the outstanding entrepreneur stars of the web.  At least for the moment.
+	The number of magazines on a magazine rack is intimidating to most readers.  They subscribe to one or another of them, and trust the publication to deliver their information, typically for a year at a time.  In an era of information overload, consumer attention is a commodity. 
+	On the web, however, people can branch from one page to another with the click of a mouse.  A new search engine or agent may appear that completely changes the information landscape.  The laws of supply and demand will adapt to an ever-changing dance of seller presence and consumer discovery.  Entrepreneurs of the web will have to have the agility of a ballet dancer.
+The Web and the New Civilization  May 28, 1995
+
+Washington, D. C.  We are living through one of “those exclamation points in history,” say Alvin and Heidi Toffler, “when the entire structure of human knowledge is once again trembling with change as old barriers fall...we are totally reorganizing the production and distribution of knowledge and the symbols used to communicate it.”5 The World Wide Web stands as one of the tools fueling this revolution.
+	The Toffler’s vision of waves of change describes our transition from a second wave industrial society to a third wave information society.  This process profoundly affects our lives: “global competition means that we cannot go back to the conformity, uniformity, bureaucracy, and brute force economy of the assembly-line era.  But the Third Wave is not just a matter of technology and economics.  It involves morality, culture and ideas as well as institutions and political structure.”6
+	The economies of scale in the industrial era created a need for ever larger corporations, governments, and cities to bring raw materials and energy sources together.  Using linear thinking, we measured wealth by the materials we possessed.  Unions protected workers in the factory.  We developed categories and hierarchies of our economy, measured in 50 year sweeps.
+	The Third Wave and the Web create an entirely different mindset.  The concept of scale takes on new meaning as we shift from production of material goods to instantaneous global communication.  The industrial era proletariat becomes the information age “cognitariat.”  Issues about the allocation of wealth become the allocation of knowledge.  The hierarchies and categorizations which marked the industrial era will dissolve as we shrink the globe and accelerate change.  As DuWayne Peterson of Merrill Lynch says, “Money moves at the speed of light.  Information has to move faster.”
+	All this will have profound effect on our political and social structures.  We have seen the demise of the socialist model, whose central failure lay in its obsolete ideas about knowledge.  The Tofflers recount socialism’s fatal collision with the future: “Generations of earnest socialist planners wrestled desperately with the knowledge problem.  The planners demanded ever more data and got ever more lies from the managers afraid to report shortfalls in production.  The beefed up the bureaucracy...the more information they had, the more complex and disorganized the economy grew.”7
+	The Tofflers see the most important political development of our time being the emergence of two basic camps, one committed to the industrial era and the other to the information era. The industrial camp is “tenaciously dedicated to preserving the core institutions of industrial mass society-the nuclear family, the mass education system, the giant corporation, the mass trade union, the centralized nation-state and the politics of pseudorepresentative government.  The other recognizes that today’s most urgent problems, from energy, war, and poverty to ecological degradation and the breakdown of familial relationships, can no longer be solved within the framework of an industrial civilization.”8
+	This calls into question the very existence of the nation-state.  Multi-national corporations non-government organizations, and the global information infrastructure dissolve national frontiers.  We see an accelerating number of problems too big for a single nation to handle.  We also see a number of problems at the community level, for which the nation is too large.  The web scales admirably to address knowledge needs in a scalable manner.
+	In the past, simple concepts of “the majority” have satisfied us.  We reduce the most complex problems to black and white issues, neatly aligned along a simple linear progression.  We slid an imaginary marker along this line until we found a convenient “majority," and presumed that everything on one side of it was the Right Thing.
+	The information age shatters this linear thinking, replacing black and white thinking with a rich, multidimensional array of colorful opportunities.  When we are able to see and think of the world as a global web of information and knowledge, we will radically alter our perceptions of “majority” and the power we attach to it.
+	Our transition will be a period of great turmoil.  We can no longer assume that the future will be merely a continuation of the past.  Although many will see this era as a question mark, those who thrive in the future will look back at it with an exclamation point.
+The Community and the Web  June 11, 1995
+	Across the United States, we have community parades.  Grown men wear funny hats and ride tiny motorcycles in circles.  All sorts of groups turn out to march in the parade.  There may be some sponsors, but rarely does anyone make any money on the parade.  It is simply an exercise of community.
+	When I was a student in the medieval university town Goettingen, Germany, it seemed that the whole town would show up in the Marktplatz every Sunday afternoon, to stroll about and meet neighbors.  The stores were closed, so there was no commercial reason for people to come, other than a desire to be part of a community.
+	People all around the world have events, ceremonies, and traditions which are exercises in community building or celebrations of community. 
+	The other night, I found a particularly interesting web page, maintained by someone in Switzerland.  As I browsed his work, I wanted to download some of his software.  He listed four sites, but the ones in the United States were busy, so I used the one in Australia. I noticed that someone from Zaire had accessed my web server. My computer and I were communicating across four continents with people (I presume) in very different cultures.
+	The web and the Internet are not designed to serve “foreign” countries. There is no center from which to make some other country “foreign.” They are global communications networks, which dissolve boundaries of time, space, geography, culture, race, and politics A new country added to the network appears to the world as simply a new abbreviation in an address.
+	As with all media, the web can be used for “good” or “bad” purposes.  It is tempting to think that we can somehow build regulations that the medium can only be used for “good” purposes.  This brings up two critical issues:  Who defines what “good” is, and how do we regulate it?
+	The question of appropriateness of use is critical.  Terrorists use the telephone, public roads, read explosives handbooks printed by the US government, and generally exploit our entire infrastructure to accomplish their evil goals.   Does this mean that we should regulate or censor access to all of our infrastructure?  How can we be sure that a highway is being used only by “good” people carrying “good” things?
+	Even more challenging is the definition of appropriateness.  Remembering that we are now dealing with the global community of immense scale, it is difficult to come up with a single, common standard of appropriateness which is applicable to the entire world.  Something which is an innocuous statement in one country might appear to be seditious to a dictator elsewhere.  Graphical material which may appear to be artistic to a student in Stockholm may appear to be pornographic to a mother in Peoria.
+	It is naive to think that a centralized authority can mandate that this medium can only be used for “appropriate” communication.  One may as well attempt to dictate that there will be waves in the ocean, but no troughs.
+	There are intrinsics of humanity which the web and the Internet address.  As Alvin Toffler says, “Community is in short supply.”  Community building on a global basis will open new opportunities for people to come together without regard to the physical borders we have seen in the past.
+	Unfortunately, history has taught us that communities often collide to the point of going to war over territory, food, or resources.  In cyberspace, however, there is limitless territory.  Information is not a scarce resource, and its sharing it is not an expensive process.
+	The cyberspace analogy to food is access to the network.  People’s “survival” in cyberspace depend on their access to the network.  Anything which inhibits this access is the cyberspace equivalent of keeping someone from their food source.
+	The web should be thought of as a spiritual cousin to the community parade or the Sunday afternoon Marktplatz strollers.  It is not merely an electronic catalog for shopping opportunities, but rather a means of satisfying one of humanity’s basic needs-belonging to a community.
+Hierarchy and the Web  June 18, 1995
+	Imagine you were looking through a peephole in a fence, and a cat walked by.  First you saw the head, then you saw the tail.  The cat turned around and walked back, and the same process repeated itself.  Through observation and philosophical contemplation, you could conclude that the cat’s head caused its tail.
+	If we remove the fence and the peephole, however,  we would see the whole cat.  We would understand that the head and the tail were simply parts of the same creature.
+	Whenever we build a hierarchy, we build a fence and a peephole.  The top of the hierarchy is the largest peephole, and as we descend through fences of the hierarchy we find ever more smaller, specialized peepholes.
+	Enterprises such as corporations, government agencies, schools, churches, armies, nations and non-government organizations all attempt to survive and accomplish their goals by creating an organization which is larger and more durable than an individual.  Typically, they are hierarchically organized, and see the world according to the peephole behind their fences.
+	A tobacco company’s peephole on the world, for example, is to sell tobacco.  The more people who walk by and buy a cigarette, the greater its profits as a corporation.  We build peepholes on peepholes: bookkeepers register these transactions according to the chart of accounts.  The IRS sees taxes, Gross Domestic Product (GDP) sees sales, stock holders see earnings per share, and executives see bonuses.
+	A hospital’s peephole is to treat patients.  The more people who walk by and need lung cancer treatment, the greater its profits.  The same transactional paraphernalia that apply to the tobacco company apply to the hospital.
+	The big peephole:  the more cigarettes sold and the more lung cancer treated, the greater the GDP.
+	Lets look at the scene from the other side of the fence.  A person walks past one peephole, is viewed as a customer, and gets addicted to tobacco.  Years later, the same person comes with lung cancer and ends up at the hospital peephole, viewed as a patient.
+	Just as scientists and philosophers could debate the cause and effect of the cat’s head and tail, our enterprises attempt to downsize, reorganize, and otherwise adapt to changing pressures.  However, they are clinging rigidly to the same peephole.
+	How do we tear down the fence, so that we can see the whole cat or person behind it?
+	The World Wide Web has taken one of the first steps.  Instead of viewing the world as a set of interlocking hierarchies, all of its pages are part of one global pool of information.  The Uniform Resource Locator (URL) is capable of addressing all of the world’s information objects.
+	At first glance, to someone used to seeing the world through peepholes, this is an intimidating thing.  There is much discussion about the glut of information on the web, as if it is being pushed upon you.  We do not worry about the “glut of phone numbers” which will occur when everyone in China has a telephone.  It will make our telephones more valuable, as we can dial more numbers in the world.  In the same manner, the more information others put on the web, the more valuable our web browsers become.
+	The web is not built on hierarchies. There is no single point of view organizing  web content.  There is no center to the web, nor is there a central authority.  The web does not respect boundaries of nations, geography, or time.  The US Department of Defense designed the network to be impervious to nuclear attack.  Attempts to stop the web would be like trying to stop a thunderstorm with an umbrella.
+	The web is chaotic, in the sense that it is a disordered system.  This does not mean that the web is unusable, however.  For example, someone found a copy of my “The Web and the Community” on-line column by searching a web index for the term “Multidimensional Thinking.”  I did not use this term directly, but somehow the search engine discovered the concept.  Out of the millions of users and millions of pages, this particular connection occurred.
+	Chaos theorists speak of the “edge of chaos” as where all the interesting things happen. Enterprises which thrive in the information era will have to tear down fences, and learn to grow on the edge of the web.
+Thank You,  Jonas Salk  June 25, 1995
+	“Will those who follow us see us as good ancestors?” asked Jonas Salk in his last book, Anatomy of Reality.
+	Although he is most famous for his work with polio, AIDS, and the Salk Institute for Biological Studies, he spent much of his life wrestling with sweeping visions of the evolution of humanity and the balance between reason and intuition.
+	He thought about universal evolution, from the beginning of the cosmos to the next stage in human evolution.  He saw humanity in the midst of a punctuation of evolution.
+	 He believed that “the remedy for the human predicament, for the malfunctions in the human condition, lies in the reconciliation of the intuitive and the reasoning powers of human beings.  We must look upon mankind as an organism, and upon each individual as a cell.  There is no one officer at the top to direct the whole enterprise...Human communities have created collective systems which do not always take into account the real needs of the community’s members, nor the individual’s ability to actualize his needs.   As a result we can see bureaucracies which neither acknowledge nor respond to the most central needs of their constituencies but become self-serving and pathogenic.”
+	After his experience with the the polio vaccine, he realized that people were seduced by science.  His vision of technology is that it must serve a humane purpose.  He was always optimizing: what is the better way, what must we do next?  He foresaw the coming millenium of the mind.  His vision of the purpose of information: wisdom.
+	Visionaries struggle with things they can see but cannot say.  Words are concrete weights in linguistic isolation, while visions float in etherial, intuitive thought-stuff.  He struggled to balance the two.  The Salk Institute for Biological Studies, a superb scientific research institute, was only half of his vision.  Preoccupied to heroic proportions with his work on the AIDS vaccine,  his dream of a Concordance Center for the human side of evolution was left unmanifest.
+	He saw human evolution balancing on a razor’s edge, capable of self-destruction or growth towards an entirely new reality.  The key to this would be the human mind:
+	“We need a proliferation of individuals who are capable of performing self-correcting and balancing functions.  We must find a way to allow such individuals to emerge, and to merge.  Such persons exist; their consciousness of their role and of their responsibility should be heightened, so that they become aware of their potentialities in order that they may then knowingly consider and choose what to do individually and collectively to contribute to this evolutionary need....I see the value of developing clusters, or nodes, or networks of human beings with the mental qualities for dealing effectively with reality; for increasing awareness of reality, of nature, and of humankind; and for increasing self-consciousness and the capacity to see inwardly.”
+	The World Wide Web is a technology and a community which can support these clusters and networks.  His visions of 1983 are today appearing as “home pages” and “metacenters” available globally on the net.  There are those who see the future of cyberspace as merely an electronic shopping mall.  Even more dangerous are those who resist this new medium for fear of prurient communication.  It can just as easily be used as vector for Salk’s vision in support of the evolution of humanity.  The convergence of his vision and the World Wide Web could be one of the crowning achievements of this century.
+	“There are few indeed who can even imagine alternative futures and can make choices of direction that would lead to the avoidance of catastrophe...but such individuals do exist.  Only a few are needed to visualize and to initiate a process that would become self-organizing, self-propelling, and self-propogating...  The characteristic of this species is not one of social, political, or economic power.  It is one that posesses evolutionary qualities of insight, foresight, and creativity.”
+	Few souls deserve the gratitude of all humanity.  Thank you, Jonas Salk.  Would that each of us become as good an ancestor as you will surely be.
+
+The Seven Deadly Virtues  July 11, 1995
+	“Within the span of a few centuries” wrote Lewis Mumford in 1956, “All but one of the [seven deadly] sins, sloth, was transformed into a virtue. Greed, avarice, envy, gluttony, luxury, and pride were the driving forces of the new economy...Unbounded power was harnessed to equally unbounded appetites.” 9
+	It has taken a few decades, but we have finally completed the transformation with sloth. Proper consumers now sit in front of the television, passively absorbing advertising images.  They are attracted by the lurid images of the talk shows, and sound bites which pass for news.
+	The media iconifies murder trials, bomb threats, and terrorist activities.  Murderers are arrested with the announcement, “I hope they make a movie about my case.”  To the mass media, an airplane which lands safely is not newsworthy.
+	The 1929 St. Valentine’s Day massacre in Chicago killed seven gangsters.  Today, Los Angeles has the equivalent number of murders every weekend.  Daniel Moynihan said if more share “genuine alarm at the trivialization of the lunatic crime rate...we might surprise ourselves how well we respond to the manifest decline of the American civic order.  Might.”10
+	It is tempting to shoot the messenger, blaming mass media for this problem.  In reality, it is but one link in a huge interlocking mesh of factors, many of which trace back to the phenomenon of massification.  It is the “mass” in mass media which must be faulted.
+	To a small set of people, a specific airplane which lands safely is of great interest.  The set of all people interested in all airplane landings, however, is not a mass market.  The market is fragmented into specific individuals interested in news of specific landings.
+	The Internet is a technology which allows just this kind of connection between people and information.  There are no central media programmers, competing for your attention by forcing viewers to see specific things.  People choose what they want.  Given this technology, society will be free to redefine its patterns of communication.  The mass media will increasingly become driven by the direct media of the Internet.  Note, for example, the increasing frequency of World Wide Web URLs listed in articles and advertisements.
+	One of the new technologies in computer systems is an approach called Object Orientation (OO).  One view of this approach means that systems can be designed from the perspective of the object being acted upon, rather than the entity doing the acting.  The system would take the perspective of purchase orders flowing through the enterprise, rather than automating the purchasing department, for example. Rather than encrusting the old organization chart, OO technology allows the information system to focus on what the enterprise needs to accomplish.
+	Another very interesting aspect of this technology is called abstraction hierarchies.  For example, the object called “cup” and the object called “glass” are both instances of an abstract class called “container.”  Having made this association, we can now see that “pitcher” and  “vase” are both instances of “container.”  We can work our way up the abstraction ladder and realize that “container” is an instance of the class “household object.” 
+	If one abstracts far enough, a human being (dweller of the house containing household objects) eventually emerges.  A human being is an instance of humanity.  From this perspective, we see people flowing through our systems, behaving according to their individual needs.
+	Seeing the world from the perspective of humanity, of course, is an inversion of today’s predominant thinking.  Inverted perspective can be a very powerful tool, however.  Jonas Salk spoke of how he used it:
+
+When I observed phenomena in the laboratory that I did not understand, I would also ask questions as if interrogating myself: “Why would I do if I were a virus or a cancer cell, or the immune system?”  Before long, this internal dialogue became second nature to me; I found that my mind worked this way all the time.11
+
+	We need to connect our technology to humanity by applying this inverted perspective.  What are the basic human needs addressed in a given technological endeavor?  When we understand how to meet the communications needs of those who are interested in the airplane landing safely, we will have made a giant step forward for humanity.  We even may reassess the seven deadly virtues.
+An Epidemic of Health  July 16, 1995
+	Imagine two people sitting on a beach when a tidal wave approaches.  One becomes angry, shakes his fist, and writes a letter to his congressman.  The other seeks higher ground to figure out what to do.
+	The Internet is forcing us all to face a tidal wave of change.  Shaking our fists at it, or attempting to stop it will not work.  We cannot control it through restrictions and negative feedback.
+	We have to seek higher ground.  Using the momentum of the wave to our advantage, we can ride it to where we want to go.  We can do this through positive feedback: evolve by replicating success.
+	Jonas Salk identified one these higher grounds as an “Epidemic of Health,” an apt metaphor for the information age.  We have many examples of the power of a virus, both human and computer-based.  We understand how they work, how they spread, and how they can become an epidemic for a given population.  
+	Is it possible to create a virus-like system which would spread throughout the world, improving the world’s health, sustainability, and quality of life?
+	The Internet can be used as both an infrastructure and a role model for how this would work.  As an infrastructure, it provides a ubiquitous form of communication.  The Internet grew from very modest beginnings by replicating success in a well connected environment.  It was developed in a freeform, some would say chaotic manner.  Bad ideas withered away, good ideas propagated.
+	An epidemic of health would be based on similar principles.  Working from the basis of universal communication, it would grow by replicating success. 
+	 Epidemiologists study the basic mechanism for epidemics.  A contagion is the entity which causes the infection to grow within a host.  A vector is a means of transporting the contagion.  A population is the group affected by the contagion.
+	The contagion for the epidemic of health is healthy people.  In any population, there will be some who have maintained their health, and serve as role models for those who have not adapted as well.  These people may be healers, or simply people who exhibit enough vitality that others can benefit.  Healthy people are contagious in face to face settings.
+	The vector of this epidemic is information.  It can build electronic communities, share research, communicate knowledge, locate resources, share needs, and build an evolutionary path to cope with future needs.
+	The world is the population affected by this epidemic.  Many of our largest problems are global, and must be addressed from the global perspective found on the Internet.
+	The virulence of the epidemic of health can be assured because of the universal need for health.  Improving health can be a win-win situation for all concerned.
+	This epidemic does not require funding or official approval.  As Salk said, “Only a few are needed to visualize and to initiate a process that would become self-organizing, self-propelling, and self-propagating, as is characteristic of evolutionary processes.”  (Anatomy of Reality, 1983, p 123)
+	I recently met Samantha Scolamiero (samajane@mit.edu) who had a wonderful story about health on the Internet.  Five years ago, at the age of 20, she had a life threatening tumor removed from her brain.  As she coped with the aftereffects of the surgery and the problems of being a survivor, she started an Internet on-line support group for those with brain tumors.  Today, it has over 600 members from all over the world.  It includes patients and loved ones, as well as clinical professionals. These people feel that this group has been life-extending.
+	This group is a very low cost operation (staffed and funded by volunteers).  It has no authority, it serves only to bring together a community of people with very focused attention to a specific problem. 
+	The success of this group is something which could easily be replicated for thousands of different communities of interest.  It costs very little, produces quick and tangible benefits for the participants, and is easily replicated. 
+	One of the major reasons that the elderly seek medical care is loneliness.   The Internet could address this problem by creating on line communities for seniors, genealogical research facilities, electronic mail connections to their family, interactive games, and the like.
+	People in remote areas of the world could have access to health related information.  Simple ideas, such as purifying water by leaving it in the sun inside plastic bottles, could be spread.
+	Health can be contagious.  We can use the Internet to create the epidemic of health.
+A Stake in the Future  July 23, 1995
+
+	The breathtaking rate of change we are now experiencing on the Internet is exposing a chasm between today and tomorrow.  The best way to bridge this chasm is to put a stake on the other side and pull ourselves across to the future.  We cannot be pushed by today’s problems; we need to look to tomorrow’s solutions.
+	Today’s world has been torn asunder by the Humpty Dumpty effect: innumerable hierarchies, bureaucracies, and power structures which have splintered and cannot be put back together again.  Attempting to repair these problems will only intensify them: akin to trying to get out of the chasm by digging it deeper.
+	We live in a world in which people seek to become victims, attempting to punish the past instead of building a future.  Our health care system has sought to defeat death at the expense of creating better lives for the younger generation.  Businesses are forced to take short term actions which have long term deleterious consequences.
+	We can attempt to solve each of these problems individually, or we can dissolve them, and many more, as a group by attacking the core premises.
+	We can learn much from the ant colony.  It does not solve problems by creating massive plans and brittle, complex solutions to the problems it faces.  Rather, it leverages the contributions of thousands of tiny members.  Individually, the members are quite weak.  Brought together as a community, the ants are a powerful force.  Ask anyone whose home has been invaded by them.
+	Intel Corporation tried to exert its position in the market when its Pentium processor chips were discovered to have flaws.  The Internet rallied up against them, and humbled them into submission.
+	What is the power of the Internet?  Those things which succeed in attracting people to use them.  Attention is a commodity of the information age.  It is not a mass media: there are no broadcast network authorities deciding how much of a given murder trial the public wants to see.  If people want to see something, they will seek it out.  Perhaps they will want to look at the Hubble telescope pictures, research their genealogy, or communicate with friends instead.
+	What will cause people to pay attention to things on the Internet?  Ultimately, things which appeal to the intrinsics of humanity: community, security, family, commerce, procreation, health, and personal growth, among other things.  Only things which appeal to personal needs will propagate and spread around the net.
+	This could diminish the power of the mass media.  Micro media will emerge, in which communities of interest form, addressing specific needs for specific people, without regard to geographical location.  The media will be interactive; people will be able to determine the value of products and services quickly and with devastating precision to those who fail to serve or malign the needs of the community.  Those who meet the needs of the community will find themselves rewarded equally quickly.
+	Our business schools create the impression that business is a set of quantitative measures.  Add up the transactions, manage the bottom line, check the ratios.  This may be effective when dealing with today’s world, but it is not necessarily the way to get across the chasm to the future.
+	Barrings Bank was a bedrock of British stability for two centuries until the weekend that it went bankrupt.  Whatever the cause, it fell into the chasm from a most unlikely place.  Every enterprise must be wary of being pushed into the chasm by trying to solve todays problems while their competitors already have a stake on the other side.
+	This applies to all of us as individuals, too.  Our families, communities, governments, businesses, schools, and values are all under enormous pressure to adapt to the changes brought about by advancing computer and communications technologies.  How we adapt to these is a key factor for our future.
+	All technologies can be used for positive or negative purposes.  The Internet is an especially powerful technology which we can be used to create a better future. This can occur if we share a positive vision, so that we all become stakeholders in our future, pulling ourselves across the chasm.
+The Web: Beyond Decentralization  August 6, 1995
+
+	In a hierarchical organization, no matter where you go, you find that people want things decentralized above them, and centralized below them.  People want the freedom to make their own decisions, take actions, -and to be empowered. 
+	William Davidow, in The Virtual Corporation, describes what the new organization will look like:
+	“To the outside observer, it will appear almost edgeless, with permeable and continuously changing interfaces between company, supplier, and customers.  From inside the firm the view will be no less amorphous, with traditional offices, departments, and operating divisions constantly reforming according to need.  Job responsibilities will regularly shift, as will lines of authority-even the very definition of employee will change, as some customers and suppliers begin to spend more time in the company than will some of the firm’s own workers.”
+	The CEO of First Virtual, Lee Stein, once said that of the twenty people carrying First Virtual business cards, no two of them have the same area code.  They are in constant communication via the Internet.
+	This kind of organization is fundamentally different from the traditional control and policy-driven organization we know from the industrial revolution.  As Davidow says, “It is better to talk of the virtual corporation in terms of patterns of information and relationships.”  Peter Drucker’s “Information Corporation” vision presents  the corporation as organized around knowledge rather than specific products.
+	The hierarchical and directive system of management, developed largely around the railroad industry, was designed for managing inflexible mass production of energy and resource intensive products in a stable distribution system.
+	As these types of organizations tried to adapt, they began the process of decentralization: distributing control down the hierarchy to lower level decision makers.  The organization, however, was still fundamentally a hierarchy, with all of the inflexibility that entails.
+	Computer systems paralleled these ideas.  Information was collected, controlled, and managed according to the departmentalization of the organization.  This information was then rolled up to headquarters, to understand the overall operation.  Over time, the departments built interfaces between them, typically in the name of an “integrated” system.  
+	In reality, these interfaces between the departments created a more brittle structure, less able to adapt to their organization’s needs.  More and more of the resources and energy of the organization were spent maintaining hierarchical relationships, at the expense of .production.
+	For example, consider a health care merger.  Two hospitals have merged, and they both have in house pharmacies.  The immediate reaction is to interface the computer systems supporting the two pharmacies.  (An interface typically propagates the worst of both systems.)  Both hierarchies must be supported, which creates an even greater burden for adapting in the future.
+	Consider a more modern solution to this problem.  Suppose that the goal is to process prescriptions for patients as efficiently as possible.  This results-oriented approach is different from the directive system of management, which sees the purpose of the system as “ to manage the pharmacy.”  The pharmacy is part of the hierarchy, so its results must be rolled up for upper level management to understand.
+	What upper level management needs, however, is a stream of customers happy about the services they receive from the organization.  They need to insure that the flow of activities in their organization is appropriate for their customers.
+	Thus, the system should be designed from the point of view of the objects being processed, the prescription in this case.  The computer would be used to route the information about the prescription, find the lowest cost alternative, and report on the process to the organization.  If the service happens to have been accomplished in one of the organization, that is recorded too.  If not, the service is still performed.
+	When the organization merges again, the process is greatly simplified.  Prescriptions simply flow through the new pharmacy as appropriate.
+	The infrastructure to support this kind of operation is now appearing in the World Wide Web.  The web is an inherently flat, non-hierarchical structure.  Hierarchies are built up as appropriate through the use of hyper-text links.  
+The patterns and relationships of the virtual corporation map quite nicely to the capabilities of the web.  The growth and accelerating acceptance of web technology has created a critical mass to make it the infrastructure of choice for supporting virtual organizations.
+	Web technology will allow everyone to be at the center of their own organization.  From their web perspective, things will be decentralized above them and centralized below them.
+Pornography and the Internet  August 20, 1995
+	I once proposed a system whereby health care providers could use the Internet to access a medical knowledge base from Harvard Medical School, state of the art literature from the National Library of Medicine, and statistics from the Centers for Disease Control.  A career bureaucrat from the organization said, “What if they download pornographic photos instead?”
+	The printing press is the medium of choice for pornographic material. Yet do we even think of restricting physician access to printed medical journals because smutty novels are printed in the same medium? 
+	The Internet is a medium of communication, just like any other, capable of expressing any human thought or emotion. There is a demand for sexual material on the Internet.  The author of one of the most popular search engines on the Web told me that of the top 10 search categories requested, one was “Microsoft” and the other 9 were sexually related.
+Compared to other media, however, there is remarkably little sexual innuendo from non-sexual information.  Auto parts stores have calendars with pin-up models, the evening news is advertised with titillating, talk shows and docudramas flaunt sexual topics, magazines sell all types of merchandise with sexual images.  Hollywood has turned the phrase “sex and violence” into a matched pair in our language, not unlike “soup and sandwich.”
+If a site is advertising something on the net, it focuses directly on the object being advertised.  Perhaps the medium has not matured yet, or the bandwidth is too limited to send images unrelated to the object.  Or perhaps the medium has already matured to the point that these images are no longer effective.
+In an interactive medium such as the Internet, readers are free (and encouraged) to express themselves to the publishers of the page.  Those most interactive can have a remarkable influence on the publishers.  
+For example, during the publishing of the America’s Cup On-Line, we unintentionally published a headline which could have been read as a double entendre with a sexist meaning.  The headline was published at 5 PM, we got an electronic mail message from 3000 miles away at 11 AM the next morning, and corrected the mistake by 11:30 AM.
+Pornography on the Internet is clearly problem problematic. The girlie magazines which are kept behind the counter at the corner store have published some of their photos on the Internet.  College dorms and fraternities publish some pages which would not be printable in the family newspapers.
+Interactive chat groups, particularly those which use pseudonyms, are prone to extreme conversation.  Anonymity encourages a certain type of behavior which would not be acceptable between people who know each other’s names.   
+Attempting to control this problem is difficult. When I was a high school student in the 1960’s reading Shakespeare, our textbooks occasionally had line numbers missing, indicating passages which the publisher thought that we should not see.  This, of course, sent us to the library to read the unabridged version, which became the most heavily recited passage.
+	There is a movement to apply content rating to the Internet, similar to the movie’s G, PG, R, or X ratings.  Remembering that the Internet is a global medium, who is to say that the housewife in Peoria, the Arab fundamentalist, and the college student in Amsterdam have the same understanding of the categorization of an  “R” rated photograph?  If there were a mechanism for rating “X” material, we could be sure that thousands of index pages would spring up, making it all the more easy to find them.  We do not rate our printed material or libraries.
+	The front page to a girlie magazine on the Internet typically says, “This page contains sexually explicit material.  If you are under 18 or are offended by this, do not click here.” This serves as a beacon for the indexing programs, for people to search for “sexually explicit” or “under 18.” 
+	I do not have a ready answer to solve the pornography problem.  We should not, however, shoot the messenger brings us the message.  We should build on the strengths of this new communications medium, rather than attempt to stop it because of fear of abuse.
+The Web (like a river)  (TXA, 10/95)
+	A conversation piece during a Chinese lunch is to append the words “in bed” to whatever the fortune cookie reads. “You will find great happiness (in bed).”   The results of applying this simple idea are both amusing and intriguing.  How did this simple phrase provide such a universal and evocative twist to the meaning of a sentence?
+	A variation of this can be applied to our business affairs, too:  add the phrase “like a river” to any structure, plan, or hierarchical document.  For example, “This organization chart (like a river) describes the department’s reporting structure for the next fiscal year.”  “This 5 year plan (like a river) projects the company’s sales and profitability.”  “The World Wide Web (like a river) holds information about the happenings at the America’s Cup races.”
+	Other applications of this idea can be applied to the health care industry.  “This medical record (like a river) describes the patient’s health history.”  “This set of terms (like a river) is the definitive listing of psychiatric diagnoses.”  “These discussions of  lab results (like a river) associates patient condition to their treatment.”
+	As the saying goes, you can never step into the same river twice.  Perhaps you step into the same physical location, but the continuously flowing river will not be the same thing.  The river is a fixed entity is continuously changing.  Forest fires, coastlines, ecological systems, people and our organizational systems all share this trait.
+	Unfortunately, we tend to build our systems as if they are fixed entities.  We assume that a set of requirements, user needs, or definitions are somehow fixed things.  We assume that we can step back into the same river, and when we cannot, we react with surprise that things have changed.
+	We have to design our systems (like a river) with the perspective that they are continuously changing.  The organization will merge or split, there will be new management, government policies, technologies, and other influences.  Perhaps the exact changes will be a surprise, but the fact that change occurs itself should be considered a normal activity in the life of the system.
+	The act of installing a system in an organization (like a river) changes the organization.  Requirements gathered from the System (at time A) will be changed or obviated when the new system takes effect (at time B).  For example, requirements gathered from users of the DOS operating system will probably be obsolete when they shift to a Windows environment.  They may use the same computer, but their system (like a river) has changed. 
+Similarly, a hospital with a universal electronic mail system (like a river) will have entirely different communication needs than a hospital (like a river) which uses only paper memos and bulletin boards in the hallways.
+It is quite a chore to design a system for a snapshot in time.  There is quite often a feeling at completion of the project that somehow, that somehow, we are trying to get out of a hole by digging it deeper.  When the requirements of the snapshot change, all too often the entire scaffolding on which we have built the system will collapse.
+Think of trying to build a dam on a river.  Unless the site is chosen very carefully with respect to the flow of the river and topography of the land, the river will simply meander around the dam.  The river can be channeled, however, so that it expends the same energy.
+Aggregations and Associations
+	The typical clinical repository is an aggregation of structured information about patients.  Each row in each table is a well formed unit of information, fitting into the appropriate “pigeon hole” created by the system designers.  The clinical repository (like a river), however, is not a fixed, static entity.  There is a significant need for non-structured relationships between the data.  Dr. Smith may want to note that Mr. Smith’s lab result and his wife’s tumor may relate to an environmental problem he first noticed reading the New England Journal of Medicine.  He realized that the Smith family lived in an area of town, described in the local newspaper as be polluted with this toxin.  This latter chain of information represents an association.
+	Associations with this degree of freedom cannot be pigeon holed into an aggregative data base.  There is no way that all of the associations can be classified, controlled, and managed as an aggregate.  Even if there were an attempt to categorize all possible associations, new ones would arise.
+	Traditional relational database technology is based on the aggregative concept.  Systems of information will be broken down into rectangular tables, with well defined columns controlling the content of each row.  Rows will be inserted as transactions at a point in time, and the referential integrity between the tables will be maintained.
+	This is a very powerful model (like a river) for certain types of information.  Using it is akin to building a dam in a river.  If properly designed, and the river happens to run through the appropriate topography, then a dam can be an extremely powerful structure.
+	Other types of information, like rivers in other topographies, can be impossible to “pigeon hole” with the precision of the aggregative relational model.  Instead of nicely arranged tables of homogenous tables, we can only point to somewhere else and say, “there is something over there which relates to this thing here.” 
+The Web (like a river)
+	Imagine trying to build the World Wide Web using relational database technology.  If the web stayed still long enough, and if there were some way to manage and administer the structure of the databases, and if there were sufficiently powerful groups to manage the multi media standards, and if there were sufficient resources to perform the administration of the web, there might be a very slim chance of building the web using relational database systems, three tiered architectures, etc.
+	The WWW (like a river) would cease to exist.  It would not be able to cope with the growth rate, the fantastic diversity of information sources and structures, or the creative energy of those who are making it grow.
+	The reason the web has been able to sustain its growth is that it has been designed from its inception to grow, based on simple protocols.  The more people use the web, the more value there is for providers to put information up.  The more information on the web, the more people are attracted.  This autocatalytic growth is a powerful force, and can be expected to drive it even further.
+	No one knows what the web will be like in a year.  This is an emergent property of the system, a non-linear interaction between viewer and provider, technology and markets.  The web should serve as both an infrastructure and a role model for future generations of systems development.
+
+
+
+	  
+
+
+
+
+Index	
+
+1
+1984, 5
+5
+5 year plans, 42
+A
+Accounting, 9
+Adaptive Structures, 5
+aggregates, 33
+Aha! experience, 31
+AIDS, 46
+Air Force, 25
+Alcoholics Anonymous, 18
+America On-Line, 8
+America’s Cup, 40
+America’s Cup On-Line, 54
+American Airlines, 34
+America's Cup On-line, 17
+Amnesty International, 18
+ancestors, 46
+ant colony, 51
+Apple, 5, 13, 29
+applets, 35
+armies, 45
+Arnett, Peter, 25
+Associative Trail, 15
+Atlantic Monthly, 15, 16
+ATM, 26
+ATM machine, 39
+Automated Teller Machines (ATM), 32
+B
+Baghdad, 25
+Bangkok, 27
+bank, 28
+bank holiday, 39
+Barriers to entry, 41
+Barrings Bank, 33, 52
+Batch Processing, 19
+Berners-Lee, Tim, 15
+Bill of Rights, 38
+Bits (vs. Atoms), 39
+Blackbird, 25
+Bottom line, 9, 33
+Bradbury, Ray, 21
+Broadcast Media, 20
+Brown, Arnold, 39
+Browsing, 12
+Bulletin board, 11
+bureaucracies, 47
+bureaucracy, 43
+Bush, Vannevar, 15
+Business Process Reengineering, 11, 24
+Business Week, 40
+C
+California, 24, 26
+Carnegie Mellon University, 15
+Cartoon, 12
+cat, 45
+Centers for Disease Control, 23, 35, 53
+central authority, 46
+Central Data Processing, 19
+centralization, 25
+ceremonies, 44
+CERN, 15
+Chaos, 6, 46
+chart of accounts, 33
+Chinese medical techniques, 27
+churches, 45
+Cities, 21
+clockwork, 36
+clockwork model, 34
+Clockwork universe, 7, 9
+CNN, 16, 25
+Coevolution
+Organizations and Information Technology, 19
+cognitariat, 43
+Cold war, 10, 17
+Command Line, 13
+Commons, 3
+communists, 36
+Community, 20, 44, 47, 50
+Community building, 3
+Community Information Systems, 11
+Compaq, 5
+Complexity Theory, 6
+Compositional Thinking, 12
+Compuserve, 8
+conceptual integrity, 22
+Concordance Center. See
+Connectivity, 14
+Constitution, 24
+content rating, 54
+Contract, 12
+Cool Hand Luke, 16
+Cool Site of the Day, 40
+creativity, 47
+criminal behavior, 30
+culture, 26, 43
+D
+Darmstadt, 34
+Data Processing, 7
+Davidow, William, 52
+decentralization, 24
+Decimal system, 8
+Decompositional Thinking, 12
+Departmental Systems, 10, 22
+departmentalization, 28
+Desktop Metaphor, 13
+Diamond, 7
+Digital, 5
+DOS, 13, 32
+Drag Metaphor, 13
+Drucker, Peter, 16
+Drucker, Peter, 33, 52
+E
+ecology of information, 34
+economies of scale, 39, 43
+Electronic Mail, 14, 24, 29
+Elliott, T.S., 40
+Emergent Properties, 17
+Energy grid, 18
+Enterprise Systems, 11
+Enterprises, 45
+entrepreneurial spirit, 41
+Epidemic of Health, 49
+Eskimos, 9
+ESPN, 40
+European Community, 27
+events, 24
+evolution, 46
+evolution, of a system, 23
+F
+F=MA, 6
+Failure to Communicate, 16
+fair sample, 32
+fax machine, 41
+feng shui, 26
+Fire, discovery of, 19
+First Virtual, 52
+Fitness Function, 11
+flame message, 29
+Flame messages, 18
+foreign, 44
+freedom of speech, 37
+future tense, 23
+G
+Gates, Bill, 3
+general ledger, 33
+Geographical distance, 14
+Germany, 34
+Gleick, James, 6
+Gliders, 7
+global competition, 43
+global village, 37
+globalization, 26
+Goettingen, 44
+Goettingen, Germany, 21
+Goodman, Nelson, 32
+Government, 5
+government agencies, 45
+Grass roots organizations, 18
+Great Oceanic Feeling, 21
+Greek, 20
+Greeks, 8
+gridlock, 28
+Gross Domestic Product, 45
+Gulf war, 25
+Gutenburg, 38
+H
+Harvard Medical School, 53
+Hawken, Paul, 9
+health care information infrastructure, 23, 28
+health care system, 51
+Healthy people, 50
+hierarchical organization, 52
+Hierarchical Structures, 5
+hierarchies, 43
+hierarchy, 45
+Hofstadter, Douglas, 17
+Holmes, Oliver Wendell, 38
+Hong Kong, 26
+hospital, 45
+humanity, 46
+Humpty Dumpty, 22, 51
+I
+IBM, 5, 33
+Industrial Ecology, 10
+industrial society, 43
+Information Infrastructure, 8, 10, 11
+infrastructure, 30
+Innovation
+Tools, 20
+Integration Crunch, 11, 28
+Intel, 5
+Intel Corporation, 18, 51
+intellectual monoculture, 37
+intercom, 22
+Internet, 18
+Internet Explorer, 35
+Inverted perspective, 49
+IRS, 45
+Isaac Newton, 6
+Islands, 20
+J
+Java, 35
+Jobs, Steve, 5
+K
+Kay, Alan, 34
+Kenya, 4
+Kiosks, 4
+Knowledge Society, 17
+Korea, 17
+L
+Ladder of abstraction, 11, 20
+Lateral Communication, 11
+Lawyer, 15
+Library, 4
+Linear Demand, 6
+linguistic diversity, 26
+Lockheed, 25
+loneliness, 50
+lumpers, 22
+Lust for precision, 7
+Lycos search Engine, 15
+M
+Macintosh, 5, 13, 29, 32
+Mainframe computer, 19, 28
+majority, 43
+Marktplatz, 21
+mass education, 43
+mass media, 51. See
+McLuhan, Marshal, 19
+McNamara, 36
+Mechanistic Model, 11
+medical record, 28
+Memex, 15
+Mesh, 15
+Metaphor, 13
+Michener, James, 20
+Microsoft, 3, 5, 39, 54
+MIT, 15
+Moliére, 23
+Mosaic, 15
+Mothers Against Drunk Driving, 18
+Moynihan, Daniel. See
+Mozart, 32
+MTV, 27
+Multidimensional Thinking, 46
+Mumford, Lewis, 48
+Museums, 4
+N
+NAFTA, 27
+Napoleon, 25
+narrowcasting, 40
+National Library of Medicine, 35, 53. See
+nations, 45
+nation-state, 43
+Neckties, 10
+Negroponte, 39
+Nesomania, 20
+Netscape, 15, 42
+network security, 30
+newsprint, 42
+Nigeria, 16
+Nuclear arsenal, 5
+nuclear family, 43
+O
+Object Orientation, 48
+Oklahoma Land Rush, 4
+Online Computer Library Center (OCLC), 35
+on-line service providers, 22
+operating systems, 31
+Order, 7
+organic systems, 36
+Organic Threshold, 11, 12
+Organicity, 17
+P
+Pacific Rim, 27
+Pagels, Heinz, 6
+Paradigm Shift, 13
+Paris, 25
+PC Revolution, 4, 10
+peephole, 45
+penthouse suite, 28
+Pentium, 18, 51
+pharmacy, 53
+Playboy, 35
+Point of view, 7, 18
+polio, 47
+political structure, 43
+Pornography, 53
+positive feedback, 36
+Power hierarchy, 18
+Primordial soup, 7, 19
+printing press, 54
+processes, 24
+profit, 9
+Profitability, 33
+Programmers, 19
+proletariat, 43
+pseudorepresentative government, 43
+Pyramid, 5
+Q
+quarterly reports, 33
+Quixotic quests, 5
+R
+Raised Eyebrow Management Style, 16
+replicating success, 49
+Requirements, 12
+Robert’s Rules of Order, 38
+rock music, 26
+Roman Numeral System, 8, 14
+Rose, 7
+Rose, dissected, 18
+Rough consensus, running code, 11
+S
+Sabre system, 34
+Salk, Jonas, 46, 49
+San Francisco, 21
+Sante Fe Institute, 6
+SATAN, 30
+scenario base design, 33
+schools, 45
+Scolamiero, Samantha, 50
+score, musical, 32
+security, 30
+self-organizing, 47, 50
+semaphores, 25
+seven deadly virtues, 49
+Seven-Eleven, 26
+sexual innuendo, 54
+Shakespeare, 54
+shoplifting, 30
+SimCity, 24
+Simplicate and add lightness, 7
+sins, seven deadly, 48
+Snail mail, 29
+snow, 9
+Social Sector, 17
+socialism, 43
+Software Engineering, 11
+spamming, 37
+speed of light, 43
+splitters, 22
+spontaneous organization, 23
+Spreadsheets, 13, 19
+SR-71, 25
+St. Valentine’s Day massacre, 48
+Stability, 5
+Stein, Lee, 52
+stock market, 33
+Stovepipe, 5, 7
+stovepipe systems, 28
+Sum of Parts, 17
+Superpowers, 7
+supply and demand, 41
+Sustainability, 9, 33, 49
+systems administrators, 30
+T
+telephone, 44
+telephone system, 22
+Television, 40, 48
+Television Networks, 18
+terrorist activities, 48
+The Futurist, 39
+third wave, 43
+tidal wave, 49
+Time, 23
+Timeliness, 14
+Toaster, 17
+tobacco company, 45
+Toffler, Alvin, 20
+Toffler, Alvin and Heidi, 42
+Tools, 19
+Tourists, 21
+toxic waste, 39
+tragedy of the commons, 37
+Transactions, 10
+tricorder, 35
+U
+Undergraduate years, 6
+Underground Railroad, 5
+Uniform Resource Locator, 8, 34
+UNIX, 31
+URL, 23, 46
+V
+Vanevar Bush, 34
+Vertical stack of product offerings, 5
+Veterans Administration, 5, 25
+Video Camera, 12
+Vietnam, 36
+Virtual Community, 18
+Virtual Corporation, 52
+virtual patient, 35
+Virtual Reality, 9, 23, 33
+Visual Human, 35
+VRML, 34
+W
+Wang, 5
+Waste Basket, 13
+waterfall systems development, 36
+wealth, 43
+Weiner, Edith, 39
+Whole, 17
+Windows NT, 31
+Work flow automation, 24
+Workflow automation, 11
+World Wide Web Conference, 34
+World Wide Web Consortium (W3C), 15
+Z
+Zen, 31
+Zero, 8
+
+
+1Michener, James, The World is My Home: A Memoir, Random House, 1992, p. 140
+2 Rich, Ben and Janos, Leo, The Skunk Works, Little, Brown, and Company,  1994
+3Goodman, Nelson, Ways of Worldmaking, Hackett, 1978
+4Bush, Vanevar, “As We May Think”, Atlantic Monthly, August, 1945
+5 Toffler, Alvin and Heidi, Creating a New Civilization, The Politics of the Third Wave, Turner Publishing, Atlanta, 1994, p. 36
+6 ibid, p. 11
+7 ibid, p. 68
+8 Tofflers, p 73
+9 Quoted by Willis Harman and John Hormann, in Breakdown of the Old Paradigm, in The New Business Paradigm, Ray and Rinzler, eds, Putnam and Sons, 1993.
+10 Moynihan, Daniel, Defining Decency Down, in American Scholar, Winter 1993, p. 30
+11Salk, Jonas, Anatomy of Reality, Columbia University Press, 1983 p. 7

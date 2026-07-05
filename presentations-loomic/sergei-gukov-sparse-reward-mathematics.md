@@ -1,0 +1,152 @@
+---
+title: "Sparse Reward, Long Horizon Problems: AI for Mathematical Discovery"
+speaker: "Sergei Gukov"
+affiliation: "Caltech; Merkin Center; American Institute of Mathematics"
+event: "2026 Science and AI Summit"
+date: 2026-06-30
+timestamp: "7:57:12"
+youtube_url: "https://www.youtube.com/live/i6OQ5Z3repA?t=28632"
+tags: ["reinforcement-learning","mathematics","sparse-reward","discovery","group-theory"]
+keywords: ["sparse reward","long horizon","Montezuma's Revenge","Go-Explore","detachment","derailment","Andrews conjecture","Rubik's cube analogy","bimodal data distribution","missing middle","rare events","extreme weather prediction"]
+loomic:
+  loom: sair-ucr-2026
+  asserted: 2026-06-30
+  source: gukov-2026-sparse
+---
+
+::: {#gukov-2026-sparse .context part_of=2026-science-and-ai-summit
+     verification.external="https://www.youtube.com/live/i6OQ5Z3repA?t=28632"}
+Talk by [Sergei Gukov]{ref=sergei-gukov} at the [[2026 Science and AI Summit]], UC Riverside, June 30, 2026.
+:::
+
+## Summary
+
+::: {#gukov-sparse-summary .synthesis
+     parents="gukov-sparse-transcript@paraphrased"
+     confidence.textual=high confidence.interpretive=medium}
+
+[[Sergei Gukov]], director of the [[Merkin Center]] and John D. MacArthur professor at Caltech, frames mathematical discovery as the prototypical [[sparse reward]], long-horizon problem. He observes that [the same structural difficulty — very few successful signals spread over an astronomically large search space — recurs across fusion reactor design, airplane certification, robotics, and coding agents]{#gukov-sparse-reward-ubiquity .claim
+  tense=indexical status=open parents="gukov-sparse-t1@paraphrased"}. The key insight is that [[reinforcement learning]], while the natural framework for such problems, fails badly when rewards are so sparse that the agent never encounters positive feedback during training. His lab at Caltech focuses exclusively on designing new algorithms and architectures to unlock this class of problems, with mathematics serving as a clean testbed because the data is synthetic and the feedback loop, though slow, is unambiguous.
+
+Gukov uses the decade-long struggle to play [[Montezuma's Revenge]] as a case study. When DeepMind's DQN algorithm achieved strong performance across most Atari games in 2013 it scored exactly zero on Montezuma's Revenge, an exploration game requiring a long sequence of purposeful steps before any reward is obtained. Despite concerted community effort — DQN variants, C-51 distributional RL, Rainbow, Impala — progress was minimal until [[Go-Explore]] finally exceeded expert human performance. [The Go-Explore authors succeeded by diagnosing two failure modes in prior systems: detachment (the agent fails to return to promising states it previously found) and derailment (the agent loses track of its progress during long rollouts)]{#gukov-go-explore-diagnosis .historical_claim
+  parents="gukov-sparse-t3@paraphrased"}. This diagnostic methodology — trying many approaches, then systematically analyzing what fails — mirrors exactly how [[Sergei Gukov|Gukov]]'s lab operates on mathematical problems, sometimes requiring fifty to a hundred distinct algorithm attempts before finding one that works.
+
+Two concrete mathematical problems illustrate the approach. [The algebraic analog of the Hirsch conjecture (a problem in commutative algebra about monomial ideals satisfying two simultaneously hard conditions) was eventually solved and published at ICML after extensive algorithmic experimentation]{#gukov-hirsch-solved .experimental_result
+  parents="gukov-sparse-t2@paraphrased"}. Progress on [[Andrews conjecture|Andrews's conjecture]] from group theory — which asks whether every balanced presentation of the trivial group can be connected to the trivial presentation via a small set of moves — revealed a subtler difficulty: [a bimodal data distribution in which synthetically generated examples cluster into an "easy pile" and a "hard pile" with nothing in between. Training on easy examples teaches the model nothing useful about the hard cases; filling the "missing middle" was the key algorithmic insight]{#gukov-bimodal-distribution .experimental_result
+  tense=indexical parents="gukov-sparse-t4@paraphrased"}.
+
+Gukov closes by arguing that [the problems blocking AI in mathematics — out-of-distribution generalization, bimodal data, exponential search spaces — are the same problems blocking AI in extreme weather prediction, financial crash modeling, and any domain where the most important events are rare]{#gukov-rare-event-unification .claim
+  tense=indexical status=open parents="gukov-sparse-t5@paraphrased"}. Mathematics is attractive as a research vehicle precisely because experiments are cheap: no proprietary data, no physical machinery, just synthetic generation and clean reward signals. He paraphrases Vladimir Arnold's remark that "mathematics is a part of physics where experiments are cheap" by proposing that [mathematics can be viewed as a part of AI research where data and machinery are cheap, making it an ideal laboratory for developing the algorithms that will eventually generalize]{#gukov-math-cheap-lab .interpretation
+  parents="gukov-sparse-t5@paraphrased"}.
+
+:::
+
+## Transcript
+
+::: {#gukov-sparse-transcript .observation
+     parents="gukov-2026-sparse@faithful"
+     verification.transcript="https://www.youtube.com/live/i6OQ5Z3repA?t=28632"
+     confidence.textual=medium}
+
+[8:00:24] [So in case of fusion reactors it's a very [[sparse reward]] problem because we don't have a fusion reactor — the one which is working and that we like. It's a design that we're trying to invent. Same with airplanes. AI is used to design airplanes and then of course we can also deploy AI to fly airplanes, but it's another task where there are so many mission critical parts that all have to work together perfectly so you can board an airplane and be sure that you land safely. This again illustrates sparse reward and long horizon simultaneously because there are many steps, and sparse reward in the sense that yes when we design airplanes we try to test them, but how many Boeings can you design implementing what AI proposes? Maybe 300, maybe 3,000, but it's not going to be the size of the dataset that we like to have for typical data science tasks.
+
+[8:01:42] These challenges — sparse reward and long horizon — occur in many domains. I mentioned a couple; these are some others that we'll touch in the talk: coding, robotics, autonomous transportation, games (actually a very useful lesson), and algorithm discovery.
+
+[8:02:03] In many of these tasks the question is no longer whether AI can find the solution, because the answer is very simple: it can't. At least again if you're exploring something which is sparse reward. But the question becomes how can you really steer the process in the right direction. How do you reward it and how does it go in the right place?]{#gukov-sparse-t1 .observation}
+
+[8:02:36] With coding agents there has been a lot of success, for reasons that probably many of you experienced if you're trying to code or vibe code. They're getting better and better. But there are still big challenges associated with long horizon tasks. Some of the coding challenges are where you have to find a bug in a big repo which contains a bunch of files. The agent has to search through a bunch of files, find the exact place where it fails, and the signal — the reward — is yes or no, the bug is fixed or it's not fixed, and it's only a function of many many steps done right.
+
+[8:03:23] A couple of things that really helped in the recent past is some form of memory and also skills that allow you to absorb certain behavior or the right scenarios and package them in routines that can be deployed as individual steps.
+
+[8:04:11] This approach, even though it works to some extent, there are still challenges. Some of these coding challenges and benchmarks are only saturated, I don't know, 25% or so. There are still quite a few things associated with sparse reward and long horizon tasks, and things get even trickier in the physical AI domain.
+
+[8:04:34] When we talk about robotics this has already come up in several of the previous talks. You want to get signal back fast, and how much signal you get is already a challenge. Second, in the real world everything is kind of fuzzy. Sometimes even the way you collect the measurement is a little bit ambiguous. For this reason we don't even have good robots who can cook you a dinner tonight. The hand may be a little bit misaligned or shaking and all of these small tiny errors quickly accumulate and in the physical world it just gets worse and worse.
+
+[8:05:28] I personally am very excited about AI labs. Once we are able to close this loop of robotics plus providing really good feedback into AI and automating and making it fast, then hopefully we'll be doing real scientific experiments with almost no human in the loop. But again we are really far from that date.
+
+[8:06:03] Why am I telling all this? About seven years ago I switched my research from what at that time was quantum topology — this is some esoteric area of mathematics — into AI research, and since then I was very privileged to be part of several projects, some including AI companies. At Caltech where I am, I run this Math AI lab which is focused on mathematical reasoning. It is exactly focused on the last sentence: we are super focused on [[sparse reward]] long horizon tasks. We're trying to design new algorithms, new architectures to unlock some of these challenges. We don't care about anything else. We just care about long horizon sparse rewards. That's it. And this is important for mathematics, and the goal of the talk is to explain why and how.
+
+[8:07:21] Another thing I want to point out is that when the lab was created we had this sort of motto that math plus AI equals AGI. This was five years ago. Now I probably should have it as math plus AI equals ASI — artificial super intelligence. Why? Because achieving this exploration and out-of-distribution generalization is exactly what artificial general or maybe super intelligence needs to reason outside of the box.
+
+[8:07:57] Speaking of mathematics, it's important to clarify there are of course different types of mathematics and different levels of difficulty and hierarchy — going from various stages in school to math competitions, then undergraduate, graduate level math, and so on. General purpose LLM-based tools actually move really well through this hierarchy; roughly every year or two you get from one stage to the next. The question is whether it's going to continue and how far. Where I put the green line is actually where I would like the progress to be. This is kind of the hardest level of mathematics which contains all the hardest challenges that many professional mathematicians cannot solve no matter how hard we try. It usually takes many years and bright minds to get to these problems.
+
+[8:09:19] One obvious challenge is that we don't have much training data for those kinds of problems. For example, for the human hypothesis, we have lots of papers that look convincing and unfortunately are riddled with mistakes or errors of various kinds, but we don't have a single correct solution. There is nothing to train on. This problem is exactly the same as designing a fusion reactor — we just don't have a single data point. So it has to figure it out on its own.
+
+[8:09:45] I am convinced that AI can help me as a professional mathematician scientist to improve my research by say 10x, 100x, thousandx. The question I want to ask is can it actually outperform me completely, be way better than me? That's what we're doing — we're designing those kinds of algorithms and architectures. It's kind of interesting that I'm trying to replace myself as a human mathematician. The natural question is why am I doing this? More serious answer: maybe it's similar to what Steve Jobs said when they were designing a graphic user interface and somebody asked him, "Steve, if we undertake this task it's going to blow up the company," and his answer was "it's better we do than somebody else to us." So I feel that maybe by working on this we get better understanding of actually how the systems work, how to safeguard them, and many other important questions.
+
+[8:10:52] Why is [[sparse reward]] long horizon relevant to mathematics or the hardest challenges in mathematics? This is one problem about coloring of graphs that goes by the name of understanding and computing Ramsey numbers. Here the combinatorial explosion of the problem — which can be phrased as a two-player game with two players coloring a graph in red and blue and there are certain conditions they want to meet in order to win — very quickly as the size of the graph grows, complexity of the problem explodes combinatorially so fast that in order to answer the next interesting question you have to search a space which is of the size of 10 to the 26.
+
+[8:12:23] Erdos, who actually thought about this problem, said that if aliens come to earth and give us an ultimatum that either we have to provide the next Ramsey number or they wipe us out — if they ask about R(5,5), the number which is currently unknown where we only know some bounds, then we should gather everybody on earth and work on this. But if they come and ask about R(6,6), which is the next number, we should just surrender. Again this is just an illustration of the astronomical complexity that happens here.
+
+[8:13:02] [So this is actually a problem that I do know how to solve. Another hard interesting math problem that came from the same area or a close cousin: in combinatorics there is this HSK conjecture which was a big deal about a decade ago; it was solved by Santos. But then David Eisenbud, a colleague of mine who used to be director at MSRI, visited us and we started talking and he suggested there is an analog of this problem in commutative algebra which is his area of mathematics, which is kind of similar to the Hirsch conjecture. He called it the algebraic version of the Hirsch conjecture, and here one wants to find instances in commutative algebra which satisfy two conditions: it should be a monomial ideal of large diameter (a property very similar to the original Hirsch conjecture) and it should be linear. Each one individually is fairly easy to satisfy, but once you ask about both it again becomes a needle-in-a-haystack type search as with Ramsey numbers.
+
+[8:14:34] Unlike the previous one, we actually did manage to solve it. It was a very non-trivial endeavor and was eventually published at ICML. The reason we publish in computer science journals even though eventually the result is a theorem and it's an exciting mathematical result is that with AI it requires developing a lot of new AI to actually solve it.]{#gukov-sparse-t2 .observation}
+
+[8:15:11] Some of the key features of AI algorithms involve this feedback loop from which an agent learns. [[Reinforcement learning]] is really a good model for how these algorithms are developed and how they work. But reinforcement learning is also usually a key part whether you talk about LLM post-training and alignment, or if you formulate your task as a game — as I mentioned, some of the mathematical problems have this feature already built in. Still, reinforcement learning is a really good way to think about or how to approach the problem. Agent interacts with environment, collects rewards, and improves the behavior.
+
+[8:16:15] [When we teach reinforcement learning courses in CS, we usually start with this algorithm called DQN — it stands for deep Q-network. It's a deep network version of the basic classic Q-learning algorithm. It came from DeepMind in 2013. What they were doing at the time — nicely described in the movie about DeepMind and Demis Hassabis — they were trying to learn how to play an Atari game from pixels, just from pixelated screens. Nothing worked; they tried for many months and then finally came up with this algorithm which now is again the very basic version of RL, and it played quite well.
+
+[8:17:22] The story is actually interesting. It played well on most of the games, but there are some where it miserably failed. One game sits right at the bottom. To me personally, it's not a special game at all. It's called [[Montezuma's Revenge]]. It got exactly zero score. It means that the agent — this DQN algorithm, which actually performed pretty well on everything else — didn't manage to succeed at all on this game. It never got a single point. It was pretty miserable.
+
+[8:18:11] In the reinforcement learning community, this became an obsession. The question became: how do we develop an AI algorithm that actually can produce some progress on this game? I mentioned that games actually are good examples of this long horizon task. This became a whole era of exploration which spanned almost a whole decade. By AI standards this is a lot. Many teams tried and failed to design AI algorithms that would actually produce something meaningful on this game, which is a simple — by now it's a simple — example of an exploration game.
+
+[8:19:13] People tried versions of DQN. For example, C-51, still on the bottom — got almost no score — is a very interesting new algorithm that produced what's called distributional reinforcement learning. This is where instead of a mean signal you actually collect the whole distribution. In many tasks it works, but here it wasn't very successful. There are many other things: Rainbow was a version of C-51 with lots of other things packaged inside. Impala is a very cool thing — a distributed actor-critic model. By that time we're already talking about something around 2018. A2C, A3C were popular algorithms in reinforcement learning and Impala is a version of that on steroids. And finally there is one point which actually sits above human average level: random network distillation. That finally got above human in Montezuma's Revenge, which is a pretty simple game — you have to go around the room, collect the key, climb some ladder, and exit the room. Not such a big deal, but again for AI this was an interesting story.
+
+[8:20:37] A little bit later, about a year or so, there was this interesting algorithm [[Go-Explore]], which finally managed to overcome not just average human level of performance but expert human level of performance on this game Montezuma's Revenge. What this illustrates is that people tried and this was hard. Go-Explore is based on exploration and it's not just naive exploration where you try to reward curiosity or something that hasn't been seen before — because if your search space is huge, everything has never been seen before. The question is how do you actually collect these rewards?
+
+[8:21:26] [[Go-Explore]] is not just a result of a lot of experimentation. They had to analyze what failed in every previous attempt and they identified two critical features: detachment and derailment of many of the previous systems. This is where AI tries to explore potential candidates and goes for a very long path in trying to figure out if this is a promising branch of the search tree. But in many cases it actually forgets that it needs to go back and restart. These are some of the problems that occurred in the previous models, and the authors of Go-Explore realized that this is something they needed to fix.
+
+[8:22:07] To me this is also a good illustration of actually how it works with such hard problems. I mentioned to you the problem in commutative algebra that we managed to solve, brought to us by David Eisenbud, and the search was exactly the same. We had to try fifty if not a hundred different algorithms and architectures, never mind hyperparameter sweeps, before something actually worked. This illustrates the work of our lab, which I don't think is very different from any AI research lab, where you go through the cycle of developing AI, then deploying it, testing it, and the important step is analyzing what works and in our case what doesn't, because most of the things don't work. My job as head of the lab is actually to encourage everybody in the lab that yes we should try again, that failure is the default, what we expect. Nothing works and our job is to repeat it 50 times and 100 times sometimes before we find something that actually works.]{#gukov-sparse-t3 .observation}
+
+[8:25:10] [The last problem I'll mention is another big famous math problem called [[Andrews conjecture|Andrews's conjecture]], on which we recently managed to make progress precisely through this process of trial and error and experimentation. I should say that I hope in the future I don't even need to be in the loop — that the cycle of analyzing what fails and how to improve it could be done fully autonomously. But again now it's still a sparse reward problem that AI cannot fully do it itself in this particular case.
+
+[8:25:50] This [[Andrews conjecture|Andrews's conjecture]] is from group theory — another area of mathematics — and it's asking if every so-called balanced presentation of a trivial group, like an example written on the top of the slide, can be connected to the most boring naive presentation of a trivial group via certain moves. The set of moves is very small and it's a search problem on an abstract graph, and the mathematical question is asking if this graph is connected. So in other words, if you can reach from every point any other point on the graph. It's not known, not solved.
+
+[8:26:29] It took us almost two years to actually understand through again this experimentation what's wrong — why this problem is so challenging in particular for AI. As it often happens, one of the most important things for AI is of course data. In many of these mathematical questions we're talking about abstract math and we can easily generate data through a synthetic process. But the issue here, which we actually didn't recognize and mathematically was not known — so part of the progress here is exactly the structure of the data — is that many examples that you can generate synthetically belong to this easy pile from which you don't actually learn anything interesting, whereas mathematically challenging counterexamples that you'd like to resolve belong to a completely different pile and there is nothing in between. Once you see this picture in your head you immediately know what to do, how to correct it: you have to fill this missing middle, and then you make progress.]{#gukov-sparse-t4 .observation}
+
+[8:27:45] Eventually again in this paper we also end with some theorems which are pretty cool mathematically. But the way it comes out is by understanding what your problem is. This problem is from group theory, and group theory is about symmetries in mathematics, and you can compare pretty much every problem in group theory to some version of Rubik's cube, which is about symmetries and non-commutative structures. In particular this conjecture is a sort of fancy version of Rubik's cube, which is also an interesting game for AI — except that in Rubik's cube every configuration can be connected to the goal state (the perfectly colored six sides) in less than 20 steps. In this [[Andrews conjecture|Andrews's conjecture]] it's a version of Rubik's cube where this path can be exponentially or super exponentially long. In fact the conjecture itself is asking whether this is possible, whether every configuration can become connected to the goal state.
+
+[8:28:49] Also in Rubik's cube it's easy to start training by essentially scrambling, and that's good enough. But for me, this is only the analog of the easy pile of data. As I showed on the previous slide, we have this bimodal distribution unfortunately, and just random scrambling is not producing good starting states for this problem. And finally, Rubik's cube is a search problem on a finite graph of possible states, whereas in this context it's a search on an infinite and not explicitly presented graph.
+
+[8:29:24] [The point I'm trying to make in this talk: with [[sparse reward]] and long horizon games, these are much harder than usual games even like chess and Go. A typical game of chess would be 30 to 40 moves; a game of Go could be a couple of thousand. But still these are very short and easy games compared to problems like this where you have to make millions and billions of steps and you go into millions of steps and you have no idea if you're on the right path or the wrong path. We immediately encounter this exploration problem or out-of-distribution generalization, where we somehow from a very small signal have to learn what's useful and what's interesting — to go not just 10 or 30% outside of the span of the training data but actually many many orders of magnitude away from the training data.
+
+[8:30:36] Current models don't do this well, whether you talk about LLM-based models or [[reinforcement learning]]. These are exactly the challenges that block us in many of these domains, and I personally believe these are the problems that block us in true reasoning of AI models.
+
+[8:31:00] Another phase of this problem: such [[sparse reward]] or small signal type feedback is essentially a search for a needle in a haystack, and usually it occurs when your distribution of data is very uneven in the sense that the generic case and extreme case are widely separated. That's another thing — in a game of chess the difference between an average game and the longest possible game is only one order of magnitude. But in these problems the extreme case could be many many orders of magnitude different in complexity or difficulty or reward, separated from the generic case. Therefore training on generic cases doesn't really teach you anything interesting about such cases of interest.
+
+[8:31:47] The problem I described is not really special to math. Yes it does occur in research level math very often, but what I'm really asking is how to teach AI to find needles in haystacks — unicorns, black swan events — where the probability is very small but the importance is very high. This of course occurs in extreme weather phenomena, in market crashes (that's where "black swan" is borrowed from), and in many other domains that I mentioned earlier.
+
+[8:32:24] By doing this research on math problems, we don't need any proprietary data either from healthcare or financial systems. We can study abstract math problems and use synthetic data for designing these algorithms. But utility hopefully could be much broader, applied to other domains. To paraphrase one of the famous mathematicians Vladimir Arnold: he said that mathematics is a part of physics where experiments are cheap — referring to large colliders that can cost a lot to do experimentation. Now I want to paraphrase by saying that mathematics could be viewed as a part of AI research where we don't need either expensive data or machinery.]{#gukov-sparse-t5 .observation} With that I want to close and thank you for your attention.
+
+:::
+
+## Loom nodes
+
+::: {#frontier-sparse-reward-discovery .frontier status=active}
+Sparse-reward, long-horizon AI for discovery: algorithms and architectures that learn from vanishingly rare success signals and generalize orders of magnitude beyond their training distribution, with research mathematics as the cheap synthetic testbed.
+:::
+
+::: {#gukov-ood-generalization .unknowledge status=open
+     parents=gukov-rare-event-unification
+     part_of=frontier-sparse-reward-discovery}
+How can models learn from very small signal and generalize not 10–30% but many orders of magnitude outside the span of their training data?
+:::
+
+::: {#gukov-transfer-question .unknowledge status=open
+     parents=gukov-math-cheap-lab
+     part_of=frontier-sparse-reward-discovery}
+Do algorithms developed on synthetic mathematical testbeds actually transfer to rare-event domains — extreme weather, market crashes — where the important cases are needles in haystacks?
+:::
+
+::: {#gukov-andrews-open .problem tense=timeless status=open
+     ref=andrews-conjecture}
+Can every balanced presentation of the trivial group be connected to the trivial presentation via the small set of moves — is the search graph connected? (Standing open problem; Gukov's lab made partial progress via the missing-middle data insight.)
+:::
+
+::: {#gukov-autonomous-loop .future_binding status=pending
+     target=future_ai_agents
+     trigger.capability="fully autonomous develop-deploy-test-analyze research cycle on sparse-reward mathematical problems"
+     trigger.test="an AI system makes progress on a research-level sparse-reward problem with no human in the failure-analysis loop"
+     parents="gukov-sparse-t4@paraphrased"}
+Gukov's stated hope that the cycle of analyzing what fails and improving the algorithm could one day run fully autonomously, without him in the loop. Resolutions should assert `resolves=gukov-autonomous-loop`.
+:::
